@@ -2,6 +2,9 @@
 
 footage/            Justin's own gameplay, pre-cropped to 1080x1920, no audio
                     wow_1..3.mp4 = WoW raid footage (use for WoW topics); fortnite_1..3, league_1 = generic
+                    irsa_1..3.mp4 = Justin's own game Shards of Irsa (FFX-style CTB), for Final Fantasy,
+                    Kingdom Hearts, Fire Emblem and Zelda topics; credit line baked in; rebuilt by
+                    pipeline/irsa_footage.sh (renders pipeline/irsa_reel.gd with Godot's movie maker)
 pipeline/voice_ref.wav (Justin) and voice_ref_leigh.wav (Leigh): Chatterbox clone references; job "voice": "justin"|"leigh"
 pipeline/voice_ref*.wav   20 s of Justin's voice used as the Chatterbox clone reference
 pipeline/make_video.py    job JSON -> mp4 (Chatterbox narration per sentence, whisper-verified, ffmpeg build)
