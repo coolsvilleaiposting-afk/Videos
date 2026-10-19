@@ -215,7 +215,7 @@ def build_video(job, sents, timings, wav, work, out):
     cmd = ["ffmpeg", "-y", "-v", "error", *loop, "-ss", str(off), "-t", f"{total + 1:.2f}", "-i", clip, "-i", wav,
            "-stream_loop", "-1", "-i", music,
            "-filter_complex", fc, "-map", "[v]", "-map", "[a]", "-c:v", "libx264", "-preset", "veryfast", "-crf", "21",
-           "-pix_fmt", "yuv420p", "-r", str(FPS), "-c:a", "aac", "-b:a", "192k", "-t", f"{total:.2f}",
+           "-pix_fmt", "yuv420p", "-r", str(FPS), "-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-ac", "2", "-t", f"{total:.2f}",
            "-movflags", "+faststart", out]
     subprocess.run(cmd, check=True)
     return D
