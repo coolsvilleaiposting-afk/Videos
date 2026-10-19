@@ -1,0 +1,109 @@
+{
+ "fetched": "2026-10-19",
+ "channel_id": "UCvqNyI3jmHN1doZ2xCeEsIg",
+ "range": [
+  "2026-09-01",
+  "2026-10-19"
+ ],
+ "columns": [
+  "video",
+  "views",
+  "engagedViews",
+  "estimatedMinutesWatched",
+  "averageViewPercentage",
+  "averageViewDuration",
+  "likes",
+  "comments",
+  "shares",
+  "subscribersGained"
+ ],
+ "rows": [
+  [
+   "HNTk9Sh5qZ4",
+   434,
+   179,
+   42,
+   36.62,
+   12,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "BEXsWGCPjsI",
+   190,
+   38,
+   10,
+   32.89,
+   10,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "a0De8ugRUAs",
+   24,
+   9,
+   3,
+   68.03,
+   23,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "qf0PCs97i4w",
+   8,
+   4,
+   1,
+   63.83,
+   24,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "y1byWKq_Uu0",
+   8,
+   3,
+   0,
+   47.22,
+   14,
+   0,
+   0,
+   0,
+   0
+  ]
+ ],
+ "titles": {
+  "qf0PCs97i4w": {
+   "title": "Aerith Was Supposed to Hurt",
+   "hashtags": "#finalfantasy #ff7 #finalfantasyvii #aerith #squareenix",
+   "published": "2026-09-12"
+  },
+  "HNTk9Sh5qZ4": {
+   "title": "Why It's Called Final Fantasy",
+   "hashtags": "#finalfantasy #squareenix #jrpg",
+   "published": "2026-09-10"
+  },
+  "y1byWKq_Uu0": {
+   "title": "WoW Had More Players Than Sweden",
+   "hashtags": "#worldofwarcraft #wow #cataclysm #blizzard",
+   "published": "2026-09-12"
+  },
+  "a0De8ugRUAs": {
+   "title": "OSRS Exists Because of a Vote",
+   "hashtags": "#osrs #oldschoolrunescape #runescape #jagex",
+   "published": "2026-09-12"
+  },
+  "BEXsWGCPjsI": {
+   "title": "Fire Emblem Only Came West Because of Smash",
+   "hashtags": "#fireemblem #smashbros #nintendo",
+   "published": "2026-09-10"
+  }
+ }
+}

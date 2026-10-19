@@ -42,12 +42,14 @@ def commit_video(video, job, publish_at):
     name = os.path.basename(video)
     dest = os.path.join(REPO, name)
     # analytics.py writes pipeline/analytics.json before publishing; carry it across the reset
-    an = os.path.join(REPO, "pipeline", "analytics.json")
-    an_bytes = open(an, "rb").read() if os.path.exists(an) else None
+    keep = {}
+    for f in ("pipeline/analytics.json", "pipeline/youtube_stats.json"):
+        fp = os.path.join(REPO, f)
+        if os.path.exists(fp): keep[f] = open(fp, "rb").read()
     git("fetch", "origin", "main")
     git("reset", "--hard", "origin/main")   # keep queue.json current before editing
-    if an_bytes is not None:
-        open(an, "wb").write(an_bytes)
+    for f, b in keep.items():
+        open(os.path.join(REPO, f), "wb").write(b)
     if os.path.abspath(video) != dest:
         subprocess.run(["cp", video, dest], check=True)
     q = json.load(open(os.path.join(REPO, "queue.json")))
@@ -61,8 +63,8 @@ def commit_video(video, job, publish_at):
     u.append({"slug": job["slug"], "series": job["series"], "title": job["title"], "publish_at": publish_at})
     json.dump(u, open(used, "w"), indent=1)
     git("add", name, "queue.json", "pipeline/topics_used.json")
-    if an_bytes is not None:
-        git("add", "pipeline/analytics.json")
+    for f in keep:
+        git("add", f)
     git("-c", "user.email=coolsvilleaiposting@gmail.com", "-c", "user.name=Coolsville Crossings",
         "commit", "-q", "-m", f"Add {job['slug']} for {publish_at}")
     for attempt in range(4):

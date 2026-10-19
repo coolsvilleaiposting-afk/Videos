@@ -65,7 +65,33 @@ def collect():
                 "engagement_rate": a.get("engagementRate") or 0,
             })
     accounts = {a["platform"]: a.get("followersCount") for a in d.get("accounts", [])}
+    rows += youtube_rows()
     return rows, accounts
+
+def youtube_rows():
+    """pipeline/youtube_stats.json is written by the daily task from vidIQ (vidiq_channel_analytics
+    report=top_videos, plus vidiq_get_videos_by_ids for titles of ids not yet in "titles")."""
+    path = os.path.join(HERE, "youtube_stats.json")
+    if not os.path.exists(path): return []
+    y = json.load(open(path))
+    cols = y["columns"]; titles = y.get("titles", {})
+    rows = []
+    for r in y["rows"]:
+        m = dict(zip(cols, r))
+        t = titles.get(m["video"], {})
+        text = (t.get("title", "") + " " + t.get("hashtags", "")).strip()
+        if not text: continue   # untitled ids can't be classified; the task fills titles in
+        rows.append({
+            "post_id": m["video"], "platform": "youtube", "series": series_of(text),
+            "published": t.get("published", ""), "hook": t.get("title", "")[:90],
+            "views": m.get("engagedViews") or m.get("views") or 0, "likes": m.get("likes") or 0,
+            "comments": m.get("comments") or 0, "shares": m.get("shares") or 0, "saves": 0,
+            "follows": m.get("subscribersGained") or 0,
+            "completion": (m.get("averageViewPercentage") or 0) / 100,
+            "avg_watch_ms": (m.get("averageViewDuration") or 0) * 1000,
+            "engagement_rate": 0,
+        })
+    return rows
 
 def summarize(rows):
     # TikTok is the platform with real reach so far; Instagram is tracked but weighted lightly.
@@ -85,7 +111,11 @@ def summarize(rows):
             "avg_watch_s": round(st.mean([r["avg_watch_ms"] for r in base]) / 1000, 1),
             "follows": sum(r["follows"] for r in base),
             "ig_median_views": int(st.median([r["views"] for r in rs if r["platform"] == "instagram"] or [0])),
+            "yt_posts": len([r for r in rs if r["platform"] == "youtube"]),
+            "yt_median_views": int(st.median([r["views"] for r in rs if r["platform"] == "youtube"] or [0])),
         }
+    yt_all = [r["views"] for r in rows if r["platform"] == "youtube"]
+    yt_med = max(st.median(yt_all), 1) if yt_all else None
     # score = views relative to channel median, nudged by engagement and watch time
     all_views = [r["views"] for r in rows if r["platform"] == "tiktok"] or [1]
     chan_med = max(st.median(all_views), 1)
@@ -95,6 +125,9 @@ def summarize(rows):
             weights[s] = 1.0; continue
         m = summary[s]
         score = (m["median_views"] / chan_med) * (1 + 4 * m["engagement_per_view"]) * (1 + m["avg_watch_s"] / 20)
+        # YouTube nudges the TikTok-based score by up to +-15% once a series has 2+ Shorts with data
+        if yt_med and m["yt_posts"] >= MIN_POSTS_TO_TRUST:
+            score *= 0.85 + 0.3 * min(m["yt_median_views"] / yt_med, 1.0)
         weights[s] = round(min(max(score, 0.4), 3.0), 2)
     total = sum(weights.values())
     share = {s: round(w / total, 3) for s, w in weights.items()}
@@ -120,10 +153,10 @@ def main():
     json.dump({"generated": datetime.now(timezone.utc).isoformat(timespec="seconds"), "followers": accounts,
                "channel_median_tiktok_views": chan_med, "series": summary, "weights": weights, "share": share,
                "lessons": notes, "posts": rows}, open(OUT, "w"), indent=1)
-    print(f"{len(rows)} platform-posts, followers {accounts}, TikTok median views {chan_med:.0f}")
+    print(f"{len(rows)} platform-posts, followers {accounts}, TikTok median views {chan_med:.0f}, YouTube rows {sum(r['platform']=='youtube' for r in rows)}")
     for s in sorted(summary, key=lambda s: -weights.get(s, 1)):
         m = summary[s]
-        print(f"  {s:15} n={m['posts']} med={m['median_views']:5} eng={m['engagement_per_view']:.3f} watch={m['avg_watch_s']:4}s  weight={weights.get(s,1)}  share={share.get(s,0):.0%}")
+        print(f"  {s:15} n={m['posts']} med={m['median_views']:5} eng={m["engagement_per_view"]:.3f} watch={m["avg_watch_s"]:4}s yt={m["yt_median_views"]:4}  weight={weights.get(s,1)}  share={share.get(s,0):.0%}")
     for n in notes: print("-", n)
 
 if __name__ == "__main__":

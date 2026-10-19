@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T14:14:07+00:00",
+ "generated": "2026-10-19T14:23:56+00:00",
  "followers": {
   "instagram": 1,
   "tiktok": 16
@@ -13,7 +13,9 @@
    "engagement_per_view": 0.0835,
    "avg_watch_s": 6.8,
    "follows": 0,
-   "ig_median_views": 117
+   "ig_median_views": 117,
+   "yt_posts": 0,
+   "yt_median_views": 0
   },
   "Kingdom Hearts": {
    "posts": 2,
@@ -22,7 +24,9 @@
    "engagement_per_view": 0.028,
    "avg_watch_s": 7.7,
    "follows": 0,
-   "ig_median_views": 62
+   "ig_median_views": 62,
+   "yt_posts": 0,
+   "yt_median_views": 0
   },
   "Final Fantasy": {
    "posts": 2,
@@ -31,7 +35,9 @@
    "engagement_per_view": 0.0819,
    "avg_watch_s": 9.8,
    "follows": 1,
-   "ig_median_views": 152
+   "ig_median_views": 152,
+   "yt_posts": 2,
+   "yt_median_views": 91
   },
   "OSRS": {
    "posts": 2,
@@ -40,7 +46,9 @@
    "engagement_per_view": 0.0632,
    "avg_watch_s": 10.7,
    "follows": 2,
-   "ig_median_views": 112
+   "ig_median_views": 112,
+   "yt_posts": 1,
+   "yt_median_views": 9
   },
   "WoW": {
    "posts": 4,
@@ -49,7 +57,9 @@
    "engagement_per_view": 0.0889,
    "avg_watch_s": 10.2,
    "follows": 8,
-   "ig_median_views": 130
+   "ig_median_views": 130,
+   "yt_posts": 1,
+   "yt_median_views": 3
   },
   "Fire Emblem": {
    "posts": 1,
@@ -58,7 +68,9 @@
    "engagement_per_view": 0.0619,
    "avg_watch_s": 5.7,
    "follows": 0,
-   "ig_median_views": 69
+   "ig_median_views": 69,
+   "yt_posts": 1,
+   "yt_median_views": 38
   },
   "Zelda": {
    "posts": 2,
@@ -67,29 +79,31 @@
    "engagement_per_view": 0.0811,
    "avg_watch_s": 9.1,
    "follows": 2,
-   "ig_median_views": 0
+   "ig_median_views": 0,
+   "yt_posts": 0,
+   "yt_median_views": 0
   }
  },
  "weights": {
   "WoW": 3.0,
   "OSRS": 3.0,
-  "Final Fantasy": 2.16,
+  "Final Fantasy": 2.48,
   "Kingdom Hearts": 1.18,
   "Zelda": 2.89,
   "Fire Emblem": 1.0,
   "Resident Evil": 1.4
  },
  "share": {
-  "WoW": 0.205,
-  "OSRS": 0.205,
-  "Final Fantasy": 0.148,
-  "Kingdom Hearts": 0.081,
-  "Zelda": 0.198,
-  "Fire Emblem": 0.068,
-  "Resident Evil": 0.096
+  "WoW": 0.201,
+  "OSRS": 0.201,
+  "Final Fantasy": 0.166,
+  "Kingdom Hearts": 0.079,
+  "Zelda": 0.193,
+  "Fire Emblem": 0.067,
+  "Resident Evil": 0.094
  },
  "lessons": [
-  "Series ranked by weight: WoW 20%, OSRS 20%, Zelda 20%, Final Fantasy 15%, Resident Evil 10%, Kingdom Hearts 8%, Fire Emblem 7%",
+  "Series ranked by weight: WoW 20%, OSRS 20%, Zelda 19%, Final Fantasy 17%, Resident Evil 9%, Kingdom Hearts 8%, Fire Emblem 7%",
   "Top hooks: 1037v Nearly 450,000 people voted to bring a 2007 backup back online. Now it's bigger than the m | 987v A cartoon about grinding boars won a Primetime Emmy. Blizzard helped make it. What's your  | 981v He never beat the raid but Blizzard made him an achievement anyway. Do you still yell his ",
   "Weakest hooks: 266v It was supposed to be Square's last game. Instead it became one of the biggest franchises  | 259v WoW had a real pandemic in 2005 and it ended up in a medical journal. Did you play during  | 253v It started as a remake of a 1989 Famicom game based on a Japanese horror movie. Then Capco",
   "Best completion: 9% Nearly 450,000 people voted to bring a 2007 backup | 7% He never beat the raid but Blizzard made him an ac | 8% A 1998 game is still the highest rated of all time"
@@ -462,6 +476,86 @@
    "completion": 0.0438,
    "avg_watch_ms": 7760,
    "engagement_rate": 5.63
+  },
+  {
+   "post_id": "HNTk9Sh5qZ4",
+   "platform": "youtube",
+   "series": "Final Fantasy",
+   "published": "2026-09-10",
+   "hook": "Why It's Called Final Fantasy",
+   "views": 179,
+   "likes": 2,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0.36619999999999997,
+   "avg_watch_ms": 12000,
+   "engagement_rate": 0
+  },
+  {
+   "post_id": "BEXsWGCPjsI",
+   "platform": "youtube",
+   "series": "Fire Emblem",
+   "published": "2026-09-10",
+   "hook": "Fire Emblem Only Came West Because of Smash",
+   "views": 38,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0.3289,
+   "avg_watch_ms": 10000,
+   "engagement_rate": 0
+  },
+  {
+   "post_id": "a0De8ugRUAs",
+   "platform": "youtube",
+   "series": "OSRS",
+   "published": "2026-09-12",
+   "hook": "OSRS Exists Because of a Vote",
+   "views": 9,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0.6803,
+   "avg_watch_ms": 23000,
+   "engagement_rate": 0
+  },
+  {
+   "post_id": "qf0PCs97i4w",
+   "platform": "youtube",
+   "series": "Final Fantasy",
+   "published": "2026-09-12",
+   "hook": "Aerith Was Supposed to Hurt",
+   "views": 4,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0.6383,
+   "avg_watch_ms": 24000,
+   "engagement_rate": 0
+  },
+  {
+   "post_id": "y1byWKq_Uu0",
+   "platform": "youtube",
+   "series": "WoW",
+   "published": "2026-09-12",
+   "hook": "WoW Had More Players Than Sweden",
+   "views": 3,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0.4722,
+   "avg_watch_ms": 14000,
+   "engagement_rate": 0
   }
  ]
 }
