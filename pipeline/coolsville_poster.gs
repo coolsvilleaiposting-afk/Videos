@@ -27,9 +27,10 @@ function postQueue() {
     try {
       const blob = UrlFetchApp.fetch(item.video_url).getBlob().setName(id + '.mp4');
       const future = publishAt.getTime() > now.getTime() + 60 * 1000;
+      // containsSyntheticMedia = YouTube's "altered or synthetic content" disclosure (the narration is a voice clone)
       const status = future
-        ? {privacyStatus: 'private', publishAt: publishAt.toISOString(), selfDeclaredMadeForKids: false}
-        : {privacyStatus: 'public', selfDeclaredMadeForKids: false};
+        ? {privacyStatus: 'private', publishAt: publishAt.toISOString(), selfDeclaredMadeForKids: false, containsSyntheticMedia: true}
+        : {privacyStatus: 'public', selfDeclaredMadeForKids: false, containsSyntheticMedia: true};
       const res = YouTube.Videos.insert({
         snippet: {title: item.title, description: item.caption, categoryId: '20', tags: ['gaming history', 'did you know', 'shorts']},
         status: status

@@ -87,7 +87,7 @@ def schedule_zernio(job, url, publish_at):
         "platforms": [{"platform": p, "accountId": ids[p]} for p in ("tiktok", "instagram") if p in ids],
         "tiktokSettings": {"privacy_level": "PUBLIC_TO_EVERYONE", "allow_comment": True, "allow_duet": True,
                            "allow_stitch": True, "content_preview_confirmed": True, "express_consent_given": True,
-                           "media_type": "video", "video_made_with_ai": False},
+                           "media_type": "video", "video_made_with_ai": True},
         "scheduledFor": publish_at, "timezone": "America/Chicago",
     }
     r = zernio("POST", "/posts", body)
