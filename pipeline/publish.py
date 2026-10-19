@@ -86,8 +86,14 @@ def schedule_zernio(job, url, publish_at):
     body = {
         "content": caption(job), "title": job["title"],
         "mediaItems": [{"type": "video", "url": url, "mimeType": "video/mp4"}],
-        "platforms": [{"platform": p, "accountId": ids[p]} for p in ("tiktok", "instagram") if p in ids],
-        "tiktokSettings": {"privacy_level": "PUBLIC_TO_EVERYONE", "allow_comment": True, "allow_duet": True,
+        "platforms": [dict({"platform": p, "accountId": ids[p]},
+                           # TikTok: no link line (not clickable there, and links feed its spam filter)
+                           **({"customContent": f"{job['hook']}\n\n{job['hashtags']}"} if p == "tiktok" else {}))
+                      for p in ("tiktok", "instagram") if p in ids],
+        # TIKTOK_DRAFT=1 (default): TikTok gets the video in the Creator Inbox and Justin taps Post in the app.
+        # Set TIKTOK_DRAFT=0 to go back to direct posting once the account is clear of spam_risk rejections.
+        "tiktokSettings": {"draft": os.environ.get("TIKTOK_DRAFT", "1") != "0",
+                           "privacy_level": "PUBLIC_TO_EVERYONE", "allow_comment": True, "allow_duet": True,
                            "allow_stitch": True, "content_preview_confirmed": True, "express_consent_given": True,
                            "media_type": "video", "video_made_with_ai": True},
         "scheduledFor": publish_at, "timezone": "America/Chicago",
