@@ -5,6 +5,12 @@ pipeline/voice_ref*.wav   20 s of Justin's voice used as the Chatterbox clone re
 pipeline/make_video.py    job JSON -> mp4 (Chatterbox narration per sentence, whisper-verified, ffmpeg build)
 pipeline/publish.py       mp4 -> commit + queue.json (YouTube Apps Script) + Zernio (TikTok, Instagram)
 pipeline/jobs/            one JSON per video; pipeline/topics_used.json is the ledger of what has posted
+pipeline/make_music.py    regenerates footage/music_bed.m4a (synthesized in numpy, no licensing to worry about)
+pipeline/analytics.py     pulls Zernio post stats, writes pipeline/analytics.json + prints series weights
+
+Every build gets word-by-word highlight captions (ASS karaoke from the script words with whisper timings)
+and the music bed mixed at MUSIC_GAIN (0.16, about 19 dB under the voice). Change MUSIC_GAIN in make_video.py
+if the music ever competes with the narration.
 
 Setup on a fresh machine:
   pip install chatterbox-tts faster-whisper
