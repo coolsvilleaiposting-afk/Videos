@@ -220,7 +220,9 @@ def main(job_path, out_dir):
     work = f"/tmp/claude-0/cc_{slug}"
     os.makedirs(work, exist_ok=True); os.makedirs(out_dir, exist_ok=True)
     sents = sentences(job["script"])
-    ref = os.path.join(HERE, job.get("voice_ref", "voice_ref.wav"))
+    # job "voice": "justin" (default) or "leigh"; an explicit "voice_ref" file wins
+    VOICES = {"justin": "voice_ref.wav", "leigh": "voice_ref_leigh.wav"}
+    ref = os.path.join(HERE, job.get("voice_ref") or VOICES[job.get("voice", "justin").lower()])
     log(f"{slug}: {len(sents)} sentences, {len(job['script'].split())} words")
     takes = narrate(sents, work, ref)
     wav, timings = assemble_narration(takes, work)

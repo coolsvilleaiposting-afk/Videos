@@ -1,6 +1,8 @@
 # Coolsville Crossings pipeline
 
 footage/            Justin's own gameplay, pre-cropped to 1080x1920, no audio
+                    wow_1..3.mp4 = WoW raid footage (use for WoW topics); fortnite_1..3, league_1 = generic
+pipeline/voice_ref.wav (Justin) and voice_ref_leigh.wav (Leigh): Chatterbox clone references; job "voice": "justin"|"leigh"
 pipeline/voice_ref*.wav   20 s of Justin's voice used as the Chatterbox clone reference
 pipeline/make_video.py    job JSON -> mp4 (Chatterbox narration per sentence, whisper-verified, ffmpeg build)
 pipeline/publish.py       mp4 -> commit + queue.json (YouTube Apps Script) + Zernio (TikTok, Instagram)
