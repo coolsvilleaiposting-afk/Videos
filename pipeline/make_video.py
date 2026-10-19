@@ -161,10 +161,11 @@ def write_captions(sents, timings, path, accent):
              "Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding",
              f"Style: Cap,Poppins,80,&H00FFFFFF,&H00{acc_bgr},&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,5,3,5,60,60,0,1",
              "", "[Events]", "Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text"]
+    events = []
     for sent, tm in zip(sents, timings):
         words = script_words_timed(sent, tm)
         if not words:
-            lines.append(f"Dialogue: 0,{ass_time(tm['start'])},{ass_time(tm['end'])},Cap,,0,0,0,,{sent}")
+            events.append([tm['start'], tm['end'], sent])
             continue
         chunk = []
         for i, w in enumerate(words):
@@ -176,8 +177,13 @@ def write_captions(sents, timings, path, accent):
                     nxt = chunk[j + 1][0] if j + 1 < len(chunk) else end
                     cs = max(1, int(round((nxt - a) * 100)))
                     parts.append(f"{{\\k{cs}}}{txt}")
-                lines.append(f"Dialogue: 0,{ass_time(start)},{ass_time(end + 0.05)},Cap,,0,0,0,,{' '.join(parts)}")
+                events.append([start, end + 0.05, ' '.join(parts)])
                 chunk = []
+    # never let one caption line overlap the next (ASS would stack them)
+    for k in range(len(events) - 1):
+        events[k][1] = min(events[k][1], events[k + 1][0] - 0.01)
+    for a, b, txt in events:
+        lines.append(f"Dialogue: 0,{ass_time(a)},{ass_time(b)},Cap,,0,0,0,,{txt}")
     open(path, "w").write("\n".join(lines))
 
 def esc(s):
