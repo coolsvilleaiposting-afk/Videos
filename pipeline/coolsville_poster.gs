@@ -9,12 +9,25 @@ const LOG_TAB = 'Posted';
 const STALE_HOURS = 48;   // anything whose publish time is older than this is never uploaded
 const MAX_ATTEMPTS = 3;
 
+// Google's daily fetch quota: when it is used up, stop for this hour without counting an attempt.
+function isQuota_(msg) {
+  return /too many times|quota|Bandwidth|rate limit/i.test(String(msg));
+}
+
 function postQueue() {
   const log = logSheet_();
   const seen = seenIds_(log);
-  const queue = JSON.parse(UrlFetchApp.fetch(QUEUE_URL + '?t=' + Date.now(), {muteHttpExceptions: false}).getContentText());
+  let queue;
+  try {
+    queue = JSON.parse(UrlFetchApp.fetch(QUEUE_URL + '?t=' + Date.now(), {muteHttpExceptions: false}).getContentText());
+  } catch (e) {
+    if (isQuota_(e.message)) { console.log('quota used up, trying again next hour'); return; }
+    throw e;
+  }
   const now = new Date();
+  let stop = false;
   queue.forEach(function (item) {
+    if (stop) return;
     const id = String(item.id);
     const rec = seen[id];
     if (rec && (rec.videoId || rec.attempts >= MAX_ATTEMPTS || rec.status === 'stale')) return;
@@ -37,6 +50,7 @@ function postQueue() {
       }, 'snippet,status', blob);
       log.appendRow([id, item.title, item.publish_at, future ? 'scheduled' : 'published', res.id, attempts, new Date()]);
     } catch (e) {
+      if (isQuota_(e.message)) { stop = true; console.log('quota used up at ' + id); return; }
       log.appendRow([id, item.title, item.publish_at, 'error: ' + e.message, '', attempts, new Date()]);
     }
   });
@@ -58,6 +72,7 @@ function seenIds_(sh) {
   const out = {};
   for (let i = 1; i < rows.length; i++) {
     const id = String(rows[i][0]);
+    if (isQuota_(rows[i][3])) continue;   // quota failures never count against a video
     const prev = out[id] || {videoId: '', attempts: 0, status: ''};
     out[id] = {
       videoId: prev.videoId || String(rows[i][4] || ''),
