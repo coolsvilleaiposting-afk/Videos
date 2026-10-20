@@ -1,11 +1,22 @@
 {
- "generated": "2026-10-19T14:23:56+00:00",
+ "generated": "2026-10-20T09:15:13+00:00",
  "followers": {
   "instagram": 1,
   "tiktok": 16
  },
- "channel_median_tiktok_views": 404,
+ "channel_median_tiktok_views": 393.0,
  "series": {
+  "Other": {
+   "posts": 1,
+   "median_views": 12,
+   "mean_views": 12,
+   "engagement_per_view": 0.0,
+   "avg_watch_s": 2.4,
+   "follows": 0,
+   "ig_median_views": 0,
+   "yt_posts": 0,
+   "yt_median_views": 0
+  },
   "Resident Evil": {
    "posts": 2,
    "median_views": 317,
@@ -13,9 +24,31 @@
    "engagement_per_view": 0.0835,
    "avg_watch_s": 6.8,
    "follows": 0,
-   "ig_median_views": 117,
+   "ig_median_views": 950,
    "yt_posts": 0,
    "yt_median_views": 0
+  },
+  "Final Fantasy": {
+   "posts": 2,
+   "median_views": 441,
+   "mean_views": 441,
+   "engagement_per_view": 0.0819,
+   "avg_watch_s": 9.8,
+   "follows": 1,
+   "ig_median_views": 195,
+   "yt_posts": 2,
+   "yt_median_views": 91
+  },
+  "Fire Emblem": {
+   "posts": 1,
+   "median_views": 404,
+   "mean_views": 404,
+   "engagement_per_view": 0.0619,
+   "avg_watch_s": 5.7,
+   "follows": 0,
+   "ig_median_views": 324,
+   "yt_posts": 1,
+   "yt_median_views": 38
   },
   "Kingdom Hearts": {
    "posts": 2,
@@ -27,17 +60,6 @@
    "ig_median_views": 62,
    "yt_posts": 0,
    "yt_median_views": 0
-  },
-  "Final Fantasy": {
-   "posts": 2,
-   "median_views": 441,
-   "mean_views": 441,
-   "engagement_per_view": 0.0819,
-   "avg_watch_s": 9.8,
-   "follows": 1,
-   "ig_median_views": 152,
-   "yt_posts": 2,
-   "yt_median_views": 91
   },
   "OSRS": {
    "posts": 2,
@@ -61,17 +83,6 @@
    "yt_posts": 1,
    "yt_median_views": 3
   },
-  "Fire Emblem": {
-   "posts": 1,
-   "median_views": 404,
-   "mean_views": 404,
-   "engagement_per_view": 0.0619,
-   "avg_watch_s": 5.7,
-   "follows": 0,
-   "ig_median_views": 69,
-   "yt_posts": 1,
-   "yt_median_views": 38
-  },
   "Zelda": {
    "posts": 2,
    "median_views": 606,
@@ -87,28 +98,92 @@
  "weights": {
   "WoW": 3.0,
   "OSRS": 3.0,
-  "Final Fantasy": 2.48,
-  "Kingdom Hearts": 1.18,
-  "Zelda": 2.89,
+  "Final Fantasy": 2.55,
+  "Kingdom Hearts": 1.21,
+  "Zelda": 2.97,
   "Fire Emblem": 1.0,
-  "Resident Evil": 1.4
+  "Resident Evil": 1.44
  },
  "share": {
-  "WoW": 0.201,
-  "OSRS": 0.201,
-  "Final Fantasy": 0.166,
-  "Kingdom Hearts": 0.079,
-  "Zelda": 0.193,
-  "Fire Emblem": 0.067,
-  "Resident Evil": 0.094
+  "WoW": 0.198,
+  "OSRS": 0.198,
+  "Final Fantasy": 0.168,
+  "Kingdom Hearts": 0.08,
+  "Zelda": 0.196,
+  "Fire Emblem": 0.066,
+  "Resident Evil": 0.095
  },
  "lessons": [
-  "Series ranked by weight: WoW 20%, OSRS 20%, Zelda 19%, Final Fantasy 17%, Resident Evil 9%, Kingdom Hearts 8%, Fire Emblem 7%",
+  "Series ranked by weight: WoW 20%, OSRS 20%, Zelda 20%, Final Fantasy 17%, Resident Evil 10%, Kingdom Hearts 8%, Fire Emblem 7%",
   "Top hooks: 1037v Nearly 450,000 people voted to bring a 2007 backup back online. Now it's bigger than the m | 987v A cartoon about grinding boars won a Primetime Emmy. Blizzard helped make it. What's your  | 981v He never beat the raid but Blizzard made him an achievement anyway. Do you still yell his ",
-  "Weakest hooks: 266v It was supposed to be Square's last game. Instead it became one of the biggest franchises  | 259v WoW had a real pandemic in 2005 and it ended up in a medical journal. Did you play during  | 253v It started as a remake of a 1989 Famicom game based on a Japanese horror movie. Then Capco",
+  "Weakest hooks: 259v WoW had a real pandemic in 2005 and it ended up in a medical journal. Did you play during  | 253v It started as a remake of a 1989 Famicom game based on a Japanese horror movie. Then Capco | 12v ",
   "Best completion: 9% Nearly 450,000 people voted to bring a 2007 backup | 7% He never beat the raid but Blizzard made him an ac | 8% A 1998 game is still the highest rated of all time"
  ],
  "posts": [
+  {
+   "post_id": "6ad6bac444b2dee15c822599",
+   "platform": "tiktok",
+   "series": "Other",
+   "published": "2026-10-20",
+   "hook": "",
+   "views": 12,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 2420,
+   "engagement_rate": 0
+  },
+  {
+   "post_id": "6ad6ba846e82c08c3e2a66a7",
+   "platform": "instagram",
+   "series": "Resident Evil",
+   "published": "2026-10-19",
+   "hook": "In Japan the series has never once been called Resident Evil. The real name was blocked in",
+   "views": 1784,
+   "likes": 20,
+   "comments": 0,
+   "shares": 5,
+   "saves": 3,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 20901,
+   "engagement_rate": 1.57
+  },
+  {
+   "post_id": "6ad67101988e6d65b31ebc17",
+   "platform": "instagram",
+   "series": "Final Fantasy",
+   "published": "2026-10-19",
+   "hook": "They ended the old game with a live apocalypse and rebuilt the whole thing from scratch. W",
+   "views": 197,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 1,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 7999,
+   "engagement_rate": 0.51
+  },
+  {
+   "post_id": "6ad64c6dfc68bb9bd280500b",
+   "platform": "instagram",
+   "series": "Fire Emblem",
+   "published": "2026-10-19",
+   "hook": "250,000 copies or the series was dead. It sold nearly two million. Who did you marry in Aw",
+   "views": 579,
+   "likes": 7,
+   "comments": 0,
+   "shares": 2,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 10997,
+   "engagement_rate": 1.55
+  },
   {
    "post_id": "6ad6114dc15addba9ff1608e",
    "platform": "tiktok",
