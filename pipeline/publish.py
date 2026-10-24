@@ -13,8 +13,15 @@ RAW = "https://raw.githubusercontent.com/coolsvilleaiposting-afk/Videos/main/"
 LINK = "More gaming history: linktr.ee/coolsvillecrossings"
 ZBASE = "https://zernio.com/api/v1"
 
+MAX_TAGS = 5   # TikTok and Instagram both cap a caption at five hashtags
+
+
+def tags(job):
+    return " ".join(job["hashtags"].split()[:MAX_TAGS])
+
+
 def caption(job):
-    return f"{job['hook']}\n\n{LINK}\n\n{job['hashtags']}"
+    return f"{job['hook']}\n\n{LINK}\n\n{tags(job)}"
 
 def zernio(method, path, body=None):
     key = os.environ["ZERNIO_API_KEY"]
@@ -88,7 +95,7 @@ def schedule_zernio(job, url, publish_at):
         "mediaItems": [{"type": "video", "url": url, "mimeType": "video/mp4"}],
         "platforms": [dict({"platform": p, "accountId": ids[p]},
                            # TikTok: no link line (not clickable there, and links feed its spam filter)
-                           **({"customContent": f"{job['hook']}\n\n{job['hashtags']}"} if p == "tiktok" else {}))
+                           **({"customContent": f"{job['hook']}\n\n{tags(job)}"} if p == "tiktok" else {}))
                       for p in ("tiktok", "instagram") if p in ids],
         # TIKTOK_DRAFT=1 (default): TikTok gets the video in the Creator Inbox and Justin taps Post in the app.
         # Set TIKTOK_DRAFT=0 to go back to direct posting once the account is clear of spam_risk rejections.
