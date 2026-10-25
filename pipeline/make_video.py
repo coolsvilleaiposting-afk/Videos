@@ -232,6 +232,10 @@ def main(job_path, out_dir):
     log(f"{slug}: {len(sents)} sentences, {len(job['script'].split())} words")
     takes = narrate(sents, work, ref)
     wav, timings = assemble_narration(takes, work)
+    # free the TTS and whisper models before ffmpeg runs: with both loaded the build was OOM-killed on a 7 GB box
+    global _tts, _asr
+    _tts = _asr = None
+    import gc; gc.collect()
     out = os.path.join(out_dir, f"{slug}.mp4")
     D = build_video(job, sents, timings, wav, work, out)
     report = {"slug": slug, "duration": round(D, 1), "sentences": [
