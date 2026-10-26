@@ -1,9 +1,9 @@
 {
- "fetched": "2026-10-22",
+ "fetched": "2026-10-26",
  "channel_id": "UCvqNyI3jmHN1doZ2xCeEsIg",
  "range": [
-  "2026-09-24",
-  "2026-10-22"
+  "2026-09-28",
+  "2026-10-26"
  ],
  "columns": [
   "video",
@@ -19,12 +19,132 @@
  ],
  "rows": [
   [
+   "1L1OZAS5D8Y",
+   6,
+   2,
+   46,
+   2099.11,
+   1406,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
    "qf0PCs97i4w",
+   5,
+   1,
+   2,
+   392.56,
+   153,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "9TRvKKv4O7o",
+   5,
+   2,
+   2,
+   98.01,
+   72,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "qdsixZ70Tb8",
+   3,
+   2,
+   2,
+   99.68,
+   67,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "a0De8ugRUAs",
+   3,
+   1,
+   1,
+   271.75,
+   95,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "y1byWKq_Uu0",
+   2,
+   1,
+   0,
+   117.52,
+   35,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "BEXsWGCPjsI",
+   2,
+   1,
+   0,
+   107.15999999999998,
+   35,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "HNTk9Sh5qZ4",
+   2,
+   1,
+   0,
+   100.12,
+   33,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "fSQH0kuQM9k",
    1,
    0,
    0,
    0,
    0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "uMdcu5MMO14",
+   1,
+   1,
+   0,
+   16.32,
+   10,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "ZQW_BegNOfc",
+   1,
+   1,
+   1,
+   97.06,
+   64,
    0,
    0,
    0,
@@ -56,6 +176,36 @@
    "title": "Fire Emblem Only Came West Because of Smash",
    "hashtags": "#fireemblem #smashbros #nintendo",
    "published": "2026-09-10"
+  },
+  "uMdcu5MMO14": {
+   "title": "RuneScape Began as a Game That Broke at Ten Players",
+   "hashtags": "#osrs #runescape #oldschoolrunescape #jagex #mmo #gaminghistory #didyouknow #retrogaming",
+   "published": "2026-10-20"
+  },
+  "ZQW_BegNOfc": {
+   "title": "WoW's Rested XP Started as a Punishment",
+   "hashtags": "#wow #worldofwarcraft #blizzard #restedxp #wowclassic #mmo #gaminghistory #didyouknow",
+   "published": "2026-10-22"
+  },
+  "9TRvKKv4O7o": {
+   "title": "Disney Gave Kingdom Hearts One Scene With Mickey",
+   "hashtags": "#kingdomhearts #mickeymouse #sora #squareenix #disney #gaminghistory #didyouknow #ps2",
+   "published": "2026-10-21"
+  },
+  "fSQH0kuQM9k": {
+   "title": "RuneScape Deleted the Wilderness for Three Years",
+   "hashtags": "#osrs #runescape #oldschoolrunescape #wilderness #jagex #pvp #gaminghistory #didyouknow",
+   "published": "2026-10-21"
+  },
+  "1L1OZAS5D8Y": {
+   "title": "Why Resident Evil Isn't Called Biohazard",
+   "hashtags": "#residentevil #biohazard #capcom #survivalhorror #gaminghistory #didyouknow #horrorgames #gaming",
+   "published": "2026-10-20"
+  },
+  "qdsixZ70Tb8": {
+   "title": "Breath of the Wild Was Prototyped as an NES Game",
+   "hashtags": "#zelda #breathofthewild #nintendo #botw #gamedev #gaminghistory #didyouknow",
+   "published": "2026-10-20"
   }
  }
 }
