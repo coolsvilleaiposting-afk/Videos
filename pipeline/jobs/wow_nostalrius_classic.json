@@ -1,0 +1,31 @@
+{
+ "slug": "wow_nostalrius_classic",
+ "series": "WORLD OF WARCRAFT",
+ "accent": "#f0b323",
+ "deep": "#2a1a03",
+ "voice": "leigh",
+ "footage": "wow_3.mp4",
+ "footage_offset": 12,
+ "title": "Blizzard Shut Down a Fan Server. Then It Built WoW Classic.",
+ "hook": "In 2016 Blizzard shut down Nostalrius, a fan-run vanilla WoW server with over 800,000 accounts, and a 200,000-signature petition followed. Three years later Blizzard shipped WoW Classic itself. Did you play Nostalrius, or did you wait for the official servers?",
+ "hashtags": "#wow #gaminghistory #wowclassic #nostalrius #blizzard",
+ "sources": [
+  "https://www.pcgamer.com/this-is-how-blizzard-plans-to-finally-bring-back-vanilla-wow-servers/ (Brack's 2013 'You think you do, but you don't'; Classic announced BlizzCon 2017; Blizzard met Nostalrius team in 2016)",
+  "https://www.gamespot.com/articles/wow-classic-is-still-growing-and-players-cant-get-enough/1100-6521800/ (Brack quote at BlizzCon 2013)",
+  "https://www.gamespot.com/articles/blizzard-shuts-down-pirate-wow-server-that-doesnt-/1100-6438635 (Nostalrius 800,000 accounts, 150,000 active, C&D, offline April 10 2016)",
+  "https://gameinformer.com/b/news/archive/2016/04/07/blizzard-issues-cease-and-desist-to-unauthorized-wow-vanilla-server.aspx (C&D from Blizzard's attorneys, shutdown April 10, account figures per Nostalrius)",
+  "https://www.pcgamer.com/blizzard-speaks-out-about-nostalrius-shutdown/ (Brack's official reply: in contact with Nostalrius operators)",
+  "https://blizzardwatch.com/2016/04/26/blizzards-j-allen-brack-responds-legacy-servers-nostalrius/ (Brack's forum post reproduced verbatim)",
+  "https://www.pcgamer.com/nostalrius-petition-passes-200k-signatures-mark-kern-to-deliver-it/ (petition passed 200,000 signatures)",
+  "https://www.gamespot.com/articles/blizzard-wants-world-of-warcraft-legacy-servers-sa/1100-6440673/ (250,000+ signatures; June 2016 meeting with Morhaime, Brack, Chilton)",
+  "https://www.pcgamer.com/nostalrius-pm-reports-back-on-blizzard-meeting (June 2016 meeting at Blizzard HQ with Morhaime, Brack, Chilton)",
+  "https://kotaku.com/the-reason-blizzard-cant-make-world-of-warcraft-legacy-1781438526 (meeting with Morhaime and Chilton)",
+  "https://www.techradar.com/news/blizzard-bows-to-fans-and-announces-world-of-warcraft-classic (Brack announces Classic on stage at BlizzCon 2017)",
+  "https://worldofwarcraft.blizzard.com/en-us/news/22990080/mark-your-calendars-wow-classic-launch-and-testing-schedule (Blizzard: launch August 26/27 2019)",
+  "https://www.gameinformer.com/news/2019/08/27/world-of-warcraft-classic-launch-plagued-by-login-queues (launch queues of hours)",
+  "https://www.pcgamer.com/uk/some-world-of-warcraft-classic-servers-already-have-hour-long-queues-to-get-in/ (Blizzard: over 2 million characters created before launch; hours-long queues)",
+  "https://www.sec.gov/Archives/edgar/data/718877/000110465919061117/tm1922042d1_ex99-1.htm (Activision Blizzard Q3 2019: Classic drove biggest quarterly subscription increase in franchise history)",
+  "https://videogameschronicle.com/news/world-of-warcraft-classic-drove-record-quarterly-increase-in-subscriptions (VGC on the same earnings statement)"
+ ],
+ "script": "Did you know World of Warcraft Classic exists because Blizzard shut down a fan server with more than eight hundred thousand accounts? Back at BlizzCon two thousand thirteen, a fan asked Blizzard for vanilla servers. Executive J. Allen Brack answered with five famous words. You think you do, but you don't. A fan run server called Nostalrius rebuilt the original game. Its team said the server had more than eight hundred thousand registered accounts, and roughly one in five of those accounts was active. In April two thousand sixteen, Blizzard's lawyers sent a cease and desist notice. Nostalrius went dark on April tenth. Fans fought back with a petition that gathered more than two hundred thousand signatures. Brack posted an official reply and admitted the company had been in contact with the Nostalrius team. That June, Blizzard invited the team to its headquarters. They met company boss Mike Morhaime and game director Tom Chilton. Then at BlizzCon two thousand seventeen, Brack walked on stage and announced World of Warcraft Classic. It finally launched in August of two thousand nineteen, nearly six years after that famous BlizzCon answer. Blizzard said more than two million characters were created before launch, and login queues stretched for hours. Activision Blizzard later said Classic drove the biggest quarterly subscription jump in the franchise's history. Follow for more gaming history."
+}
