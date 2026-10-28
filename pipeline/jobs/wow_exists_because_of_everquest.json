@@ -1,0 +1,32 @@
+{
+ "slug": "wow_exists_because_of_everquest",
+ "series": "WORLD OF WARCRAFT",
+ "accent": "#f0b323",
+ "deep": "#2a1a03",
+ "voice": "justin",
+ "footage": "wow_2.mp4",
+ "footage_offset": 15,
+ "title": "WoW Exists Because Blizzard Was Addicted to EverQuest",
+ "hook": "Around 1999 Blizzard scrapped a squad game called Nomad and started World of Warcraft within days, partly because so much of the studio was busy raiding in EverQuest. Which MMO pulled you in first?",
+ "hashtags": "#wow #gaminghistory #everquest #blizzard #mmorpg",
+ "sources": [
+  "https://pcgamer.com/the-future-of-world-of-warcraft (PC Gamer 2014, Tom Chilton: team was assigned to a post-apocalyptic squad-based game called Nomad; 'Nomad died, and World of Warcraft began'; a lot of the team played Ultima Online and EverQuest)",
+  "https://www.digitaltrends.com/gaming/blizzard-entertainment-every-canceled-game-play-nice/ (Digital Trends, from Play Nice: Nomad was a post-apocalyptic game pitched in 1998; Blizzard chose a Warcraft MMO inspired by EverQuest instead)",
+  "https://www.cgmagonline.com/articles/features/cancelled-games-blizzard/ (CGMagazine: Nomad was a tactical squad game; EverQuest-obsessed team members pitched making a game like EverQuest; two days later Nomad was axed and WoW began)",
+  "https://www.pcgamesn.com/starcraft/starcraft-project-nomad (PCGamesN: squad-based game; Beardslee and Petras proposed a more accessible EverQuest; WoW began within days)",
+  "https://blizzardwatch.com/2017/11/05/blizzcon-2017-behind-blizzards-worlds-panel-explored-failure-bad-ideas/ (Blizzard Watch, BlizzCon 2017, Allen Adham: Nomad in development about a year; WoW began within 24 hours; developed in five years by 50 to 60 people)",
+  "https://www.usgamer.net/articles/how-world-of-warcraft-was-made-the-inside-story (USgamer, Rob Pardo: the other team's project was stopped and that was the genesis of WoW; Pardo ran a large EverQuest guild while working on Warcraft 3; launched Nov 23 2004)",
+  "https://gameinformer.com/b/features/archive/2016/03/30/from-guild-leader-to-game-director-pt-1-landing-a-job-at-blizzard (Game Informer, Jeff Kaplan: his EverQuest guild leader was Robert Pardo, lead designer on Warcraft III; many guild members worked at Blizzard)",
+  "https://www.pcgamer.com/uk/collected-works-jeff-kaplan/ (PC Gamer: Kaplan was an officer in Legacy of Steel, one of North America's most prominent guilds; lunches that were interviews; joined May 2002; co-founder Allen Adham in the same guild)",
+  "https://labs.invenglobal.com/articles/13851/how-jeff-kaplan-went-from-troll-to-celebrated-game-designer (Inven Global: Kaplan joined as Associate Game Designer, announced April 2002, started May 2002)",
+  "https://massivelyop.com/2016/02/06/the-game-archaeologist-ten-strange-pre-release-facts-about-world-of-warcraft/ (Massively OP: Dabiri: 'a lot of us were playing EverQuest, we were in the EverQuest beta'; announced at ECTS London Sept 2 2001; five years and about 50 developers)",
+  "https://gamebanshee.com/kw9xa (CVG history of Blizzard, Shane Dabiri: a lot of us had been playing EverQuest)",
+  "https://archive.rpgamer.com/news/Q3-2001/090201a.html (RPGamer Sept 2 2001: WoW announced at ECTS in London)",
+  "https://www.gamedeveloper.com/business/seven-years-of-i-world-of-warcraft-i- (Game Developer: officially announced in 2001 at the European Computer Trade Show in London)",
+  "https://www.gamedeveloper.com/press-release/blizzard-entertainment-announces-world-of-warcraft-street-date-november-23-2004 (Blizzard press release: North American street date November 23 2004)",
+  "https://www.denofgeek.com/games/world-of-warcraft-legacy-history-behind-the-scenes/ (Den of Geek, John Staats: pitch was 'like EverQuest but simplified', remove the pain points)",
+  "https://www.neowin.net/news/a-quick-look-back-at-everquest-that-launched-25-years-ago-today/ (Neowin: EverQuest launched March 16 1999)",
+  "https://worthplaying.com/article/2019/3/18/news/113375-everquest-celebrates-20th-anniversary-with-progression-servers-launch-new-content-collaborations/ (Daybreak press release: EverQuest 20th anniversary, March 2019)"
+ ],
+ "script": "Did you know World of Warcraft only exists because Blizzard's developers were hooked on EverQuest? In the late nineteen nineties, Blizzard's second team was building a squad based, post apocalyptic game codenamed Nomad. The team struggled to find the fun in it. Meanwhile, a lot of the studio was playing EverQuest, which had launched in nineteen ninety nine. Blizzard's own developers were in its beta, and some of them ran one of the top guilds in the game. Lead designer Rob Pardo led that guild, Legacy of Steel, while he was working on Warcraft Three. Members of the team pitched a simple idea. Why not make a game like EverQuest, but set in Warcraft, and easier to get into? Within days, Nomad was cancelled and work on World of Warcraft began. Blizzard even hired from the EverQuest community. Jeff Kaplan, an officer in Legacy of Steel, joined in May two thousand two after months of lunches that were really job interviews. He went on to lead the game, and later directed Overwatch. Blizzard revealed World of Warcraft in London in September 2001, and it launched on November 23, 2004. That was roughly five years of work by a team of about fifty to sixty people. Follow for more gaming history."
+}

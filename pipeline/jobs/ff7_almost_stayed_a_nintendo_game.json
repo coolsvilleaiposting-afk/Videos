@@ -1,0 +1,30 @@
+{
+ "slug": "ff7_almost_stayed_a_nintendo_game",
+ "series": "FINAL FANTASY VII",
+ "accent": "#c9a227",
+ "deep": "#2a1d05",
+ "voice": "justin",
+ "footage": "irsa_3.mp4",
+ "footage_offset": 6,
+ "title": "Final Fantasy VII Almost Stayed a Nintendo Game",
+ "hook": "Final Fantasy VII started life as a Super Nintendo game in 1994, and Square only jumped to PlayStation because three CDs of game would never fit on a cartridge. Would you have picked cartridge or disc back then?\nGameplay is from Shards of Irsa, a game I'm making.",
+ "hashtags": "#finalfantasy #gaminghistory #ff7 #nintendo64 #playstation",
+ "sources": [
+  "https://gonintendo.com/stories/289651-square-enix-opens-up-about-trying-to-make-final-fantasy-vii-for-n (Polygon oral history quotes: Sakaguchi 'no way it could all fit on a ROM cartridge', 'PlayStation games being on CDs was the biggest factor'; Kitase: experimenting with N64 hardware; Takechi: four to five years where they could not talk to Nintendo)",
+  "https://www.polygon.com/a/final-fantasy-7 (Polygon, Final Fantasy 7: An oral history, Jan 2017, primary interviews)",
+  "https://www.nintendojo.com/features/the-history-of-final-fantasy-vii (Retro Gamer sourced: development began in 1994 for Super Nintendo, then moved toward Nintendo's next console)",
+  "https://www.worldvideogamehalloffame.org/games/final-fantasy-vii (The Strong museum: began 1994 for the Super Famicom; three CD-ROMs; over 10 million copies sold)",
+  "https://timeextension.com/news/2024/03/square-had-huge-plans-for-the-n64-before-it-fell-out-with-nintendo (Time Extension, Game Machine 1995: FF7 initially planned for the Nintendo 64)",
+  "https://gigazine.net/gsc_news/en/20220408-computers-3d-animation-final-fantasy-vii-1996 (CG supervisor Hashimoto: SGI demo with FF6 characters shown at SIGGRAPH, August 1995, on an SGI Onyx)",
+  "https://www.siliconera.com/the-lost-final-fantasy-64-doesnt-exist/ (Siliconera: SGI demo starred Locke, Terra and Shadow; many fans believed it was the base for a Nintendo 64 Final Fantasy)",
+  "https://www.pressreader.com/australia/edge/20171207/282591673267925 (Edge, Sakaguchi: eight-person 3D demo; needed to move to CD-ROM, which drove the switch from Nintendo to Sony)",
+  "https://blog.playstation.com/?p=353736 (PlayStation Blog, Kitase: CD-ROM capacity was one of the biggest draws; movie scenes only possible because of it)",
+  "https://www.filfre.net/?p=5718 (Digital Antiquarian: switch announced January 12, 1996; three CDs; well over 10 million units)",
+  "https://vgdensetsu.net/finalfantasyviiannouncement (VGDensetsu: PlayStation move revealed January 1996 via Japanese TV commercial)",
+  "https://www.shacknews.com/article/19102/final-fantasy-returns-to-nintendo (Shacknews, March 8 2002: Final Fantasy returns to Nintendo platforms after five years; GameCube and GBA games funded by Yamauchi's Fund Q)",
+  "https://www.nintendoworldreport.com/news/7099/bhell-freezes-overb-square-ff-on-nintendo (Nintendo World Report, March 2002: Square to build FF games for GameCube and GBA; six-year absence)",
+  "https://www.gamespot.com/reviews/final-fantasy-crystal-chronicles-review/1900-6089013/ (GameSpot: Crystal Chronicles was the first Final Fantasy on a Nintendo console in a decade)",
+  "https://gameluster.com/final-fantasy-vii-has-sold-over-15-million-copies-worldwide/ (Square Enix, June 2025: over 15.1 million copies worldwide)"
+ ],
+ "script": "Did you know Final Fantasy Seven was almost a Nintendo game? Square started planning it in nineteen ninety four as a Super Nintendo game. Then the team started experimenting with Nintendo's next console, the Nintendo Sixty Four. In August of nineteen ninety five, Square showed a playable 3D demo at a computer graphics convention. It ran on Silicon Graphics workstations and starred Locke, Terra and Shadow from Final Fantasy Six. Then Nintendo chose cartridges for its new console instead of CDs. Square did the math and decided the game it wanted to make would never fit on a cartridge. Series creator Hironobu Sakaguchi later said PlayStation games being on CDs was the biggest factor. In January of nineteen ninety six, Square announced the game was moving to the Sony PlayStation. The finished game filled three CDs and sold more than ten million copies on the original PlayStation. The breakup was rough. Square's president said there were about four or five years where they could not really talk to Nintendo. The two companies did not patch things up until two thousand two, when Square agreed to make games for the GameCube and Game Boy Advance. Final Fantasy Crystal Chronicles arrived the next year, the first Final Fantasy on a Nintendo console in a decade. Follow for more gaming history."
+}
