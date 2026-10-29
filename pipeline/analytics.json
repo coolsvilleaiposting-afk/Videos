@@ -1,71 +1,71 @@
 {
- "generated": "2026-10-28T09:16:10+00:00",
+ "generated": "2026-10-29T09:19:45+00:00",
  "followers": {
-  "instagram": 8,
-  "tiktok": 18
+  "tiktok": 18,
+  "instagram": 8
  },
- "channel_median_tiktok_views": 325.5,
+ "channel_median_tiktok_views": 308,
  "series": {
-  "Zelda": {
-   "posts": 4,
-   "median_views": 379,
-   "mean_views": 492,
-   "engagement_per_view": 0.0581,
-   "avg_watch_s": 12.1,
-   "follows": 2,
-   "ig_median_views": 1325,
-   "yt_posts": 1,
-   "yt_median_views": 2
+  "WoW": {
+   "posts": 12,
+   "median_views": 330,
+   "mean_views": 670,
+   "engagement_per_view": 0.0601,
+   "avg_watch_s": 14.7,
+   "follows": 10,
+   "ig_median_views": 1222,
+   "yt_posts": 2,
+   "yt_median_views": 1
   },
   "Other": {
-   "posts": 6,
-   "median_views": 102,
-   "mean_views": 120,
-   "engagement_per_view": 0.0266,
-   "avg_watch_s": 8.0,
+   "posts": 7,
+   "median_views": 90,
+   "mean_views": 108,
+   "engagement_per_view": 0.0317,
+   "avg_watch_s": 7.5,
    "follows": 0,
-   "ig_median_views": 663,
+   "ig_median_views": 122,
    "yt_posts": 0,
    "yt_median_views": 0
   },
-  "WoW": {
-   "posts": 11,
-   "median_views": 351,
-   "mean_views": 719,
-   "engagement_per_view": 0.0681,
-   "avg_watch_s": 15.8,
-   "follows": 10,
-   "ig_median_views": 1357,
+  "Final Fantasy": {
+   "posts": 6,
+   "median_views": 366,
+   "mean_views": 372,
+   "engagement_per_view": 0.055,
+   "avg_watch_s": 13.7,
+   "follows": 1,
+   "ig_median_views": 1225,
    "yt_posts": 2,
    "yt_median_views": 1
   },
-  "Final Fantasy": {
-   "posts": 5,
-   "median_views": 444,
-   "mean_views": 386,
-   "engagement_per_view": 0.0558,
-   "avg_watch_s": 12.9,
-   "follows": 1,
-   "ig_median_views": 733,
-   "yt_posts": 2,
-   "yt_median_views": 1
+  "Zelda": {
+   "posts": 4,
+   "median_views": 404,
+   "mean_views": 505,
+   "engagement_per_view": 0.0624,
+   "avg_watch_s": 12.1,
+   "follows": 2,
+   "ig_median_views": 1328,
+   "yt_posts": 1,
+   "yt_median_views": 2
   },
   "Resident Evil": {
    "posts": 3,
    "median_views": 382,
-   "mean_views": 361,
+   "mean_views": 362,
    "engagement_per_view": 0.0712,
    "avg_watch_s": 9.5,
    "follows": 0,
-   "ig_median_views": 1341,
+   "ig_median_views": 1342,
    "yt_posts": 1,
    "yt_median_views": 2
   },
   "Fire Emblem": {
    "posts": 3,
    "median_views": 404,
-   "mean_views": 494,
-   "engagement_per_view": 0.0419,
+   "mean_views": 497,
+   "engagement_per_view": 0.0418,
    "avg_watch_s": 11.0,
    "follows": 0,
    "ig_median_views": 1180,
@@ -80,7 +80,7 @@
    "avg_watch_s": 16.1,
    "follows": 2,
    "ig_median_views": 1226,
-   "yt_posts": 3,
+   "yt_posts": 5,
    "yt_median_views": 1
   },
   "Kingdom Hearts": {
@@ -96,45 +96,141 @@
   }
  },
  "weights": {
-  "WoW": 2.82,
-  "OSRS": 2.3,
-  "Final Fantasy": 3.0,
-  "Kingdom Hearts": 1.97,
-  "Zelda": 2.3,
-  "Fire Emblem": 2.25,
-  "Resident Evil": 2.22
+  "WoW": 2.65,
+  "OSRS": 2.43,
+  "Final Fantasy": 2.81,
+  "Kingdom Hearts": 2.09,
+  "Zelda": 2.63,
+  "Fire Emblem": 2.37,
+  "Resident Evil": 2.35
  },
  "share": {
-  "WoW": 0.167,
-  "OSRS": 0.136,
-  "Final Fantasy": 0.178,
-  "Kingdom Hearts": 0.117,
-  "Zelda": 0.136,
-  "Fire Emblem": 0.133,
-  "Resident Evil": 0.132
+  "WoW": 0.153,
+  "OSRS": 0.14,
+  "Final Fantasy": 0.162,
+  "Kingdom Hearts": 0.121,
+  "Zelda": 0.152,
+  "Fire Emblem": 0.137,
+  "Resident Evil": 0.136
  },
  "lessons": [
-  "Series ranked by weight: Final Fantasy 18%, WoW 17%, OSRS 14%, Zelda 14%, Fire Emblem 13%, Resident Evil 13%, Kingdom Hearts 12%",
-  "Top hooks: 3638v In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f | 1038v Nearly 450,000 people voted to bring a 2007 backup back online. Now it's bigger than the m | 989v A cartoon about grinding boars won a Primetime Emmy. Blizzard helped make it. What's your ",
-  "Weakest hooks: 38v #worldofwarcraft #ahnqiraj #didyouknow #gaminghistory  | 31v  | 17v In 2016 Blizzard shut down Nostalrius, a fan-run vanilla WoW server with over 800,000 acco",
+  "Series ranked by weight: Final Fantasy 16%, WoW 15%, Zelda 15%, OSRS 14%, Fire Emblem 14%, Resident Evil 14%, Kingdom Hearts 12%",
+  "Top hooks: 3666v In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f | 1038v Nearly 450,000 people voted to bring a 2007 backup back online. Now it's bigger than the m | 989v A cartoon about grinding boars won a Primetime Emmy. Blizzard helped make it. What's your ",
+  "Weakest hooks: 32v The best-selling game ever started as a one-person side project called Cave Game in May 20 | 31v  | 22v In 2016 Blizzard shut down Nostalrius, a fan-run vanilla WoW server with over 800,000 acco",
   "Best completion: 9% Nearly 450,000 people voted to bring a 2007 backup | 7% He never beat the raid but Blizzard made him an ac | 8% A 1998 game is still the highest rated of all time"
  ],
  "posts": [
+  {
+   "post_id": "6ae2b05f90c199f224475633",
+   "platform": "tiktok",
+   "series": "WoW",
+   "published": "2026-10-28",
+   "hook": "Around 1999 Blizzard scrapped a squad game called Nomad and started World of Warcraft with",
+   "views": 101,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0.0192,
+   "avg_watch_ms": 6300,
+   "engagement_rate": 0
+  },
+  {
+   "post_id": "6ae2a4cd391cbe562127be3b",
+   "platform": "instagram",
+   "series": "WoW",
+   "published": "2026-10-28",
+   "hook": "Around 1999 Blizzard scrapped a squad game called Nomad and started World of Warcraft with",
+   "views": 126,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 12093,
+   "engagement_rate": 0
+  },
+  {
+   "post_id": "6ae25cf22668ba099507ca56",
+   "platform": "tiktok",
+   "series": "Other",
+   "published": "2026-10-28",
+   "hook": "The best-selling game ever started as a one-person side project called Cave Game in May 20",
+   "views": 32,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 5190,
+   "engagement_rate": 0
+  },
+  {
+   "post_id": "6ae25cf22668ba099507ca55",
+   "platform": "tiktok",
+   "series": "Final Fantasy",
+   "published": "2026-10-28",
+   "hook": "Final Fantasy VII started life as a Super Nintendo game in 1994, and Square only jumped to",
+   "views": 286,
+   "likes": 13,
+   "comments": 0,
+   "shares": 0,
+   "saves": 1,
+   "follows": 0,
+   "completion": 0.0576,
+   "avg_watch_ms": 17300,
+   "engagement_rate": 4.9
+  },
+  {
+   "post_id": "6ae25181894ff6512f1c0f2e",
+   "platform": "instagram",
+   "series": "Other",
+   "published": "2026-10-28",
+   "hook": "The best-selling game ever started as a one-person side project called Cave Game in May 20",
+   "views": 121,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 11384,
+   "engagement_rate": 0
+  },
+  {
+   "post_id": "6ae228050ed179a6c00cb160",
+   "platform": "instagram",
+   "series": "Final Fantasy",
+   "published": "2026-10-28",
+   "hook": "Final Fantasy VII started life as a Super Nintendo game in 1994, and Square only jumped to",
+   "views": 1342,
+   "likes": 11,
+   "comments": 0,
+   "shares": 4,
+   "saves": 1,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 15265,
+   "engagement_rate": 1.19
+  },
   {
    "post_id": "6ae1635f5b3b2f283d51cf78",
    "platform": "tiktok",
    "series": "Zelda",
    "published": "2026-10-28",
    "hook": "Twilight Princess on Wii is a complete mirror image of the GameCube version, flipped in 20",
-   "views": 322,
-   "likes": 10,
-   "comments": 0,
+   "views": 372,
+   "likes": 12,
+   "comments": 2,
    "shares": 0,
-   "saves": 0,
+   "saves": 1,
    "follows": 0,
-   "completion": 0.0363,
-   "avg_watch_ms": 15960,
-   "engagement_rate": 3.11
+   "completion": 0.0339,
+   "avg_watch_ms": 16060,
+   "engagement_rate": 4.03
   },
   {
    "post_id": "6ae12f096b03cf2a37fe7dda",
@@ -142,14 +238,14 @@
    "series": "Zelda",
    "published": "2026-10-27",
    "hook": "Twilight Princess on Wii is a complete mirror image of the GameCube version, flipped in 20",
-   "views": 1210,
+   "views": 1216,
    "likes": 12,
    "comments": 0,
    "shares": 2,
    "saves": 2,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 14307,
+   "avg_watch_ms": 14290,
    "engagement_rate": 1.32
   },
   {
@@ -158,15 +254,15 @@
    "series": "Other",
    "published": "2026-10-27",
    "hook": "In 1996 Eidos budgeted for 100,000 copies of Tomb Raider, a game whose hero started out as",
-   "views": 56,
+   "views": 62,
    "likes": 2,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0175,
-   "avg_watch_ms": 8310,
-   "engagement_rate": 3.57
+   "completion": 0.0159,
+   "avg_watch_ms": 8100,
+   "engagement_rate": 4.26
   },
   {
    "post_id": "6ae1066776de4ba40afc98ec",
@@ -174,14 +270,14 @@
    "series": "Other",
    "published": "2026-10-27",
    "hook": "In 1996 Eidos budgeted for 100,000 copies of Tomb Raider, a game whose hero started out as",
-   "views": 117,
+   "views": 118,
    "likes": 0,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 13096,
+   "avg_watch_ms": 13029,
    "engagement_rate": 0
   },
   {
@@ -190,15 +286,15 @@
    "series": "WoW",
    "published": "2026-10-27",
    "hook": "In 2016 Blizzard shut down Nostalrius, a fan-run vanilla WoW server with over 800,000 acco",
-   "views": 17,
+   "views": 22,
    "likes": 0,
    "comments": 0,
    "shares": 0,
    "saves": 1,
    "follows": 0,
-   "completion": 0.0588,
-   "avg_watch_ms": 17020,
-   "engagement_rate": 5.88
+   "completion": 0.0435,
+   "avg_watch_ms": 13520,
+   "engagement_rate": 16.67
   },
   {
    "post_id": "6ae0dfd58fa69ada29cfd477",
@@ -206,15 +302,15 @@
    "series": "WoW",
    "published": "2026-10-27",
    "hook": "In 2016 Blizzard shut down Nostalrius, a fan-run vanilla WoW server with over 800,000 acco",
-   "views": 2238,
+   "views": 2508,
    "likes": 11,
    "comments": 7,
    "shares": 3,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 29948,
-   "engagement_rate": 0.94
+   "avg_watch_ms": 30074,
+   "engagement_rate": 0.84
   },
   {
    "post_id": "6adfe4e86be9fbe15df90107",
@@ -222,15 +318,15 @@
    "series": "Final Fantasy",
    "published": "2026-10-26",
    "hook": "The Final Fantasy III that Americans played on the SNES in 1994 was really Final Fantasy V",
-   "views": 133,
+   "views": 142,
    "likes": 1,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
-   "completion": 0.029,
-   "avg_watch_ms": 12330,
-   "engagement_rate": 0.75
+   "completion": 0.0338,
+   "avg_watch_ms": 12860,
+   "engagement_rate": 0.85
   },
   {
    "post_id": "6adff8c2a33bdc030e1d36dd",
@@ -254,15 +350,15 @@
    "series": "Other",
    "published": "2026-10-26",
    "hook": "In 1989 Nintendo of America's president wanted Mario in every Game Boy box, until one man ",
-   "views": 115,
+   "views": 116,
    "likes": 2,
    "comments": 0,
    "shares": 1,
    "saves": 2,
    "follows": 0,
-   "completion": 0.025,
-   "avg_watch_ms": 12400,
-   "engagement_rate": 4.35
+   "completion": 0.0248,
+   "avg_watch_ms": 12320,
+   "engagement_rate": 5
   },
   {
    "post_id": "6adfabb35ac5166b9091f583",
@@ -286,15 +382,15 @@
    "series": "WoW",
    "published": "2026-10-26",
    "hook": "Wrath of the Lich King sold 2.8 million copies in one day back in 2008, and Blizzard kept ",
-   "views": 161,
+   "views": 162,
    "likes": 4,
    "comments": 1,
    "shares": 0,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0299,
-   "avg_watch_ms": 13340,
-   "engagement_rate": 3.11
+   "completion": 0.0298,
+   "avg_watch_ms": 13270,
+   "engagement_rate": 3.31
   },
   {
    "post_id": "6adf85789c8ec7ef3b97d529",
@@ -318,15 +414,15 @@
    "series": "Resident Evil",
    "published": "2026-10-26",
    "hook": "Capcom had Resident Evil 2 about 70 percent done in 1997, with a motorcycle racer named El",
-   "views": 449,
+   "views": 451,
    "likes": 21,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0374,
-   "avg_watch_ms": 14890,
-   "engagement_rate": 4.68
+   "completion": 0.0372,
+   "avg_watch_ms": 14960,
+   "engagement_rate": 5.12
   },
   {
    "post_id": "6adea0963a3f8f7ab1927fc3",
@@ -334,14 +430,14 @@
    "series": "Resident Evil",
    "published": "2026-10-25",
    "hook": "Capcom had Resident Evil 2 about 70 percent done in 1997, with a motorcycle racer named El",
-   "views": 1341,
+   "views": 1342,
    "likes": 11,
    "comments": 0,
    "shares": 1,
    "saves": 2,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 16938,
+   "avg_watch_ms": 16927,
    "engagement_rate": 1.04
   },
   {
@@ -358,7 +454,7 @@
    "follows": 0,
    "completion": 0.0233,
    "avg_watch_ms": 9930,
-   "engagement_rate": 2.83
+   "engagement_rate": 2.23
   },
   {
    "post_id": "6ade78e37d17eb5705e90aea",
@@ -382,15 +478,15 @@
    "series": "Final Fantasy",
    "published": "2026-10-25",
    "hook": "The first draft of Final Fantasy VII had no Midgar and no Buster Sword. It starred a detec",
-   "views": 444,
+   "views": 446,
    "likes": 9,
    "comments": 3,
    "shares": 0,
    "saves": 1,
    "follows": 0,
    "completion": 0.0088,
-   "avg_watch_ms": 12370,
-   "engagement_rate": 3.76
+   "avg_watch_ms": 12360,
+   "engagement_rate": 3.18
   },
   {
    "post_id": "6ade2a565e140eb86a8942e3",
@@ -422,7 +518,7 @@
    "follows": 0,
    "completion": 0.0118,
    "avg_watch_ms": 7800,
-   "engagement_rate": 3.1
+   "engagement_rate": 3.03
   },
   {
    "post_id": "6add46379fe4f7b81da38a83",
@@ -446,15 +542,15 @@
    "series": "Other",
    "published": "2026-10-24",
    "hook": "Shigeru Miyamoto spent more than ten years on one idea: an island everyone would recognize",
-   "views": 135,
+   "views": 136,
    "likes": 1,
    "comments": 0,
-   "shares": 0,
+   "shares": 3,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 5430,
-   "engagement_rate": 0.88
+   "avg_watch_ms": 5760,
+   "engagement_rate": 3.45
   },
   {
    "post_id": "6add1f7febc553b223118c15",
@@ -462,14 +558,14 @@
    "series": "Other",
    "published": "2026-10-24",
    "hook": "Shigeru Miyamoto spent more than ten years on one idea: an island everyone would recognize",
-   "views": 1204,
+   "views": 1205,
    "likes": 6,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 15652,
+   "avg_watch_ms": 15638,
    "engagement_rate": 0.5
   },
   {
@@ -478,14 +574,14 @@
    "series": "WoW",
    "published": "2026-10-24",
    "hook": "In 2007 Mr. T told TV audiences he played a Night Elf Mohawk, a class that did not exist. ",
-   "views": 351,
+   "views": 353,
    "likes": 13,
    "comments": 1,
    "shares": 0,
    "saves": 1,
    "follows": 0,
-   "completion": 0.034,
-   "avg_watch_ms": 21630,
+   "completion": 0.0366,
+   "avg_watch_ms": 21700,
    "engagement_rate": 4.59
   },
   {
@@ -526,14 +622,14 @@
    "series": "WoW",
    "published": "2026-10-23",
    "hook": "WoW sold 240,000 copies in its first 24 hours in November 2004 and all 40 launch servers f",
-   "views": 1505,
+   "views": 1507,
    "likes": 17,
    "comments": 1,
    "shares": 1,
    "saves": 1,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 22136,
+   "avg_watch_ms": 22106,
    "engagement_rate": 1.33
   },
   {
@@ -542,15 +638,15 @@
    "series": "Final Fantasy",
    "published": "2026-10-23",
    "hook": "Square spent 137 million dollars on The Spirits Within in 2001 and it made back about 85 m",
-   "views": 472,
+   "views": 477,
    "likes": 17,
    "comments": 4,
    "shares": 0,
    "saves": 4,
    "follows": 0,
-   "completion": 0.0693,
-   "avg_watch_ms": 20080,
-   "engagement_rate": 6
+   "completion": 0.0686,
+   "avg_watch_ms": 19880,
+   "engagement_rate": 5.91
   },
   {
    "post_id": "6adbcc2592a56f607a3bebbc",
@@ -582,7 +678,7 @@
    "follows": 0,
    "completion": 0.0544,
    "avg_watch_ms": 16690,
-   "engagement_rate": 1.89
+   "engagement_rate": 1.88
   },
   {
    "post_id": "6adb7a7eb53551f7a5934525",
@@ -606,15 +702,15 @@
    "series": "WoW",
    "published": "2026-10-22",
    "hook": "In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f",
-   "views": 3638,
-   "likes": 78,
+   "views": 3666,
+   "likes": 79,
    "comments": 6,
    "shares": 22,
    "saves": 6,
    "follows": 0,
-   "completion": 0.0683,
-   "avg_watch_ms": 28850,
-   "engagement_rate": 3.34
+   "completion": 0.068,
+   "avg_watch_ms": 28870,
+   "engagement_rate": 3.3
   },
   {
    "post_id": "6adaa4b5fcc8b1c8a51b9504",
@@ -622,15 +718,15 @@
    "series": "WoW",
    "published": "2026-10-22",
    "hook": "In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f",
-   "views": 4266,
+   "views": 4284,
    "likes": 51,
    "comments": 1,
    "shares": 35,
    "saves": 9,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 32349,
-   "engagement_rate": 2.25
+   "avg_watch_ms": 32346,
+   "engagement_rate": 2.24
   },
   {
    "post_id": "6ada83308062f400a7ca26a8",
@@ -638,15 +734,15 @@
    "series": "Fire Emblem",
    "published": "2026-10-22",
    "hook": "Shouzou Kaga made the first five Fire Emblem games, then left and built a PlayStation riva",
-   "views": 750,
+   "views": 758,
    "likes": 16,
    "comments": 1,
    "shares": 1,
    "saves": 2,
    "follows": 0,
-   "completion": 0.0563,
-   "avg_watch_ms": 19560,
-   "engagement_rate": 2.99
+   "completion": 0.057,
+   "avg_watch_ms": 19590,
+   "engagement_rate": 2.94
   },
   {
    "post_id": "6ada7e408062f400a7c959dc",
@@ -654,15 +750,15 @@
    "series": "Fire Emblem",
    "published": "2026-10-22",
    "hook": "Shouzou Kaga made the first five Fire Emblem games, then left and built a PlayStation riva",
-   "views": 3108,
+   "views": 3120,
    "likes": 48,
    "comments": 1,
    "shares": 35,
    "saves": 24,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 26696,
-   "engagement_rate": 3.47
+   "avg_watch_ms": 26697,
+   "engagement_rate": 3.46
   },
   {
    "post_id": "6ada37e3f8760912d5ea0dd6",
@@ -726,7 +822,7 @@
    "follows": 0,
    "completion": 0.0631,
    "avg_watch_ms": 21510,
-   "engagement_rate": 7.65
+   "engagement_rate": 7.61
   },
   {
    "post_id": "6ad952c874c167bb5d779e4c",
@@ -854,7 +950,7 @@
    "follows": 0,
    "completion": 0.016,
    "avg_watch_ms": 12370,
-   "engagement_rate": 4.33
+   "engagement_rate": 4.32
   },
   {
    "post_id": "6ad7df3d554c3ac405ea55fc",
@@ -901,7 +997,7 @@
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 5460,
+   "avg_watch_ms": 4940,
    "engagement_rate": 0
   },
   {
@@ -910,14 +1006,14 @@
    "series": "Resident Evil",
    "published": "2026-10-19",
    "hook": "In Japan the series has never once been called Resident Evil. The real name was blocked in",
-   "views": 1945,
+   "views": 1947,
    "likes": 20,
    "comments": 0,
    "shares": 6,
    "saves": 3,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 20522,
+   "avg_watch_ms": 20548,
    "engagement_rate": 1.49
   },
   {
@@ -1269,8 +1365,8 @@
    "saves": 5,
    "follows": 1,
    "completion": 0.0481,
-   "avg_watch_ms": 10880,
-   "engagement_rate": 7.85
+   "avg_watch_ms": 10900,
+   "engagement_rate": 7.84
   },
   {
    "post_id": "6ad6114dc15addba9ff16082",
@@ -1278,7 +1374,7 @@
    "series": "OSRS",
    "published": "2026-09-06",
    "hook": "June 6, 2006. One party, one bug, and Falador turned into a warzone. Were you online for i",
-   "views": 836,
+   "views": 837,
    "likes": 28,
    "comments": 1,
    "shares": 2,
@@ -1321,6 +1417,22 @@
    "engagement_rate": 5.63
   },
   {
+   "post_id": "9TRvKKv4O7o",
+   "platform": "youtube",
+   "series": "Kingdom Hearts",
+   "published": "2026-10-21",
+   "hook": "Disney Gave Kingdom Hearts One Scene With Mickey",
+   "views": 2,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0.9801000000000001,
+   "avg_watch_ms": 72000,
+   "engagement_rate": 0
+  },
+  {
    "post_id": "1L1OZAS5D8Y",
    "platform": "youtube",
    "series": "Resident Evil",
@@ -1350,22 +1462,6 @@
    "follows": 0,
    "completion": 3.9256,
    "avg_watch_ms": 153000,
-   "engagement_rate": 0
-  },
-  {
-   "post_id": "9TRvKKv4O7o",
-   "platform": "youtube",
-   "series": "Kingdom Hearts",
-   "published": "2026-10-21",
-   "hook": "Disney Gave Kingdom Hearts One Scene With Mickey",
-   "views": 2,
-   "likes": 0,
-   "comments": 0,
-   "shares": 0,
-   "saves": 0,
-   "follows": 0,
-   "completion": 0.9801000000000001,
-   "avg_watch_ms": 72000,
    "engagement_rate": 0
   },
   {
@@ -1401,6 +1497,38 @@
    "engagement_rate": 0
   },
   {
+   "post_id": "fSQH0kuQM9k",
+   "platform": "youtube",
+   "series": "OSRS",
+   "published": "2026-10-21",
+   "hook": "RuneScape Deleted the Wilderness for Three Years",
+   "views": 1,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0.0058,
+   "avg_watch_ms": 0,
+   "engagement_rate": 0
+  },
+  {
+   "post_id": "HNTk9Sh5qZ4",
+   "platform": "youtube",
+   "series": "Final Fantasy",
+   "published": "2026-09-10",
+   "hook": "Why It's Called Final Fantasy",
+   "views": 1,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 1.0012,
+   "avg_watch_ms": 33000,
+   "engagement_rate": 0
+  },
+  {
    "post_id": "y1byWKq_Uu0",
    "platform": "youtube",
    "series": "WoW",
@@ -1433,35 +1561,19 @@
    "engagement_rate": 0
   },
   {
-   "post_id": "HNTk9Sh5qZ4",
-   "platform": "youtube",
-   "series": "Final Fantasy",
-   "published": "2026-09-10",
-   "hook": "Why It's Called Final Fantasy",
-   "views": 1,
-   "likes": 1,
-   "comments": 0,
-   "shares": 0,
-   "saves": 0,
-   "follows": 0,
-   "completion": 1.0012,
-   "avg_watch_ms": 33000,
-   "engagement_rate": 0
-  },
-  {
-   "post_id": "fSQH0kuQM9k",
+   "post_id": "pPyfi__kmH4",
    "platform": "youtube",
    "series": "OSRS",
-   "published": "2026-10-21",
-   "hook": "RuneScape Deleted the Wilderness for Three Years",
+   "published": "2026-10-22",
+   "hook": "RuneScape Classic Stayed Online for 17 Years",
    "views": 1,
    "likes": 0,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0,
-   "avg_watch_ms": 0,
+   "completion": 0.21600000000000003,
+   "avg_watch_ms": 15000,
    "engagement_rate": 0
   },
   {
@@ -1494,6 +1606,22 @@
    "follows": 0,
    "completion": 0.9706,
    "avg_watch_ms": 64000,
+   "engagement_rate": 0
+  },
+  {
+   "post_id": "TcrTJdjNUFU",
+   "platform": "youtube",
+   "series": "OSRS",
+   "published": "2026-10-23",
+   "hook": "OSRS Demolished the Duel Arena After 18 Years",
+   "views": 1,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0.0946,
+   "avg_watch_ms": 6000,
    "engagement_rate": 0
   }
  ]

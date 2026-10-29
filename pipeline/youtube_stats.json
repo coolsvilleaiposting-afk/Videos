@@ -1,9 +1,9 @@
 {
- "fetched": "2026-10-26",
+ "fetched": "2026-10-29",
  "channel_id": "UCvqNyI3jmHN1doZ2xCeEsIg",
  "range": [
-  "2026-09-28",
-  "2026-10-26"
+  "2026-10-01",
+  "2026-10-29"
  ],
  "columns": [
   "video",
@@ -18,6 +18,18 @@
   "subscribersGained"
  ],
  "rows": [
+  [
+   "9TRvKKv4O7o",
+   6,
+   2,
+   2,
+   98.01,
+   72,
+   0,
+   0,
+   0,
+   0
+  ],
   [
    "1L1OZAS5D8Y",
    6,
@@ -43,18 +55,6 @@
    0
   ],
   [
-   "9TRvKKv4O7o",
-   5,
-   2,
-   2,
-   98.01,
-   72,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "qdsixZ70Tb8",
    3,
    2,
@@ -73,6 +73,30 @@
    1,
    271.75,
    95,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "fSQH0kuQM9k",
+   2,
+   1,
+   0,
+   0.58,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "HNTk9Sh5qZ4",
+   2,
+   1,
+   0,
+   100.12,
+   33,
    1,
    0,
    0,
@@ -103,24 +127,12 @@
    0
   ],
   [
-   "HNTk9Sh5qZ4",
-   2,
+   "pPyfi__kmH4",
+   1,
    1,
    0,
-   100.12,
-   33,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
-   "fSQH0kuQM9k",
-   1,
-   0,
-   0,
-   0,
-   0,
+   21.6,
+   15,
    0,
    0,
    0,
@@ -145,6 +157,18 @@
    1,
    97.06,
    64,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "TcrTJdjNUFU",
+   1,
+   1,
+   0,
+   9.46,
+   6,
    0,
    0,
    0,
@@ -206,6 +230,16 @@
    "title": "Breath of the Wild Was Prototyped as an NES Game",
    "hashtags": "#zelda #breathofthewild #nintendo #botw #gamedev #gaminghistory #didyouknow",
    "published": "2026-10-20"
+  },
+  "pPyfi__kmH4": {
+   "title": "RuneScape Classic Stayed Online for 17 Years",
+   "hashtags": "#osrs #runescape #runescapeclassic #jagex #mmorpg #gaminghistory #didyouknow #retrogames",
+   "published": "2026-10-22"
+  },
+  "TcrTJdjNUFU": {
+   "title": "OSRS Demolished the Duel Arena After 18 Years",
+   "hashtags": "#osrs #oldschoolrunescape #duelarena #staking #jagex #gaminghistory #didyouknow #mmorpg",
+   "published": "2026-10-23"
   }
  }
 }
