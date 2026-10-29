@@ -205,8 +205,10 @@ def build_video(job, sents, timings, wav, work, out):
     ass = f"{work}/captions.ass"
     write_captions(sents, timings, ass, accent)
     steps.append(f"drawbox=x=0:y=ih-14:w=iw*min(t/{D:.3f}\\,1):h=14:color={accent}:t=fill")
-    steps.append(f"drawtext=fontfile={FONT_MED}:text='follow for more gaming history':fontsize=30:fontcolor=white@0.55:x=(w-text_w)/2:y=h-130")
-    music = os.path.join(REPO, "footage", "music_bed.m4a")
+    footer = job.get("footer", "follow for more gaming history")   # "" hides it (tribute videos)
+    if footer:
+        steps.append(f"drawtext=fontfile={FONT_MED}:text='{esc(footer)}':fontsize=30:fontcolor=white@0.55:x=(w-text_w)/2:y=h-130")
+    music = os.path.join(REPO, "footage", job.get("music", "music_bed.m4a"))
     fc = (f"[0:v]fps={FPS},eq=brightness=-0.05:saturation=1.1,vignette=PI/4.5,"
           f"drawbox=x=0:y=ih/2-330:w=iw:h=600:color=black@0.38:t=fill," + ",".join(steps) +
           f",subtitles={ass}:fontsdir=/usr/share/fonts/truetype/google-fonts[v];"
