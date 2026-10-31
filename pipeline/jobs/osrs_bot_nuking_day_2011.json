@@ -1,0 +1,23 @@
+{
+ "slug": "osrs_bot_nuking_day_2011",
+ "series": "OLD SCHOOL RUNESCAPE",
+ "accent": "#e07a1f",
+ "deep": "#2b1606",
+ "voice": "justin",
+ "footage": "league_1.mp4",
+ "footage_offset": 32,
+ "title": "RuneScape Banned 7.7 Million Bots in a Week and Called It a Holiday",
+ "hook": "On October 25, 2011 Jagex flipped on a new bot detector, banned about 1.5 million RuneScape accounts in one day and 7.7 million in a week, and celebrated with in-game bonuses. Were you playing when the bots vanished overnight?",
+ "hashtags": "#osrs #gaminghistory #runescape #jagex #mmorpg",
+ "sources": [
+  "https://www.engadget.com/2011-10-23-runescape-celebrates-bot-nuking-day-this-tuesday.html",
+  "https://www.engadget.com/2011-10-30-runescape-dev-panel-highlights-incredible-success-of-bot-bans.html",
+  "https://www.pcgamer.com/runescape-bot-nuking-event-bans-1-5-million-bots-in-one-day/",
+  "https://www.guinnessworldrecords.com/world-records/105587-most-bots-banned-in-a-week",
+  "https://mcvuk.com/business-news/publishing/runescape-earns-three-more-guinness-world-records",
+  "https://www.engadget.com/2011-12-21-free-for-all-jagex-answers-more-questions-about-nuking-bots.html",
+  "https://www.engadget.com/2012-03-28-runescape-seventh-anniversary-retrospective.html",
+  "https://www.digitaltrends.com/gaming/runescape-throws-cheaters-to-the-masses/"
+ ],
+ "script": "Did you know RuneScape once banned more than seven million bot accounts in a single week, and threw a party about it? By the autumn of two thousand eleven, bots were everywhere in RuneScape, and real players were fed up. Jagex said more than a hundred thousand new bot accounts were being created every single day. So Jagex built a new detection system, nicknamed Cluster Flutterer, and announced a date in advance. The update went live on a Tuesday in late October of two thousand eleven, and it hit hard. The company called it Bot Nuking Day and celebrated with four days of in game events and bonuses for regular players. By the end of that first day, about one and a half million accounts were gone. At the peak, Jagex said it was banning around nine thousand accounts every minute. Within a week the running total had climbed to seven point seven million banned accounts. Jagex estimated that ninety eight percent of all the bots in the game had been wiped out. Guinness World Records later listed it as the most bots banned in a week. Players logged in to a much emptier world, but one filled with real people. Were you playing when the bots vanished overnight? Follow for more gaming history."
+}
