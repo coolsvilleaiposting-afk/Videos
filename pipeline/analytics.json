@@ -1,59 +1,59 @@
 {
- "generated": "2026-10-30T09:13:50+00:00",
+ "generated": "2026-10-31T09:16:20+00:00",
  "followers": {
-  "instagram": 8,
-  "tiktok": 18
+  "tiktok": 19,
+  "instagram": 8
  },
- "channel_median_tiktok_views": 308,
+ "channel_median_tiktok_views": 299.5,
  "series": {
-  "Other": {
-   "posts": 9,
-   "median_views": 106,
-   "mean_views": 133,
-   "engagement_per_view": 0.0376,
-   "avg_watch_s": 8.6,
+  "Final Fantasy": {
+   "posts": 8,
+   "median_views": 320,
+   "mean_views": 326,
+   "engagement_per_view": 0.05,
+   "avg_watch_s": 12.5,
    "follows": 1,
-   "ig_median_views": 122,
+   "ig_median_views": 595,
+   "yt_posts": 2,
+   "yt_median_views": 1
+  },
+  "Other": {
+   "posts": 10,
+   "median_views": 121,
+   "mean_views": 138,
+   "engagement_per_view": 0.0369,
+   "avg_watch_s": 9.1,
+   "follows": 2,
+   "ig_median_views": 127,
    "yt_posts": 0,
    "yt_median_views": 0
+  },
+  "WoW": {
+   "posts": 13,
+   "median_views": 308,
+   "mean_views": 636,
+   "engagement_per_view": 0.0569,
+   "avg_watch_s": 15.5,
+   "follows": 10,
+   "ig_median_views": 1205,
+   "yt_posts": 2,
+   "yt_median_views": 1
   },
   "Kingdom Hearts": {
    "posts": 4,
    "median_views": 309,
    "mean_views": 269,
    "engagement_per_view": 0.0465,
-   "avg_watch_s": 11.2,
+   "avg_watch_s": 11.0,
    "follows": 0,
    "ig_median_views": 126,
    "yt_posts": 1,
    "yt_median_views": 2
   },
-  "Final Fantasy": {
-   "posts": 7,
-   "median_views": 358,
-   "mean_views": 351,
-   "engagement_per_view": 0.0491,
-   "avg_watch_s": 13.1,
-   "follows": 1,
-   "ig_median_views": 733,
-   "yt_posts": 2,
-   "yt_median_views": 1
-  },
-  "WoW": {
-   "posts": 12,
-   "median_views": 332,
-   "mean_views": 674,
-   "engagement_per_view": 0.0596,
-   "avg_watch_s": 15.2,
-   "follows": 10,
-   "ig_median_views": 1222,
-   "yt_posts": 2,
-   "yt_median_views": 1
-  },
   "Zelda": {
    "posts": 4,
-   "median_views": 407,
-   "mean_views": 506,
+   "median_views": 408,
+   "mean_views": 507,
    "engagement_per_view": 0.0622,
    "avg_watch_s": 12.0,
    "follows": 2,
@@ -65,7 +65,7 @@
    "posts": 3,
    "median_views": 382,
    "mean_views": 362,
-   "engagement_per_view": 0.0712,
+   "engagement_per_view": 0.0711,
    "avg_watch_s": 9.5,
    "follows": 0,
    "ig_median_views": 1342,
@@ -75,9 +75,9 @@
   "Fire Emblem": {
    "posts": 3,
    "median_views": 404,
-   "mean_views": 497,
-   "engagement_per_view": 0.0418,
-   "avg_watch_s": 11.0,
+   "mean_views": 500,
+   "engagement_per_view": 0.0416,
+   "avg_watch_s": 10.9,
    "follows": 0,
    "ig_median_views": 1181,
    "yt_posts": 1,
@@ -88,7 +88,7 @@
    "median_views": 305,
    "mean_views": 545,
    "engagement_per_view": 0.0459,
-   "avg_watch_s": 16.1,
+   "avg_watch_s": 16.0,
    "follows": 2,
    "ig_median_views": 1226,
    "yt_posts": 5,
@@ -96,44 +96,140 @@
   }
  },
  "weights": {
-  "WoW": 2.7,
-  "OSRS": 2.43,
-  "Final Fantasy": 2.65,
-  "Kingdom Hearts": 1.86,
-  "Zelda": 2.64,
-  "Fire Emblem": 2.37,
-  "Resident Evil": 2.35
+  "WoW": 2.58,
+  "OSRS": 2.5,
+  "Final Fantasy": 2.4,
+  "Kingdom Hearts": 1.9,
+  "Zelda": 2.72,
+  "Fire Emblem": 2.43,
+  "Resident Evil": 2.42
  },
  "share": {
-  "WoW": 0.159,
-  "OSRS": 0.143,
-  "Final Fantasy": 0.156,
-  "Kingdom Hearts": 0.109,
-  "Zelda": 0.155,
-  "Fire Emblem": 0.139,
-  "Resident Evil": 0.138
+  "WoW": 0.152,
+  "OSRS": 0.147,
+  "Final Fantasy": 0.142,
+  "Kingdom Hearts": 0.112,
+  "Zelda": 0.16,
+  "Fire Emblem": 0.143,
+  "Resident Evil": 0.143
  },
  "lessons": [
-  "Series ranked by weight: WoW 16%, Final Fantasy 16%, Zelda 16%, OSRS 14%, Fire Emblem 14%, Resident Evil 14%, Kingdom Hearts 11%",
-  "Top hooks: 3676v In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f | 1038v Nearly 450,000 people voted to bring a 2007 backup back online. Now it's bigger than the m | 989v A cartoon about grinding boars won a Primetime Emmy. Blizzard helped make it. What's your ",
+  "Series ranked by weight: Zelda 16%, WoW 15%, OSRS 15%, Fire Emblem 14%, Resident Evil 14%, Final Fantasy 14%, Kingdom Hearts 11%",
+  "Top hooks: 3720v In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f | 1038v Nearly 450,000 people voted to bring a 2007 backup back online. Now it's bigger than the m | 989v A cartoon about grinding boars won a Primetime Emmy. Blizzard helped make it. What's your ",
   "Weakest hooks: 38v #worldofwarcraft #ahnqiraj #didyouknow #gaminghistory  | 31v  | 22v In 2016 Blizzard shut down Nostalrius, a fan-run vanilla WoW server with over 800,000 acco",
   "Best completion: 9% Nearly 450,000 people voted to bring a 2007 backup | 7% He never beat the raid but Blizzard made him an ac | 8% A 1998 game is still the highest rated of all time"
  ],
  "posts": [
   {
-   "post_id": "6ae40cfc7f337b94295e26b8",
+   "post_id": "6ae529ceea13dce523a98076",
+   "platform": "tiktok",
+   "series": "Final Fantasy",
+   "published": "2026-10-30",
+   "hook": "Final Fantasy XV was announced in May 2006 as Versus XIII and did not ship until November ",
+   "views": 109,
+   "likes": 4,
+   "comments": 0,
+   "shares": 0,
+   "saves": 1,
+   "follows": 0,
+   "completion": 0.0085,
+   "avg_watch_ms": 6170,
+   "engagement_rate": 4.59
+  },
+  {
+   "post_id": "6ae53381604760eba92ecea2",
+   "platform": "instagram",
+   "series": "Final Fantasy",
+   "published": "2026-10-30",
+   "hook": "Final Fantasy XV was announced in May 2006 as Versus XIII and did not ship until November ",
+   "views": 595,
+   "likes": 2,
+   "comments": 0,
+   "shares": 0,
+   "saves": 2,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 9254,
+   "engagement_rate": 0.67
+  },
+  {
+   "post_id": "6ae529ceea13dce523a98075",
+   "platform": "tiktok",
+   "series": "Other",
+   "published": "2026-10-30",
+   "hook": "The first Grand Theft Auto began as a cops and robbers game called Race 'n' Chase, and pub",
+   "views": 126,
+   "likes": 3,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0.0462,
+   "avg_watch_ms": 12610,
+   "engagement_rate": 2.38
+  },
+  {
+   "post_id": "6ae50902604760eba927faaa",
    "platform": "instagram",
    "series": "Other",
    "published": "2026-10-30",
-   "hook": "Sir Patrick Stewart died on October 28 at 86. Before Oblivion players ever left the sewers",
-   "views": 121,
+   "hook": "The first Grand Theft Auto began as a cops and robbers game called Race 'n' Chase, and pub",
+   "views": 129,
    "likes": 0,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 13292,
+   "avg_watch_ms": 7884,
+   "engagement_rate": 0
+  },
+  {
+   "post_id": "6ae4d4e478ec0d1824c76e0f",
+   "platform": "tiktok",
+   "series": "WoW",
+   "published": "2026-10-30",
+   "hook": "In October 2008 Blizzard turned Stormwind into a zombie outbreak on purpose, then pulled t",
+   "views": 112,
+   "likes": 2,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0.0763,
+   "avg_watch_ms": 19810,
+   "engagement_rate": 1.79
+  },
+  {
+   "post_id": "6ae4b4498b41d88745c9c16c",
+   "platform": "instagram",
+   "series": "WoW",
+   "published": "2026-10-30",
+   "hook": "In October 2008 Blizzard turned Stormwind into a zombie outbreak on purpose, then pulled t",
+   "views": 1189,
+   "likes": 17,
+   "comments": 1,
+   "shares": 40,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 23915,
+   "engagement_rate": 4.88
+  },
+  {
+   "post_id": "6ae40cfc7f337b94295e26b8",
+   "platform": "instagram",
+   "series": "Other",
+   "published": "2026-10-30",
+   "hook": "Sir Patrick Stewart died on October 28 at 86. Before Oblivion players ever left the sewers",
+   "views": 126,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 13132,
    "engagement_rate": 0
   },
   {
@@ -150,7 +246,7 @@
    "follows": 0,
    "completion": 0.0208,
    "avg_watch_ms": 7740,
-   "engagement_rate": 4.26
+   "engagement_rate": 5.41
   },
   {
    "post_id": "6ae3d798156b40fac105ec2e",
@@ -158,15 +254,15 @@
    "series": "Other",
    "published": "2026-10-29",
    "hook": "Sir Patrick Stewart died on October 28 at 86. Before Oblivion players ever left the sewers",
-   "views": 315,
-   "likes": 16,
+   "views": 336,
+   "likes": 17,
    "comments": 0,
    "shares": 3,
    "saves": 1,
-   "follows": 1,
-   "completion": 0.0536,
-   "avg_watch_ms": 14050,
-   "engagement_rate": 6.35
+   "follows": 2,
+   "completion": 0.0619,
+   "avg_watch_ms": 14670,
+   "engagement_rate": 12.65
   },
   {
    "post_id": "6ae3d798156b40fac105ec2d",
@@ -174,15 +270,15 @@
    "series": "Other",
    "published": "2026-10-29",
    "hook": "Two weeks after four people stole the show with No Man's Sky at the 2013 VGX awards, a flo",
-   "views": 106,
+   "views": 135,
    "likes": 2,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0183,
-   "avg_watch_ms": 10110,
-   "engagement_rate": 1.89
+   "completion": 0.0214,
+   "avg_watch_ms": 10170,
+   "engagement_rate": 4.08
   },
   {
    "post_id": "6ae3e2d1306acfe3053b74bb",
@@ -206,15 +302,15 @@
    "series": "Other",
    "published": "2026-10-29",
    "hook": "Two weeks after four people stole the show with No Man's Sky at the 2013 VGX awards, a flo",
-   "views": 218,
-   "likes": 0,
+   "views": 280,
+   "likes": 1,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 12703,
-   "engagement_rate": 0
+   "avg_watch_ms": 12547,
+   "engagement_rate": 0.36
   },
   {
    "post_id": "6ae3ad87f01c98658cd240cb",
@@ -222,15 +318,15 @@
    "series": "Final Fantasy",
    "published": "2026-10-29",
    "hook": "Nine numbered Final Fantasy games went by before a single character spoke a word out loud.",
-   "views": 150,
+   "views": 179,
    "likes": 2,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0066,
-   "avg_watch_ms": 7520,
-   "engagement_rate": 1.33
+   "completion": 0.011,
+   "avg_watch_ms": 8790,
+   "engagement_rate": 1.89
   },
   {
    "post_id": "6ae363ee842fe36a7d47181e",
@@ -254,15 +350,15 @@
    "series": "WoW",
    "published": "2026-10-28",
    "hook": "Around 1999 Blizzard scrapped a squad game called Nomad and started World of Warcraft with",
-   "views": 131,
-   "likes": 0,
+   "views": 160,
+   "likes": 1,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0365,
-   "avg_watch_ms": 12180,
-   "engagement_rate": 0
+   "completion": 0.0542,
+   "avg_watch_ms": 14170,
+   "engagement_rate": 0.85
   },
   {
    "post_id": "6ae2a4cd391cbe562127be3b",
@@ -302,15 +398,15 @@
    "series": "Final Fantasy",
    "published": "2026-10-28",
    "hook": "Final Fantasy VII started life as a Super Nintendo game in 1994, and Square only jumped to",
-   "views": 358,
-   "likes": 17,
+   "views": 374,
+   "likes": 19,
    "comments": 0,
    "shares": 0,
    "saves": 1,
    "follows": 0,
-   "completion": 0.0672,
-   "avg_watch_ms": 19730,
-   "engagement_rate": 13.04
+   "completion": 0.0746,
+   "avg_watch_ms": 20170,
+   "engagement_rate": 6.33
   },
   {
    "post_id": "6ae25181894ff6512f1c0f2e",
@@ -334,14 +430,14 @@
    "series": "Final Fantasy",
    "published": "2026-10-28",
    "hook": "Final Fantasy VII started life as a Super Nintendo game in 1994, and Square only jumped to",
-   "views": 1358,
+   "views": 1361,
    "likes": 11,
    "comments": 0,
    "shares": 4,
    "saves": 1,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 15197,
+   "avg_watch_ms": 15239,
    "engagement_rate": 1.18
   },
   {
@@ -350,15 +446,15 @@
    "series": "Zelda",
    "published": "2026-10-28",
    "hook": "Twilight Princess on Wii is a complete mirror image of the GameCube version, flipped in 20",
-   "views": 377,
+   "views": 379,
    "likes": 12,
    "comments": 2,
    "shares": 0,
    "saves": 1,
    "follows": 0,
-   "completion": 0.0334,
-   "avg_watch_ms": 15890,
-   "engagement_rate": 4.5
+   "completion": 0.0332,
+   "avg_watch_ms": 15930,
+   "engagement_rate": 4.39
   },
   {
    "post_id": "6ae12f096b03cf2a37fe7dda",
@@ -430,14 +526,14 @@
    "series": "WoW",
    "published": "2026-10-27",
    "hook": "In 2016 Blizzard shut down Nostalrius, a fan-run vanilla WoW server with over 800,000 acco",
-   "views": 2510,
+   "views": 2511,
    "likes": 11,
    "comments": 7,
    "shares": 3,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 30091,
+   "avg_watch_ms": 30085,
    "engagement_rate": 0.84
   },
   {
@@ -486,7 +582,7 @@
    "follows": 0,
    "completion": 0.0246,
    "avg_watch_ms": 12240,
-   "engagement_rate": 4.95
+   "engagement_rate": 4.9
   },
   {
    "post_id": "6adfabb35ac5166b9091f583",
@@ -518,7 +614,7 @@
    "follows": 0,
    "completion": 0.0298,
    "avg_watch_ms": 13270,
-   "engagement_rate": 3.31
+   "engagement_rate": 3.29
   },
   {
    "post_id": "6adf85789c8ec7ef3b97d529",
@@ -542,14 +638,14 @@
    "series": "Resident Evil",
    "published": "2026-10-26",
    "hook": "Capcom had Resident Evil 2 about 70 percent done in 1997, with a motorcycle racer named El",
-   "views": 451,
+   "views": 452,
    "likes": 21,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0372,
-   "avg_watch_ms": 14960,
+   "completion": 0.0371,
+   "avg_watch_ms": 14940,
    "engagement_rate": 5.1
   },
   {
@@ -670,14 +766,14 @@
    "series": "Other",
    "published": "2026-10-24",
    "hook": "Shigeru Miyamoto spent more than ten years on one idea: an island everyone would recognize",
-   "views": 142,
+   "views": 144,
    "likes": 1,
    "comments": 0,
    "shares": 3,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 5850,
+   "avg_watch_ms": 5800,
    "engagement_rate": 3.45
   },
   {
@@ -782,14 +878,14 @@
    "series": "Final Fantasy",
    "published": "2026-10-23",
    "hook": "Square spent 137 million dollars on The Spirits Within in 2001 and it made back about 85 m",
-   "views": 1516,
+   "views": 1517,
    "likes": 15,
    "comments": 4,
    "shares": 3,
    "saves": 5,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 20479,
+   "avg_watch_ms": 20464,
    "engagement_rate": 1.78
   },
   {
@@ -830,15 +926,15 @@
    "series": "WoW",
    "published": "2026-10-22",
    "hook": "In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f",
-   "views": 3676,
-   "likes": 79,
+   "views": 3720,
+   "likes": 81,
    "comments": 6,
    "shares": 22,
    "saves": 6,
    "follows": 0,
    "completion": 0.0681,
    "avg_watch_ms": 28900,
-   "engagement_rate": 3.28
+   "engagement_rate": 3.33
   },
   {
    "post_id": "6adaa4b5fcc8b1c8a51b9504",
@@ -846,15 +942,15 @@
    "series": "WoW",
    "published": "2026-10-22",
    "hook": "In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f",
-   "views": 4303,
+   "views": 4325,
    "likes": 52,
    "comments": 1,
    "shares": 39,
    "saves": 9,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 32346,
-   "engagement_rate": 2.35
+   "avg_watch_ms": 32284,
+   "engagement_rate": 2.34
   },
   {
    "post_id": "6ada83308062f400a7ca26a8",
@@ -862,15 +958,15 @@
    "series": "Fire Emblem",
    "published": "2026-10-22",
    "hook": "Shouzou Kaga made the first five Fire Emblem games, then left and built a PlayStation riva",
-   "views": 758,
+   "views": 769,
    "likes": 16,
    "comments": 1,
    "shares": 1,
    "saves": 2,
    "follows": 0,
-   "completion": 0.057,
-   "avg_watch_ms": 19590,
-   "engagement_rate": 2.92
+   "completion": 0.0556,
+   "avg_watch_ms": 19190,
+   "engagement_rate": 2.89
   },
   {
    "post_id": "6ada7e408062f400a7c959dc",
@@ -878,15 +974,15 @@
    "series": "Fire Emblem",
    "published": "2026-10-22",
    "hook": "Shouzou Kaga made the first five Fire Emblem games, then left and built a PlayStation riva",
-   "views": 3129,
+   "views": 3137,
    "likes": 48,
    "comments": 1,
    "shares": 35,
    "saves": 24,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 26670,
-   "engagement_rate": 3.45
+   "avg_watch_ms": 26618,
+   "engagement_rate": 3.44
   },
   {
    "post_id": "6ada37e3f8760912d5ea0dd6",
@@ -933,7 +1029,7 @@
    "saves": 0,
    "follows": 0,
    "completion": 0.0476,
-   "avg_watch_ms": 18080,
+   "avg_watch_ms": 16310,
    "engagement_rate": 3.03
   },
   {
@@ -949,7 +1045,7 @@
    "saves": 4,
    "follows": 0,
    "completion": 0.0631,
-   "avg_watch_ms": 21510,
+   "avg_watch_ms": 20690,
    "engagement_rate": 7.61
   },
   {
@@ -997,7 +1093,7 @@
    "saves": 1,
    "follows": 0,
    "completion": 0.0579,
-   "avg_watch_ms": 19450,
+   "avg_watch_ms": 19080,
    "engagement_rate": 3.56
   },
   {
@@ -1134,14 +1230,14 @@
    "series": "Resident Evil",
    "published": "2026-10-19",
    "hook": "In Japan the series has never once been called Resident Evil. The real name was blocked in",
-   "views": 1947,
+   "views": 1948,
    "likes": 20,
    "comments": 0,
    "shares": 6,
    "saves": 3,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 20548,
+   "avg_watch_ms": 20540,
    "engagement_rate": 1.49
   },
   {
@@ -1166,15 +1262,15 @@
    "series": "Fire Emblem",
    "published": "2026-10-19",
    "hook": "250,000 copies or the series was dead. It sold nearly two million. Who did you marry in Aw",
-   "views": 1169,
+   "views": 1170,
    "likes": 20,
    "comments": 3,
    "shares": 3,
    "saves": 2,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 10963,
-   "engagement_rate": 2.4
+   "avg_watch_ms": 10966,
+   "engagement_rate": 2.39
   },
   {
    "post_id": "6ad6114dc15addba9ff1608e",
@@ -1508,9 +1604,9 @@
    "shares": 2,
    "saves": 3,
    "follows": 0,
-   "completion": 0.0617,
-   "avg_watch_ms": 10740,
-   "engagement_rate": 4.74
+   "completion": 0.0628,
+   "avg_watch_ms": 10770,
+   "engagement_rate": 4.73
   },
   {
    "post_id": "6ad6114dc15addba9ff16081",
@@ -1518,13 +1614,13 @@
    "series": "WoW",
    "published": "2026-09-06",
    "hook": "He never beat the raid but Blizzard made him an achievement anyway. Do you still yell his ",
-   "views": 983,
+   "views": 986,
    "likes": 50,
    "comments": 3,
    "shares": 0,
    "saves": 4,
    "follows": 3,
-   "completion": 0.0731,
+   "completion": 0.073,
    "avg_watch_ms": 11140,
    "engagement_rate": 6.65
   },
