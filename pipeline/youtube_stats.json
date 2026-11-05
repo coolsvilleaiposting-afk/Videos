@@ -1,9 +1,9 @@
 {
- "fetched": "2026-11-02",
+ "fetched": "2026-11-05",
  "channel_id": "UCvqNyI3jmHN1doZ2xCeEsIg",
  "range": [
-  "2026-10-05",
-  "2026-11-02"
+  "2026-10-08",
+  "2026-11-05"
  ],
  "columns": [
   "video",
@@ -19,18 +19,6 @@
  ],
  "rows": [
   [
-   "9TRvKKv4O7o",
-   7,
-   2,
-   2,
-   98.01,
-   72,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "1L1OZAS5D8Y",
    7,
    3,
@@ -43,12 +31,24 @@
    0
   ],
   [
-   "ZQW_BegNOfc",
-   5,
-   3,
+   "9TRvKKv4O7o",
+   7,
+   2,
+   2,
+   98.01,
+   72,
    1,
-   38.26,
-   25,
+   0,
+   0,
+   0
+  ],
+  [
+   "ZQW_BegNOfc",
+   6,
+   4,
+   1,
+   30.130000000000003,
+   19,
    0,
    0,
    0,
@@ -67,12 +67,36 @@
    0
   ],
   [
+   "UTT2g1MzyjE",
+   3,
+   1,
+   0,
+   0.27,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "4ImqfL7pOWY",
    3,
    2,
    1,
    52.839999999999996,
    34,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "uMdcu5MMO14",
+   3,
+   2,
+   1,
+   57.99999999999999,
+   38,
    0,
    0,
    0,
@@ -103,25 +127,25 @@
    0
   ],
   [
-   "uMdcu5MMO14",
-   3,
+   "fSQH0kuQM9k",
    2,
    1,
-   57.99999999999999,
-   38,
+   0,
+   0.58,
+   0,
    0,
    0,
    0,
    0
   ],
   [
-   "BEXsWGCPjsI",
+   "pPyfi__kmH4",
    2,
    1,
    0,
-   107.15999999999998,
-   35,
-   1,
+   21.6,
+   15,
+   0,
    0,
    0,
    0
@@ -139,12 +163,60 @@
    0
   ],
   [
-   "fSQH0kuQM9k",
+   "HNTk9Sh5qZ4",
    2,
    1,
    0,
-   0.58,
+   100.12,
+   33,
+   1,
    0,
+   0,
+   0
+  ],
+  [
+   "y1byWKq_Uu0",
+   2,
+   1,
+   0,
+   117.52,
+   35,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "BEXsWGCPjsI",
+   2,
+   1,
+   0,
+   107.15999999999998,
+   35,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "S3Xxu5OkhqM",
+   2,
+   1,
+   0,
+   53.290000000000006,
+   41,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "lGP-qI6n2MQ",
+   2,
+   2,
+   1,
+   76.1,
+   51,
    0,
    0,
    0,
@@ -163,42 +235,6 @@
    0
   ],
   [
-   "y1byWKq_Uu0",
-   2,
-   1,
-   0,
-   117.52,
-   35,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
-   "HNTk9Sh5qZ4",
-   2,
-   1,
-   0,
-   100.12,
-   33,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
-   "pPyfi__kmH4",
-   2,
-   1,
-   0,
-   21.6,
-   15,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "grmT56Ip1NU",
    1,
    1,
@@ -211,7 +247,7 @@
    0
   ],
   [
-   "UTT2g1MzyjE",
+   "AHtgorMJeZs",
    1,
    0,
    0,
@@ -223,7 +259,7 @@
    0
   ],
   [
-   "S3Xxu5OkhqM",
+   "JGMgcFvxYNk",
    1,
    0,
    0,
@@ -342,6 +378,21 @@
    "title": "Wuhu Island Was Miyamoto's 10-Year Pet Project",
    "hashtags": "#gamingnews #nintendoswitchsportsresort #wiisports #wuhuisland #nintendo #switch2 #gaminghistory #didyouknow",
    "published": "2026-10-24"
+  },
+  "lGP-qI6n2MQ": {
+   "title": "RuneScape Banned 7.7 Million Bots in a Week and Called It a Holiday",
+   "hashtags": "#osrs #gaminghistory #runescape #jagex #mmorpg",
+   "published": "2026-10-31"
+  },
+  "AHtgorMJeZs": {
+   "title": "Final Fantasy XV Took Ten Years and Two Names to Come Out",
+   "hashtags": "#finalfantasy #gaminghistory #ffxv #squareenix #noctis",
+   "published": "2026-10-30"
+  },
+  "JGMgcFvxYNk": {
+   "title": "Blizzard Unleashed a Zombie Plague on WoW on Purpose in 2008",
+   "hashtags": "#wow #gaminghistory #wrathofthelichking #zombies #halloween",
+   "published": "2026-10-30"
   }
  }
 }
