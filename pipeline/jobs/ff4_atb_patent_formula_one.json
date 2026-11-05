@@ -1,0 +1,32 @@
+{
+ "slug": "ff4_atb_patent_formula_one",
+ "series": "FINAL FANTASY IV",
+ "accent": "#c9a227",
+ "deep": "#2a1d05",
+ "voice": "leigh",
+ "footage": "irsa_2.mp4",
+ "footage_offset": 13,
+ "title": "Square Patented Final Fantasy IV's Battle Timer in 1995",
+ "hook": "In 1991 Final Fantasy IV added a timer that let fast characters attack twice a turn, and Square locked it up as US Patent 5,390,937 in 1995. A fellow FFIV designer says Hiroyuki Ito got the idea watching Formula One. Which Final Fantasy had the best battle system?\nGameplay is from Shards of Irsa, a game I'm making.",
+ "hashtags": "#finalfantasy #gaminghistory #ff4 #squareenix #jrpg",
+ "sources": [
+  "https://eu.finalfantasy.com/topics/296",
+  "https://www.famitsu.com/news/202107/19227416.html",
+  "https://gamesbeat.com/?p=124836",
+  "https://www.nintendolife.com/games/snes/final_fantasy_ii",
+  "https://news.denfaminicogamer.jp/news/201106b",
+  "https://kakuchopurei.com/2020/03/how-three-decades-of-final-fantasy-shaped-vii-remakes-combat-part-1/3",
+  "https://novacrystallis.com/2023/07/final-fantasy-35th-anniversary-special-interview-part-2-of-2-transcription/",
+  "https://screenrant.com/final-fantasy-active-time-battle-system-f1-racing/",
+  "https://hardcoregamer.com/features/the-evolution-of-final-fantasy-battle-systems-part-2-16-bit-revolution/285180/",
+  "https://uspto.report/patent/grant/5390937",
+  "https://www.google.co.uk/patents/US5390937",
+  "https://www.pcgamer.com/5-game-mechanics-legally-protected-by-the-companies-that-made-them/",
+  "https://www.patentarcade.com/2019/07/u-s-patent-no-5390937-video-game-apparatus-method-and-device-for-controlling-same.html",
+  "https://www.engadget.com/2014-04-29-what-final-fantasy-x-did-differently-over-x-years-ago.html",
+  "https://timeextension.com/games/snes/chrono_trigger",
+  "https://www.gamespot.com/articles/e3-2019-final-fantasy-7-combat-system-detailed-dur/1100-6467650/",
+  "https://www.gamespot.com/articles/final-fantasy-7-remake-release-date-gameplay-trail/1100-6472408/"
+ ],
+ "script": "Did you know the battle timer in Final Fantasy IV was patented, and may have come from Formula One? Final Fantasy IV came out for the Super Famicom on July 19, 1991. It reached North America that November, renamed Final Fantasy Two. It introduced the Active Time Battle system, designed by Hiroyuki Ito. Instead of taking strict turns, each character had a gauge that filled in real time. Fast characters could act twice while slow ones acted once, and enemies kept attacking while you thought. Fellow Final Fantasy IV designer Takashi Tokita says Ito got the idea watching Formula One, seeing cars that had been lapped. Square filed a United States patent in March 1992, naming Ito and Hironobu Sakaguchi as the inventors. It was granted on February 21, 1995. Every numbered Final Fantasy from Four through Nine used the system, and so did Chrono Trigger. Final Fantasy Ten was the first to drop it. The patent has long since expired, but the idea never left. Final Fantasy Seven Remake brought the ATB gauge back in twenty twenty, inside real time action combat. Which Final Fantasy had the best battle system? Follow for more gaming history."
+}
