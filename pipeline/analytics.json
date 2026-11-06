@@ -1,11 +1,44 @@
 {
- "generated": "2026-11-05T10:12:59+00:00",
+ "generated": "2026-11-06T10:18:08+00:00",
  "followers": {
-  "tiktok": 19,
-  "instagram": 10
+  "instagram": 9,
+  "tiktok": 19
  },
  "channel_median_tiktok_views": 294,
  "series": {
+  "Final Fantasy": {
+   "posts": 8,
+   "median_views": 320,
+   "mean_views": 332,
+   "engagement_per_view": 0.0535,
+   "avg_watch_s": 12.7,
+   "follows": 1,
+   "ig_median_views": 703,
+   "yt_posts": 5,
+   "yt_median_views": 1
+  },
+  "Zelda": {
+   "posts": 6,
+   "median_views": 331,
+   "mean_views": 389,
+   "engagement_per_view": 0.0469,
+   "avg_watch_s": 10.6,
+   "follows": 2,
+   "ig_median_views": 1216,
+   "yt_posts": 1,
+   "yt_median_views": 2
+  },
+  "Fire Emblem": {
+   "posts": 3,
+   "median_views": 404,
+   "mean_views": 512,
+   "engagement_per_view": 0.0411,
+   "avg_watch_s": 10.9,
+   "follows": 0,
+   "ig_median_views": 176,
+   "yt_posts": 2,
+   "yt_median_views": 1
+  },
   "Resident Evil": {
    "posts": 3,
    "median_views": 382,
@@ -13,7 +46,7 @@
    "engagement_per_view": 0.0711,
    "avg_watch_s": 9.4,
    "follows": 0,
-   "ig_median_views": 1236,
+   "ig_median_views": 1254,
    "yt_posts": 2,
    "yt_median_views": 2
   },
@@ -21,21 +54,10 @@
    "posts": 11,
    "median_views": 120,
    "mean_views": 140,
-   "engagement_per_view": 0.0343,
+   "engagement_per_view": 0.0342,
    "avg_watch_s": 8.8,
    "follows": 2,
    "ig_median_views": 246,
-   "yt_posts": 2,
-   "yt_median_views": 1
-  },
-  "Fire Emblem": {
-   "posts": 3,
-   "median_views": 404,
-   "mean_views": 512,
-   "engagement_per_view": 0.0411,
-   "avg_watch_s": 10.8,
-   "follows": 0,
-   "ig_median_views": 232,
    "yt_posts": 2,
    "yt_median_views": 1
   },
@@ -52,89 +74,115 @@
   },
   "WoW": {
    "posts": 14,
-   "median_views": 310,
-   "mean_views": 631,
-   "engagement_per_view": 0.055,
+   "median_views": 312,
+   "mean_views": 632,
+   "engagement_per_view": 0.0549,
    "avg_watch_s": 15.3,
    "follows": 10,
-   "ig_median_views": 1189,
+   "ig_median_views": 1190,
    "yt_posts": 3,
    "yt_median_views": 1
   },
-  "Zelda": {
-   "posts": 6,
-   "median_views": 331,
-   "mean_views": 389,
-   "engagement_per_view": 0.0469,
-   "avg_watch_s": 10.7,
-   "follows": 2,
-   "ig_median_views": 1199,
-   "yt_posts": 1,
-   "yt_median_views": 2
-  },
   "OSRS": {
    "posts": 6,
-   "median_views": 306,
+   "median_views": 308,
    "mean_views": 507,
-   "engagement_per_view": 0.0452,
+   "engagement_per_view": 0.0451,
    "avg_watch_s": 15.9,
    "follows": 3,
-   "ig_median_views": 1223,
+   "ig_median_views": 1224,
    "yt_posts": 6,
-   "yt_median_views": 1
-  },
-  "Final Fantasy": {
-   "posts": 8,
-   "median_views": 320,
-   "mean_views": 332,
-   "engagement_per_view": 0.0536,
-   "avg_watch_s": 12.7,
-   "follows": 1,
-   "ig_median_views": 1097,
-   "yt_posts": 5,
    "yt_median_views": 1
   }
  },
  "weights": {
-  "WoW": 2.61,
-  "OSRS": 2.54,
-  "Final Fantasy": 2.49,
+  "WoW": 2.63,
+  "OSRS": 2.55,
+  "Final Fantasy": 2.48,
   "Kingdom Hearts": 1.93,
   "Zelda": 2.05,
-  "Fire Emblem": 2.83,
+  "Fire Emblem": 2.84,
   "Resident Evil": 2.82
  },
  "share": {
-  "WoW": 0.151,
+  "WoW": 0.152,
   "OSRS": 0.147,
-  "Final Fantasy": 0.144,
+  "Final Fantasy": 0.143,
   "Kingdom Hearts": 0.112,
-  "Zelda": 0.119,
+  "Zelda": 0.118,
   "Fire Emblem": 0.164,
   "Resident Evil": 0.163
  },
  "lessons": [
   "Series ranked by weight: Fire Emblem 16%, Resident Evil 16%, WoW 15%, OSRS 15%, Final Fantasy 14%, Zelda 12%, Kingdom Hearts 11%",
-  "Top hooks: 3950v In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f | 1038v Nearly 450,000 people voted to bring a 2007 backup back online. Now it's bigger than the m | 992v A cartoon about grinding boars won a Primetime Emmy. Blizzard helped make it. What's your ",
+  "Top hooks: 3961v In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f | 1038v Nearly 450,000 people voted to bring a 2007 backup back online. Now it's bigger than the m | 992v A cartoon about grinding boars won a Primetime Emmy. Blizzard helped make it. What's your ",
   "Weakest hooks: 38v #worldofwarcraft #ahnqiraj #didyouknow #gaminghistory  | 31v  | 22v In 2016 Blizzard shut down Nostalrius, a fan-run vanilla WoW server with over 800,000 acco",
   "Best completion: 9% Nearly 450,000 people voted to bring a 2007 backup | 7% He never beat the raid but Blizzard made him an ac | 8% A 1998 game is still the highest rated of all time"
  ],
  "posts": [
+  {
+   "post_id": "6aed39727b433dbf4fb03526",
+   "platform": "instagram",
+   "series": "Final Fantasy",
+   "published": "2026-11-06",
+   "hook": "In 1991 Final Fantasy IV added a timer that let fast characters attack twice a turn, and S",
+   "views": 310,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saves": 1,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 10160,
+   "engagement_rate": 0.65
+  },
+  {
+   "post_id": "6aed0bc61f669d35386f4e8a",
+   "platform": "instagram",
+   "series": "Zelda",
+   "published": "2026-11-05",
+   "hook": "Miyamoto's first plan for Ocarina of Time kept the whole game inside one castle, and he ev",
+   "views": 1356,
+   "likes": 11,
+   "comments": 3,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 16177,
+   "engagement_rate": 1.03
+  },
+  {
+   "post_id": "6aecb12b7a4faca824d5aa6e",
+   "platform": "instagram",
+   "series": "Fire Emblem",
+   "published": "2026-11-05",
+   "hook": "In 1992 Nintendo shipped a Fire Emblem so odd it stayed locked in Japan for 25 years, unti",
+   "views": 176,
+   "likes": 2,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 8762,
+   "engagement_rate": 1.14
+  },
   {
    "post_id": "6aebe2b808899274bf458210",
    "platform": "instagram",
    "series": "Resident Evil",
    "published": "2026-11-05",
    "hook": "In a 2002 interview Shinji Mikami said he'd cut his own head off if Resident Evil 4 ever l",
-   "views": 1236,
-   "likes": 5,
+   "views": 1254,
+   "likes": 6,
    "comments": 0,
    "shares": 4,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 22562,
-   "engagement_rate": 0.73
+   "avg_watch_ms": 22474,
+   "engagement_rate": 0.8
   },
   {
    "post_id": "6aebb5e2706bc9b3fd08525c",
@@ -142,15 +190,15 @@
    "series": "Other",
    "published": "2026-11-04",
    "hook": "In 2002 an Oregon studio called Pipeworks put 11 monsters on the GameCube and GameSpot cal",
-   "views": 262,
-   "likes": 2,
+   "views": 408,
+   "likes": 3,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 6207,
-   "engagement_rate": 0.76
+   "avg_watch_ms": 6213,
+   "engagement_rate": 0.74
   },
   {
    "post_id": "6aeb5cf7296a2662162999a9",
@@ -158,15 +206,15 @@
    "series": "Fire Emblem",
    "published": "2026-11-04",
    "hook": "Roy fought in Super Smash Bros. Melee on November 21, 2001, four months before Fire Emblem",
-   "views": 315,
-   "likes": 0,
+   "views": 836,
+   "likes": 5,
    "comments": 0,
    "shares": 1,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 10150,
-   "engagement_rate": 0.32
+   "avg_watch_ms": 12205,
+   "engagement_rate": 0.72
   },
   {
    "post_id": "6aea8bc7a2ffdde58a4c7d58",
@@ -174,14 +222,14 @@
    "series": "Kingdom Hearts",
    "published": "2026-11-04",
    "hook": "Kingdom Hearts Final Mix hit Japan on December 26, 2002 with the English voice cast, extra",
-   "views": 1336,
+   "views": 1340,
    "likes": 8,
    "comments": 0,
    "shares": 1,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 13214,
+   "avg_watch_ms": 13225,
    "engagement_rate": 0.67
   },
   {
@@ -190,14 +238,14 @@
    "series": "WoW",
    "published": "2026-11-03",
    "hook": "Mount Hyjal, where Warcraft III ended, stayed off limits for six years until Cataclysm ope",
-   "views": 1180,
+   "views": 1182,
    "likes": 4,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 16031,
+   "avg_watch_ms": 16006,
    "engagement_rate": 0.34
   },
   {
@@ -222,14 +270,14 @@
    "series": "Resident Evil",
    "published": "2026-11-03",
    "hook": "Capcom shelved a Game Boy Color port of the first Resident Evil in 2000 when it was nearly",
-   "views": 1165,
+   "views": 1166,
    "likes": 13,
    "comments": 0,
    "shares": 2,
    "saves": 1,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 12835,
+   "avg_watch_ms": 12827,
    "engagement_rate": 1.37
   },
   {
@@ -238,14 +286,14 @@
    "series": "Other",
    "published": "2026-11-02",
    "hook": "Pikmin began with a GameCube demo of 128 Marios on screen, and Miyamoto says ants in his g",
-   "views": 1123,
+   "views": 1124,
    "likes": 2,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 10326,
+   "avg_watch_ms": 10318,
    "engagement_rate": 0.18
   },
   {
@@ -254,15 +302,15 @@
    "series": "Fire Emblem",
    "published": "2026-11-02",
    "hook": "In 1998 you could rent a dubbed Fire Emblem anime in the United States, five years before ",
-   "views": 115,
+   "views": 116,
    "likes": 1,
    "comments": 0,
    "shares": 0,
    "saves": 1,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 5927,
-   "engagement_rate": 1.74
+   "avg_watch_ms": 5900,
+   "engagement_rate": 1.72
   },
   {
    "post_id": "6ae7dbfc8723fdbd589781cb",
@@ -302,14 +350,14 @@
    "series": "WoW",
    "published": "2026-11-01",
    "hook": "At BlizzCon in August 2007 Blizzard announced Wrath of the Lich King with the words \"new d",
-   "views": 310,
+   "views": 313,
    "likes": 9,
    "comments": 0,
    "shares": 0,
    "saves": 1,
    "follows": 0,
-   "completion": 0.034,
-   "avg_watch_ms": 15010,
+   "completion": 0.0336,
+   "avg_watch_ms": 14960,
    "engagement_rate": 3.62
   },
   {
@@ -350,14 +398,14 @@
    "series": "OSRS",
    "published": "2026-11-01",
    "hook": "On October 25, 2011 Jagex flipped on a new bot detector, banned about 1.5 million RuneScap",
-   "views": 308,
+   "views": 312,
    "likes": 8,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 1,
-   "completion": 0.0482,
-   "avg_watch_ms": 15690,
+   "completion": 0.0476,
+   "avg_watch_ms": 15740,
    "engagement_rate": 2.93
   },
   {
@@ -390,7 +438,7 @@
    "follows": 0,
    "completion": 0.0083,
    "avg_watch_ms": 8070,
-   "engagement_rate": 1.83
+   "engagement_rate": 1.82
   },
   {
    "post_id": "6ae65cdc51c17eabee9fb41e",
@@ -446,14 +494,14 @@
    "series": "Final Fantasy",
    "published": "2026-10-30",
    "hook": "Final Fantasy XV was announced in May 2006 as Versus XIII and did not ship until November ",
-   "views": 154,
+   "views": 155,
    "likes": 9,
    "comments": 0,
    "shares": 0,
    "saves": 2,
    "follows": 0,
-   "completion": 0.0238,
-   "avg_watch_ms": 9090,
+   "completion": 0.0237,
+   "avg_watch_ms": 9040,
    "engagement_rate": 7.48
   },
   {
@@ -486,7 +534,7 @@
    "follows": 0,
    "completion": 0.0423,
    "avg_watch_ms": 12350,
-   "engagement_rate": 2.33
+   "engagement_rate": 2.31
   },
   {
    "post_id": "6ae50902604760eba927faaa",
@@ -590,14 +638,14 @@
    "series": "Other",
    "published": "2026-10-29",
    "hook": "Two weeks after four people stole the show with No Man's Sky at the 2013 VGX awards, a flo",
-   "views": 159,
+   "views": 160,
    "likes": 2,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0182,
-   "avg_watch_ms": 9640,
+   "completion": 0.0181,
+   "avg_watch_ms": 9610,
    "engagement_rate": 1.36
   },
   {
@@ -686,14 +734,14 @@
    "series": "WoW",
    "published": "2026-10-28",
    "hook": "Around 1999 Blizzard scrapped a squad game called Nomad and started World of Warcraft with",
-   "views": 127,
+   "views": 128,
    "likes": 0,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 12019,
+   "avg_watch_ms": 12330,
    "engagement_rate": 0
   },
   {
@@ -773,7 +821,7 @@
    "saves": 1,
    "follows": 0,
    "completion": 0.033,
-   "avg_watch_ms": 15850,
+   "avg_watch_ms": 15340,
    "engagement_rate": 4.32
   },
   {
@@ -798,14 +846,14 @@
    "series": "Other",
    "published": "2026-10-27",
    "hook": "In 1996 Eidos budgeted for 100,000 copies of Tomb Raider, a game whose hero started out as",
-   "views": 62,
+   "views": 63,
    "likes": 2,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0.0159,
-   "avg_watch_ms": 8100,
+   "avg_watch_ms": 7940,
    "engagement_rate": 3.64
   },
   {
@@ -837,7 +885,7 @@
    "saves": 1,
    "follows": 0,
    "completion": 0.0435,
-   "avg_watch_ms": 13520,
+   "avg_watch_ms": 12830,
    "engagement_rate": 4.55
   },
   {
@@ -846,14 +894,14 @@
    "series": "WoW",
    "published": "2026-10-27",
    "hook": "In 2016 Blizzard shut down Nostalrius, a fan-run vanilla WoW server with over 800,000 acco",
-   "views": 2520,
+   "views": 2521,
    "likes": 11,
    "comments": 7,
    "shares": 3,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 30075,
+   "avg_watch_ms": 30078,
    "engagement_rate": 0.83
   },
   {
@@ -894,7 +942,7 @@
    "series": "Other",
    "published": "2026-10-26",
    "hook": "In 1989 Nintendo of America's president wanted Mario in every Game Boy box, until one man ",
-   "views": 118,
+   "views": 119,
    "likes": 2,
    "comments": 0,
    "shares": 1,
@@ -1182,7 +1230,7 @@
    "series": "Final Fantasy",
    "published": "2026-10-23",
    "hook": "Square spent 137 million dollars on The Spirits Within in 2001 and it made back about 85 m",
-   "views": 479,
+   "views": 480,
    "likes": 17,
    "comments": 4,
    "shares": 0,
@@ -1230,14 +1278,14 @@
    "series": "OSRS",
    "published": "2026-10-23",
    "hook": "The Duel Arena opened in 2004, got capped at 10 million coins a stake in November 2021, an",
-   "views": 1218,
+   "views": 1220,
    "likes": 9,
    "comments": 2,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 16220,
+   "avg_watch_ms": 16256,
    "engagement_rate": 0.9
   },
   {
@@ -1246,15 +1294,15 @@
    "series": "WoW",
    "published": "2026-10-22",
    "hook": "In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f",
-   "views": 3950,
+   "views": 3961,
    "likes": 83,
    "comments": 6,
    "shares": 22,
    "saves": 6,
    "follows": 0,
-   "completion": 0.0668,
-   "avg_watch_ms": 28090,
-   "engagement_rate": 3.17
+   "completion": 0.0666,
+   "avg_watch_ms": 28050,
+   "engagement_rate": 3.15
   },
   {
    "post_id": "6adaa4b5fcc8b1c8a51b9504",
@@ -1262,15 +1310,15 @@
    "series": "WoW",
    "published": "2026-10-22",
    "hook": "In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f",
-   "views": 4439,
+   "views": 4451,
    "likes": 53,
    "comments": 1,
    "shares": 39,
    "saves": 9,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 32200,
-   "engagement_rate": 2.3
+   "avg_watch_ms": 32210,
+   "engagement_rate": 2.29
   },
   {
    "post_id": "6ada83308062f400a7ca26a8",
@@ -1278,15 +1326,15 @@
    "series": "Fire Emblem",
    "published": "2026-10-22",
    "hook": "Shouzou Kaga made the first five Fire Emblem games, then left and built a PlayStation riva",
-   "views": 803,
+   "views": 804,
    "likes": 16,
    "comments": 1,
    "shares": 1,
    "saves": 2,
    "follows": 0,
-   "completion": 0.0551,
-   "avg_watch_ms": 19160,
-   "engagement_rate": 2.74
+   "completion": 0.0549,
+   "avg_watch_ms": 19240,
+   "engagement_rate": 2.73
   },
   {
    "post_id": "6ada7e408062f400a7c959dc",
@@ -1476,9 +1524,9 @@
    "shares": 0,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0201,
-   "avg_watch_ms": 13980,
-   "engagement_rate": 3.98
+   "completion": 0.02,
+   "avg_watch_ms": 14030,
+   "engagement_rate": 3.97
   },
   {
    "post_id": "6ad7e0597da23a6a32468e3e",
@@ -1486,7 +1534,7 @@
    "series": "WoW",
    "published": "2026-10-20",
    "hook": "Blizzard announced the pandaren as an April Fools prank in 2002. Ten years later the panda",
-   "views": 311,
+   "views": 312,
    "likes": 10,
    "comments": 1,
    "shares": 0,
