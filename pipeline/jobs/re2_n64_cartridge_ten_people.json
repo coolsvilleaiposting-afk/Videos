@@ -1,0 +1,22 @@
+{
+ "slug": "re2_n64_cartridge_ten_people",
+ "series": "RESIDENT EVIL 2",
+ "accent": "#e03a3a",
+ "deep": "#2b0707",
+ "voice": "justin",
+ "footage": "league_1.mp4",
+ "footage_offset": 33,
+ "title": "Resident Evil 2 Was Squeezed Onto an N64 Cartridge by 10 People",
+ "hook": "Resident Evil 2 filled two PlayStation discs, about 1.2 GB, and a team of around ten people squeezed it onto a 64 MB Nintendo 64 cartridge in twelve months, cutscenes included. Which console port blew your mind?",
+ "hashtags": "#residentevil #gaminghistory #residentevil2 #nintendo64 #capcom",
+ "sources": [
+  "https://gamedeveloper.com/programming/postmortem-angel-studios-i-resident-evil-2-i-n64-version-",
+  "https://www.gamesradar.com/games/survival-horror/how-resident-evil-2-came-to-nintendo-64-despite-capcoms-doubts-",
+  "https://www.nintendolife.com/news/2018/12/video_digging_deep_into_resident_evil_2_on_n64_one_of_the_most_remarkable_ports_of_all_time",
+  "https://www.gamespot.com/reviews/resident-evil-2-review/1900-2543705/",
+  "https://hackaday.com/2026/02/03/how-resident-evil-2-for-the-n64-kept-its-fmv-cutscenes",
+  "https://www.eurogamer.net/digitalfoundry-2018-retro-resident-evil-2-n64-one-of-the-most-ambitious-console-ports-of-all-time",
+  "https://www.metacritic.com/game/resident-evil-2/critic-reviews/?platform=nintendo-64"
+ ],
+ "script": "Did you know Resident Evil 2 was crammed onto a Nintendo 64 cartridge by a team of about ten people? On PlayStation, Resident Evil 2 shipped on two discs holding around 1.2 gigabytes of data. A Nintendo 64 cartridge topped out at 64 megabytes. Cartridges loaded fast, but they held a tiny fraction of what a disc could. Capcom handed the port to Angel Studios, a small California team that later became Rockstar San Diego, the makers of Red Dead Redemption. The studio got twelve months and a team of about ten people. The hardest part was the video. The cutscenes would have filled gigabytes uncompressed, so the team wrote its own video compression and playback system. The finished port kept the full game and all of its video, though the scenes looked grainier than on PlayStation. It also added things the PlayStation version never had. The Expansion Pak enabled a high resolution mode. A randomizer shuffled item locations once you finished the game. And Nintendo required an option to change the blood from red to green or blue. The cartridge reached North America in November of 1999. Critics still call it one of the most remarkable console ports ever made. Which console port impressed you most? Follow for more gaming history."
+}
