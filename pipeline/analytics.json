@@ -1,19 +1,52 @@
 {
- "generated": "2026-11-06T10:18:08+00:00",
+ "generated": "2026-11-07T10:14:25+00:00",
  "followers": {
   "instagram": 9,
   "tiktok": 19
  },
  "channel_median_tiktok_views": 294,
  "series": {
+  "Resident Evil": {
+   "posts": 3,
+   "median_views": 382,
+   "mean_views": 362,
+   "engagement_per_view": 0.0711,
+   "avg_watch_s": 9.4,
+   "follows": 0,
+   "ig_median_views": 1211,
+   "yt_posts": 2,
+   "yt_median_views": 2
+  },
+  "Other": {
+   "posts": 11,
+   "median_views": 120,
+   "mean_views": 141,
+   "engagement_per_view": 0.0341,
+   "avg_watch_s": 8.7,
+   "follows": 2,
+   "ig_median_views": 263,
+   "yt_posts": 2,
+   "yt_median_views": 1
+  },
+  "Fire Emblem": {
+   "posts": 3,
+   "median_views": 404,
+   "mean_views": 513,
+   "engagement_per_view": 0.0411,
+   "avg_watch_s": 10.9,
+   "follows": 0,
+   "ig_median_views": 530,
+   "yt_posts": 2,
+   "yt_median_views": 1
+  },
   "Final Fantasy": {
    "posts": 8,
    "median_views": 320,
    "mean_views": 332,
    "engagement_per_view": 0.0535,
-   "avg_watch_s": 12.7,
+   "avg_watch_s": 12.6,
    "follows": 1,
-   "ig_median_views": 703,
+   "ig_median_views": 1152,
    "yt_posts": 5,
    "yt_median_views": 1
   },
@@ -22,44 +55,11 @@
    "median_views": 331,
    "mean_views": 389,
    "engagement_per_view": 0.0469,
-   "avg_watch_s": 10.6,
+   "avg_watch_s": 10.7,
    "follows": 2,
    "ig_median_views": 1216,
    "yt_posts": 1,
    "yt_median_views": 2
-  },
-  "Fire Emblem": {
-   "posts": 3,
-   "median_views": 404,
-   "mean_views": 512,
-   "engagement_per_view": 0.0411,
-   "avg_watch_s": 10.9,
-   "follows": 0,
-   "ig_median_views": 176,
-   "yt_posts": 2,
-   "yt_median_views": 1
-  },
-  "Resident Evil": {
-   "posts": 3,
-   "median_views": 382,
-   "mean_views": 362,
-   "engagement_per_view": 0.0711,
-   "avg_watch_s": 9.4,
-   "follows": 0,
-   "ig_median_views": 1254,
-   "yt_posts": 2,
-   "yt_median_views": 2
-  },
-  "Other": {
-   "posts": 11,
-   "median_views": 120,
-   "mean_views": 140,
-   "engagement_per_view": 0.0342,
-   "avg_watch_s": 8.8,
-   "follows": 2,
-   "ig_median_views": 246,
-   "yt_posts": 2,
-   "yt_median_views": 1
   },
   "Kingdom Hearts": {
    "posts": 4,
@@ -74,19 +74,19 @@
   },
   "WoW": {
    "posts": 14,
-   "median_views": 312,
-   "mean_views": 632,
+   "median_views": 315,
+   "mean_views": 634,
    "engagement_per_view": 0.0549,
-   "avg_watch_s": 15.3,
+   "avg_watch_s": 15.2,
    "follows": 10,
-   "ig_median_views": 1190,
+   "ig_median_views": 1191,
    "yt_posts": 3,
    "yt_median_views": 1
   },
   "OSRS": {
    "posts": 6,
-   "median_views": 308,
-   "mean_views": 507,
+   "median_views": 309,
+   "mean_views": 508,
    "engagement_per_view": 0.0451,
    "avg_watch_s": 15.9,
    "follows": 3,
@@ -96,8 +96,8 @@
   }
  },
  "weights": {
-  "WoW": 2.63,
-  "OSRS": 2.55,
+  "WoW": 2.64,
+  "OSRS": 2.56,
   "Final Fantasy": 2.48,
   "Kingdom Hearts": 1.93,
   "Zelda": 2.05,
@@ -106,35 +106,83 @@
  },
  "share": {
   "WoW": 0.152,
-  "OSRS": 0.147,
+  "OSRS": 0.148,
   "Final Fantasy": 0.143,
-  "Kingdom Hearts": 0.112,
+  "Kingdom Hearts": 0.111,
   "Zelda": 0.118,
   "Fire Emblem": 0.164,
   "Resident Evil": 0.163
  },
  "lessons": [
   "Series ranked by weight: Fire Emblem 16%, Resident Evil 16%, WoW 15%, OSRS 15%, Final Fantasy 14%, Zelda 12%, Kingdom Hearts 11%",
-  "Top hooks: 3961v In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f | 1038v Nearly 450,000 people voted to bring a 2007 backup back online. Now it's bigger than the m | 992v A cartoon about grinding boars won a Primetime Emmy. Blizzard helped make it. What's your ",
+  "Top hooks: 3978v In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f | 1038v Nearly 450,000 people voted to bring a 2007 backup back online. Now it's bigger than the m | 992v A cartoon about grinding boars won a Primetime Emmy. Blizzard helped make it. What's your ",
   "Weakest hooks: 38v #worldofwarcraft #ahnqiraj #didyouknow #gaminghistory  | 31v  | 22v In 2016 Blizzard shut down Nostalrius, a fan-run vanilla WoW server with over 800,000 acco",
   "Best completion: 9% Nearly 450,000 people voted to bring a 2007 backup | 7% He never beat the raid but Blizzard made him an ac | 8% A 1998 game is still the highest rated of all time"
  ],
  "posts": [
+  {
+   "post_id": "6aee7b528c8af91dc4f53e09",
+   "platform": "instagram",
+   "series": "Resident Evil",
+   "published": "2026-11-07",
+   "hook": "Resident Evil 2 filled two PlayStation discs, about 1.2 GB, and a team of around ten peopl",
+   "views": 307,
+   "likes": 3,
+   "comments": 0,
+   "shares": 0,
+   "saves": 1,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 16090,
+   "engagement_rate": 1.3
+  },
+  {
+   "post_id": "6aee4d11b214c36b315ec6ef",
+   "platform": "instagram",
+   "series": "Other",
+   "published": "2026-11-06",
+   "hook": "In 2008 Gearbox was about 75 percent done with Borderlands when testers said it looked lik",
+   "views": 1328,
+   "likes": 7,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 18709,
+   "engagement_rate": 0.53
+  },
+  {
+   "post_id": "6aee1ee65058e3250e23aa68",
+   "platform": "instagram",
+   "series": "Fire Emblem",
+   "published": "2026-11-06",
+   "hook": "In 2013 Nintendo announced a Fire Emblem and Shin Megami Tensei crossover, then it vanishe",
+   "views": 1238,
+   "likes": 19,
+   "comments": 0,
+   "shares": 4,
+   "saves": 7,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 13085,
+   "engagement_rate": 2.42
+  },
   {
    "post_id": "6aed39727b433dbf4fb03526",
    "platform": "instagram",
    "series": "Final Fantasy",
    "published": "2026-11-06",
    "hook": "In 1991 Final Fantasy IV added a timer that let fast characters attack twice a turn, and S",
-   "views": 310,
-   "likes": 1,
-   "comments": 0,
-   "shares": 0,
-   "saves": 1,
+   "views": 1207,
+   "likes": 15,
+   "comments": 1,
+   "shares": 1,
+   "saves": 4,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 10160,
-   "engagement_rate": 0.65
+   "avg_watch_ms": 19195,
+   "engagement_rate": 1.74
   },
   {
    "post_id": "6aed0bc61f669d35386f4e8a",
@@ -142,15 +190,15 @@
    "series": "Zelda",
    "published": "2026-11-05",
    "hook": "Miyamoto's first plan for Ocarina of Time kept the whole game inside one castle, and he ev",
-   "views": 1356,
-   "likes": 11,
+   "views": 1389,
+   "likes": 12,
    "comments": 3,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 16177,
-   "engagement_rate": 1.03
+   "avg_watch_ms": 16327,
+   "engagement_rate": 1.08
   },
   {
    "post_id": "6aecb12b7a4faca824d5aa6e",
@@ -158,15 +206,15 @@
    "series": "Fire Emblem",
    "published": "2026-11-05",
    "hook": "In 1992 Nintendo shipped a Fire Emblem so odd it stayed locked in Japan for 25 years, unti",
-   "views": 176,
-   "likes": 2,
+   "views": 224,
+   "likes": 3,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 8762,
-   "engagement_rate": 1.14
+   "avg_watch_ms": 10189,
+   "engagement_rate": 1.34
   },
   {
    "post_id": "6aebe2b808899274bf458210",
@@ -174,14 +222,14 @@
    "series": "Resident Evil",
    "published": "2026-11-05",
    "hook": "In a 2002 interview Shinji Mikami said he'd cut his own head off if Resident Evil 4 ever l",
-   "views": 1254,
+   "views": 1255,
    "likes": 6,
    "comments": 0,
    "shares": 4,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 22474,
+   "avg_watch_ms": 22461,
    "engagement_rate": 0.8
   },
   {
@@ -190,15 +238,15 @@
    "series": "Other",
    "published": "2026-11-04",
    "hook": "In 2002 an Oregon studio called Pipeworks put 11 monsters on the GameCube and GameSpot cal",
-   "views": 408,
+   "views": 409,
    "likes": 3,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 6213,
-   "engagement_rate": 0.74
+   "avg_watch_ms": 6204,
+   "engagement_rate": 0.73
   },
   {
    "post_id": "6aeb5cf7296a2662162999a9",
@@ -238,14 +286,14 @@
    "series": "WoW",
    "published": "2026-11-03",
    "hook": "Mount Hyjal, where Warcraft III ended, stayed off limits for six years until Cataclysm ope",
-   "views": 1182,
+   "views": 1183,
    "likes": 4,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 16006,
+   "avg_watch_ms": 15992,
    "engagement_rate": 0.34
   },
   {
@@ -254,14 +302,14 @@
    "series": "Fire Emblem",
    "published": "2026-11-03",
    "hook": "Fire Emblem's Casual Mode debuted on July 15, 2010 in a DS game Nintendo never sold outsid",
-   "views": 149,
+   "views": 150,
    "likes": 0,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 9421,
+   "avg_watch_ms": 9381,
    "engagement_rate": 0
   },
   {
@@ -270,15 +318,15 @@
    "series": "Resident Evil",
    "published": "2026-11-03",
    "hook": "Capcom shelved a Game Boy Color port of the first Resident Evil in 2000 when it was nearly",
-   "views": 1166,
-   "likes": 13,
+   "views": 1167,
+   "likes": 14,
    "comments": 0,
    "shares": 2,
    "saves": 1,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 12827,
-   "engagement_rate": 1.37
+   "avg_watch_ms": 12823,
+   "engagement_rate": 1.46
   },
   {
    "post_id": "6ae906a3b33dedf3ea072c1a",
@@ -350,14 +398,14 @@
    "series": "WoW",
    "published": "2026-11-01",
    "hook": "At BlizzCon in August 2007 Blizzard announced Wrath of the Lich King with the words \"new d",
-   "views": 313,
+   "views": 318,
    "likes": 9,
    "comments": 0,
    "shares": 0,
    "saves": 1,
    "follows": 0,
-   "completion": 0.0336,
-   "avg_watch_ms": 14960,
+   "completion": 0.0331,
+   "avg_watch_ms": 14970,
    "engagement_rate": 3.62
   },
   {
@@ -382,14 +430,14 @@
    "series": "WoW",
    "published": "2026-11-01",
    "hook": "At BlizzCon in August 2007 Blizzard announced Wrath of the Lich King with the words \"new d",
-   "views": 1130,
+   "views": 1131,
    "likes": 4,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 17789,
+   "avg_watch_ms": 17773,
    "engagement_rate": 0.35
   },
   {
@@ -398,15 +446,15 @@
    "series": "OSRS",
    "published": "2026-11-01",
    "hook": "On October 25, 2011 Jagex flipped on a new bot detector, banned about 1.5 million RuneScap",
-   "views": 312,
+   "views": 314,
    "likes": 8,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 1,
-   "completion": 0.0476,
-   "avg_watch_ms": 15740,
-   "engagement_rate": 2.93
+   "completion": 0.0472,
+   "avg_watch_ms": 15600,
+   "engagement_rate": 2.91
   },
   {
    "post_id": "6ae687b60da2bf5c5a193e24",
@@ -414,14 +462,14 @@
    "series": "OSRS",
    "published": "2026-10-31",
    "hook": "On October 25, 2011 Jagex flipped on a new bot detector, banned about 1.5 million RuneScap",
-   "views": 1178,
+   "views": 1179,
    "likes": 2,
    "comments": 3,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 17418,
+   "avg_watch_ms": 17409,
    "engagement_rate": 0.42
   },
   {
@@ -462,14 +510,14 @@
    "series": "Zelda",
    "published": "2026-10-31",
    "hook": "Link's Awakening, the first handheld Zelda, began in the early nineties as one Nintendo pr",
-   "views": 114,
+   "views": 115,
    "likes": 2,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0345,
-   "avg_watch_ms": 9670,
+   "completion": 0.0342,
+   "avg_watch_ms": 9690,
    "engagement_rate": 1.98
   },
   {
@@ -502,7 +550,7 @@
    "follows": 0,
    "completion": 0.0237,
    "avg_watch_ms": 9040,
-   "engagement_rate": 7.48
+   "engagement_rate": 7.33
   },
   {
    "post_id": "6ae53381604760eba92ecea2",
@@ -622,7 +670,7 @@
    "series": "Other",
    "published": "2026-10-29",
    "hook": "Sir Patrick Stewart died on October 28 at 86. Before Oblivion players ever left the sewers",
-   "views": 347,
+   "views": 348,
    "likes": 17,
    "comments": 0,
    "shares": 3,
@@ -725,7 +773,7 @@
    "saves": 0,
    "follows": 0,
    "completion": 0.0539,
-   "avg_watch_ms": 14100,
+   "avg_watch_ms": 13320,
    "engagement_rate": 0.66
   },
   {
@@ -757,7 +805,7 @@
    "saves": 0,
    "follows": 0,
    "completion": 0.0217,
-   "avg_watch_ms": 6270,
+   "avg_watch_ms": 6040,
    "engagement_rate": 0
   },
   {
@@ -772,8 +820,8 @@
    "shares": 0,
    "saves": 1,
    "follows": 0,
-   "completion": 0.0746,
-   "avg_watch_ms": 20170,
+   "completion": 0.0744,
+   "avg_watch_ms": 19260,
    "engagement_rate": 5.65
   },
   {
@@ -852,8 +900,8 @@
    "shares": 0,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0159,
-   "avg_watch_ms": 7940,
+   "completion": 0.0156,
+   "avg_watch_ms": 7810,
    "engagement_rate": 3.64
   },
   {
@@ -948,8 +996,8 @@
    "shares": 1,
    "saves": 2,
    "follows": 0,
-   "completion": 0.0244,
-   "avg_watch_ms": 11600,
+   "completion": 0.0242,
+   "avg_watch_ms": 11520,
    "engagement_rate": 4.9
   },
   {
@@ -990,14 +1038,14 @@
    "series": "WoW",
    "published": "2026-10-26",
    "hook": "Wrath of the Lich King sold 2.8 million copies in one day back in 2008, and Blizzard kept ",
-   "views": 124,
+   "views": 125,
    "likes": 0,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 12272,
+   "avg_watch_ms": 12178,
    "engagement_rate": 0
   },
   {
@@ -1204,8 +1252,8 @@
    "shares": 0,
    "saves": 0,
    "follows": 2,
-   "completion": 0.0567,
-   "avg_watch_ms": 21150,
+   "completion": 0.0566,
+   "avg_watch_ms": 21110,
    "engagement_rate": 5.03
   },
   {
@@ -1214,14 +1262,14 @@
    "series": "WoW",
    "published": "2026-10-23",
    "hook": "WoW sold 240,000 copies in its first 24 hours in November 2004 and all 40 launch servers f",
-   "views": 1508,
+   "views": 1509,
    "likes": 17,
    "comments": 1,
    "shares": 1,
    "saves": 1,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 22093,
+   "avg_watch_ms": 22085,
    "engagement_rate": 1.33
   },
   {
@@ -1236,9 +1284,9 @@
    "shares": 0,
    "saves": 4,
    "follows": 0,
-   "completion": 0.0704,
-   "avg_watch_ms": 19610,
-   "engagement_rate": 5.84
+   "completion": 0.0702,
+   "avg_watch_ms": 19570,
+   "engagement_rate": 5.83
   },
   {
    "post_id": "6adbcc2592a56f607a3bebbc",
@@ -1294,15 +1342,15 @@
    "series": "WoW",
    "published": "2026-10-22",
    "hook": "In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f",
-   "views": 3961,
-   "likes": 83,
+   "views": 3978,
+   "likes": 84,
    "comments": 6,
    "shares": 22,
    "saves": 6,
    "follows": 0,
-   "completion": 0.0666,
-   "avg_watch_ms": 28050,
-   "engagement_rate": 3.15
+   "completion": 0.0664,
+   "avg_watch_ms": 28020,
+   "engagement_rate": 3.18
   },
   {
    "post_id": "6adaa4b5fcc8b1c8a51b9504",
@@ -1310,14 +1358,14 @@
    "series": "WoW",
    "published": "2026-10-22",
    "hook": "In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f",
-   "views": 4451,
+   "views": 4459,
    "likes": 53,
    "comments": 1,
    "shares": 39,
    "saves": 9,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 32210,
+   "avg_watch_ms": 32182,
    "engagement_rate": 2.29
   },
   {
@@ -1326,15 +1374,15 @@
    "series": "Fire Emblem",
    "published": "2026-10-22",
    "hook": "Shouzou Kaga made the first five Fire Emblem games, then left and built a PlayStation riva",
-   "views": 804,
+   "views": 807,
    "likes": 16,
    "comments": 1,
    "shares": 1,
    "saves": 2,
    "follows": 0,
    "completion": 0.0549,
-   "avg_watch_ms": 19240,
-   "engagement_rate": 2.73
+   "avg_watch_ms": 19230,
+   "engagement_rate": 2.72
   },
   {
    "post_id": "6ada7e408062f400a7c959dc",
@@ -1540,9 +1588,9 @@
    "shares": 0,
    "saves": 1,
    "follows": 0,
-   "completion": 0.0188,
-   "avg_watch_ms": 12030,
-   "engagement_rate": 4.29
+   "completion": 0.0187,
+   "avg_watch_ms": 12000,
+   "engagement_rate": 4.27
   },
   {
    "post_id": "6ad7df3d554c3ac405ea55fc",
@@ -1988,9 +2036,9 @@
    "shares": 0,
    "saves": 4,
    "follows": 3,
-   "completion": 0.0728,
-   "avg_watch_ms": 11110,
-   "engagement_rate": 6.63
+   "completion": 0.0727,
+   "avg_watch_ms": 11100,
+   "engagement_rate": 6.62
   },
   {
    "post_id": "6ad6114dc15addba9ff16080",
