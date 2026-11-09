@@ -1,9 +1,9 @@
 {
- "fetched": "2026-11-05",
+ "fetched": "2026-11-09",
  "channel_id": "UCvqNyI3jmHN1doZ2xCeEsIg",
  "range": [
-  "2026-10-08",
-  "2026-11-05"
+  "2026-10-12",
+  "2026-11-09"
  ],
  "columns": [
   "video",
@@ -19,13 +19,37 @@
  ],
  "rows": [
   [
+   "UTT2g1MzyjE",
+   14,
+   4,
+   0,
+   3.4300000000000006,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "1L1OZAS5D8Y",
-   7,
-   3,
-   47,
-   1427.71,
-   956,
+   8,
+   4,
+   48,
+   1087.58,
+   728,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "ZQW_BegNOfc",
+   7,
+   4,
+   1,
+   30.130000000000003,
+   19,
+   0,
    0,
    0,
    0
@@ -43,18 +67,6 @@
    0
   ],
   [
-   "ZQW_BegNOfc",
-   6,
-   4,
-   1,
-   30.130000000000003,
-   19,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "qf0PCs97i4w",
    5,
    1,
@@ -67,12 +79,36 @@
    0
   ],
   [
-   "UTT2g1MzyjE",
-   3,
+   "qdsixZ70Tb8",
+   4,
+   2,
+   2,
+   99.68,
+   67,
    1,
    0,
-   0.27,
    0,
+   0
+  ],
+  [
+   "aKPM-QWOlh8",
+   4,
+   2,
+   1,
+   61.13000000000001,
+   45,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "TcrTJdjNUFU",
+   3,
+   2,
+   0,
+   4.73,
+   3,
    0,
    0,
    0,
@@ -103,6 +139,18 @@
    0
   ],
   [
+   "pPyfi__kmH4",
+   3,
+   1,
+   0,
+   21.6,
+   15,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "a0De8ugRUAs",
    3,
    1,
@@ -115,72 +163,12 @@
    0
   ],
   [
-   "qdsixZ70Tb8",
-   3,
-   2,
-   2,
-   99.68,
-   67,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
-   "fSQH0kuQM9k",
-   2,
-   1,
-   0,
-   0.58,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "pPyfi__kmH4",
-   2,
-   1,
-   0,
-   21.6,
-   15,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "TcrTJdjNUFU",
-   2,
-   1,
-   0,
-   9.46,
-   6,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "HNTk9Sh5qZ4",
    2,
    1,
    0,
    100.12,
    33,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
-   "y1byWKq_Uu0",
-   2,
-   1,
-   0,
-   117.52,
-   35,
    1,
    0,
    0,
@@ -211,12 +199,24 @@
    0
   ],
   [
-   "lGP-qI6n2MQ",
-   2,
+   "y1byWKq_Uu0",
    2,
    1,
-   76.1,
-   51,
+   0,
+   117.52,
+   35,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "fSQH0kuQM9k",
+   2,
+   1,
+   0,
+   0.58,
+   0,
    0,
    0,
    0,
@@ -235,12 +235,12 @@
    0
   ],
   [
-   "grmT56Ip1NU",
+   "lGP-qI6n2MQ",
+   2,
+   2,
    1,
-   1,
-   0,
-   78.64,
-   55,
+   76.1,
+   51,
    0,
    0,
    0,
@@ -260,6 +260,66 @@
   ],
   [
    "JGMgcFvxYNk",
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "-U80Ine6drA",
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "TXNJdqnsW5s",
+   1,
+   1,
+   0,
+   2.79,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "qFIo0C0XvPU",
+   1,
+   1,
+   0,
+   13.309999999999999,
+   8,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "grmT56Ip1NU",
+   1,
+   1,
+   0,
+   78.64,
+   55,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "pLLHoyvKxpg",
    1,
    0,
    0,
@@ -393,6 +453,31 @@
    "title": "Blizzard Unleashed a Zombie Plague on WoW on Purpose in 2008",
    "hashtags": "#wow #gaminghistory #wrathofthelichking #zombies #halloween",
    "published": "2026-10-30"
+  },
+  "TXNJdqnsW5s": {
+   "title": "Call of Duty Was Built by the Team Behind Medal of Honor",
+   "hashtags": "#callofduty #gamingnews #gaminghistory #modernwarfare4 #infinityward",
+   "published": "2026-10-25"
+  },
+  "-U80Ine6drA": {
+   "title": "WoW Players Waited 6 Years to Set Foot on Mount Hyjal",
+   "hashtags": "#wow #gaminghistory #gamingnews #wowforever #cataclysm",
+   "published": "2026-11-03"
+  },
+  "qFIo0C0XvPU": {
+   "title": "Grand Theft Auto Started as a Game Where You Played the Cop",
+   "hashtags": "#gta #gamingnews #gaminghistory #gta6 #rockstargames",
+   "published": "2026-10-30"
+  },
+  "pLLHoyvKxpg": {
+   "title": "Roy Was in Smash Bros. Melee Before His Own Game Existed",
+   "hashtags": "#fireemblem #gaminghistory #smashbros #roy #gameboyadvance",
+   "published": "2026-11-04"
+  },
+  "aKPM-QWOlh8": {
+   "title": "WoW's Gate That Needed 400,000 Bandages to Open",
+   "hashtags": "#wow #worldofwarcraft #ahnqiraj #wowclassic #blizzard #raiding #gaminghistory #didyouknow",
+   "published": "2026-10-21"
   }
  }
 }
