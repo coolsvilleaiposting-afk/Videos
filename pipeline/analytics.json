@@ -1,11 +1,44 @@
 {
- "generated": "2026-11-09T10:22:56+00:00",
+ "generated": "2026-11-10T10:12:07+00:00",
  "followers": {
-  "instagram": 13,
-  "tiktok": 19
+  "tiktok": 19,
+  "instagram": 13
  },
  "channel_median_tiktok_views": 305,
  "series": {
+  "Kingdom Hearts": {
+   "posts": 4,
+   "median_views": 309,
+   "mean_views": 269,
+   "engagement_per_view": 0.0465,
+   "avg_watch_s": 10.9,
+   "follows": 0,
+   "ig_median_views": 131,
+   "yt_posts": 1,
+   "yt_median_views": 2
+  },
+  "Other": {
+   "posts": 11,
+   "median_views": 123,
+   "mean_views": 141,
+   "engagement_per_view": 0.0339,
+   "avg_watch_s": 8.2,
+   "follows": 2,
+   "ig_median_views": 282,
+   "yt_posts": 4,
+   "yt_median_views": 1
+  },
+  "WoW": {
+   "posts": 14,
+   "median_views": 341,
+   "mean_views": 673,
+   "engagement_per_view": 0.0555,
+   "avg_watch_s": 15.1,
+   "follows": 10,
+   "ig_median_views": 1184,
+   "yt_posts": 5,
+   "yt_median_views": 1
+  },
   "Fire Emblem": {
    "posts": 3,
    "median_views": 404,
@@ -13,19 +46,8 @@
    "engagement_per_view": 0.0411,
    "avg_watch_s": 10.8,
    "follows": 0,
-   "ig_median_views": 994,
+   "ig_median_views": 996,
    "yt_posts": 3,
-   "yt_median_views": 1
-  },
-  "Other": {
-   "posts": 11,
-   "median_views": 122,
-   "mean_views": 141,
-   "engagement_per_view": 0.034,
-   "avg_watch_s": 8.1,
-   "follows": 2,
-   "ig_median_views": 263,
-   "yt_posts": 4,
    "yt_median_views": 1
   },
   "Resident Evil": {
@@ -35,7 +57,7 @@
    "engagement_per_view": 0.0711,
    "avg_watch_s": 9.4,
    "follows": 0,
-   "ig_median_views": 1255,
+   "ig_median_views": 1256,
    "yt_posts": 2,
    "yt_median_views": 2
   },
@@ -44,7 +66,7 @@
    "median_views": 310,
    "mean_views": 508,
    "engagement_per_view": 0.0456,
-   "avg_watch_s": 15.9,
+   "avg_watch_s": 15.8,
    "follows": 3,
    "ig_median_views": 1228,
    "yt_posts": 6,
@@ -55,7 +77,7 @@
    "median_views": 321,
    "mean_views": 333,
    "engagement_per_view": 0.0535,
-   "avg_watch_s": 12.4,
+   "avg_watch_s": 12.5,
    "follows": 1,
    "ig_median_views": 1153,
    "yt_posts": 5,
@@ -63,44 +85,22 @@
   },
   "Zelda": {
    "posts": 6,
-   "median_views": 331,
+   "median_views": 332,
    "mean_views": 390,
    "engagement_per_view": 0.0494,
-   "avg_watch_s": 10.7,
+   "avg_watch_s": 10.6,
    "follows": 2,
    "ig_median_views": 1216,
    "yt_posts": 1,
    "yt_median_views": 2
-  },
-  "Kingdom Hearts": {
-   "posts": 4,
-   "median_views": 309,
-   "mean_views": 269,
-   "engagement_per_view": 0.0465,
-   "avg_watch_s": 10.9,
-   "follows": 0,
-   "ig_median_views": 130,
-   "yt_posts": 1,
-   "yt_median_views": 2
-  },
-  "WoW": {
-   "posts": 14,
-   "median_views": 341,
-   "mean_views": 661,
-   "engagement_per_view": 0.0557,
-   "avg_watch_s": 15.1,
-   "follows": 10,
-   "ig_median_views": 1192,
-   "yt_posts": 5,
-   "yt_median_views": 1
   }
  },
  "weights": {
   "WoW": 2.76,
-  "OSRS": 2.48,
-  "Final Fantasy": 2.38,
+  "OSRS": 2.47,
+  "Final Fantasy": 2.39,
   "Kingdom Hearts": 1.86,
-  "Zelda": 2.0,
+  "Zelda": 1.99,
   "Fire Emblem": 2.73,
   "Resident Evil": 2.72
  },
@@ -115,26 +115,74 @@
  },
  "lessons": [
   "Series ranked by weight: WoW 16%, Fire Emblem 16%, Resident Evil 16%, OSRS 15%, Final Fantasy 14%, Zelda 12%, Kingdom Hearts 11%",
-  "Top hooks: 3992v In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f | 1038v Nearly 450,000 people voted to bring a 2007 backup back online. Now it's bigger than the m | 992v A cartoon about grinding boars won a Primetime Emmy. Blizzard helped make it. What's your ",
+  "Top hooks: 4004v In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f | 1038v Nearly 450,000 people voted to bring a 2007 backup back online. Now it's bigger than the m | 992v A cartoon about grinding boars won a Primetime Emmy. Blizzard helped make it. What's your ",
   "Weakest hooks: 38v #worldofwarcraft #ahnqiraj #didyouknow #gaminghistory  | 31v  | 22v In 2016 Blizzard shut down Nostalrius, a fan-run vanilla WoW server with over 800,000 acco",
   "Best completion: 9% Nearly 450,000 people voted to bring a 2007 backup | 7% He never beat the raid but Blizzard made him an ac | 8% A 1998 game is still the highest rated of all time"
  ],
  "posts": [
+  {
+   "post_id": "6af2792ef995e9bfd62f4f23",
+   "platform": "instagram",
+   "series": "Kingdom Hearts",
+   "published": "2026-11-10",
+   "hook": "In 2002 Square gave Kingdom Hearts a Hollywood voice cast, and the secret superboss Sephir",
+   "views": 334,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 11999,
+   "engagement_rate": 0.3
+  },
+  {
+   "post_id": "6af2498a24f743d178fd28e9",
+   "platform": "instagram",
+   "series": "Other",
+   "published": "2026-11-09",
+   "hook": "Two brothers coded Championship Manager in their bedroom in 1992. Their studio later lost ",
+   "views": 1154,
+   "likes": 9,
+   "comments": 0,
+   "shares": 0,
+   "saves": 2,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 15817,
+   "engagement_rate": 0.95
+  },
+  {
+   "post_id": "6af219f8661d46f655998c81",
+   "platform": "instagram",
+   "series": "WoW",
+   "published": "2026-11-09",
+   "hook": "Blizzard announced a point-and-click adventure starring Thrall in 1997 and cancelled it th",
+   "views": 1118,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 14516,
+   "engagement_rate": 0.09
+  },
   {
    "post_id": "6af12d39144c8190bc3e8e9c",
    "platform": "instagram",
    "series": "Fire Emblem",
    "published": "2026-11-09",
    "hook": "In September 1999, three years after the N64 launched, Nintendo put out a new Super Famico",
-   "views": 1167,
-   "likes": 8,
+   "views": 1180,
+   "likes": 9,
    "comments": 0,
    "shares": 0,
    "saves": 5,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 12829,
-   "engagement_rate": 1.11
+   "avg_watch_ms": 12852,
+   "engagement_rate": 1.19
   },
   {
    "post_id": "6af0fe151472868a5c04c224",
@@ -142,15 +190,15 @@
    "series": "Other",
    "published": "2026-11-08",
    "hook": "One Gears of War screenshot in 2004 pushed Microsoft to double the Xbox 360's memory, and ",
-   "views": 126,
+   "views": 128,
    "likes": 0,
    "comments": 0,
    "shares": 0,
    "saves": 1,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 14485,
-   "engagement_rate": 0.79
+   "avg_watch_ms": 14571,
+   "engagement_rate": 0.78
   },
   {
    "post_id": "6af09fb69d25a46c8c40308d",
@@ -158,14 +206,14 @@
    "series": "Resident Evil",
    "published": "2026-11-08",
    "hook": "Resident Evil 3 started life as a spin-off called Resident Evil 1.9, while the true follow",
-   "views": 1163,
+   "views": 1168,
    "likes": 4,
    "comments": 0,
    "shares": 1,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 14309,
+   "avg_watch_ms": 14304,
    "engagement_rate": 0.43
   },
   {
@@ -174,14 +222,14 @@
    "series": "OSRS",
    "published": "2026-11-08",
    "hook": "Guinness counted 1,198 original pieces of music in RuneScape in 2017, more than any other ",
-   "views": 1441,
+   "views": 1442,
    "likes": 8,
    "comments": 0,
    "shares": 7,
    "saves": 1,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 13457,
+   "avg_watch_ms": 13448,
    "engagement_rate": 1.11
   },
   {
@@ -190,14 +238,14 @@
    "series": "Other",
    "published": "2026-11-07",
    "hook": "The first Elder Scrolls game is called Arena because in 1993 it really was a gladiator tou",
-   "views": 1194,
+   "views": 1200,
    "likes": 15,
    "comments": 0,
    "shares": 0,
    "saves": 2,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 14909,
+   "avg_watch_ms": 14851,
    "engagement_rate": 1.42
   },
   {
@@ -206,15 +254,15 @@
    "series": "Fire Emblem",
    "published": "2026-11-07",
    "hook": "Nintendo confirmed in September 2000 that Fire Emblem 64 was dead, so Intelligent Systems ",
-   "views": 1151,
+   "views": 1154,
    "likes": 24,
    "comments": 1,
    "shares": 2,
    "saves": 5,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 13649,
-   "engagement_rate": 2.78
+   "avg_watch_ms": 13629,
+   "engagement_rate": 2.77
   },
   {
    "post_id": "6aee7b528c8af91dc4f53e09",
@@ -238,14 +286,14 @@
    "series": "Other",
    "published": "2026-11-06",
    "hook": "In 2008 Gearbox was about 75 percent done with Borderlands when testers said it looked lik",
-   "views": 1361,
+   "views": 1363,
    "likes": 7,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 18714,
+   "avg_watch_ms": 18703,
    "engagement_rate": 0.51
   },
   {
@@ -254,15 +302,15 @@
    "series": "Fire Emblem",
    "published": "2026-11-06",
    "hook": "In 2013 Nintendo announced a Fire Emblem and Shin Megami Tensei crossover, then it vanishe",
-   "views": 1283,
+   "views": 1285,
    "likes": 19,
    "comments": 0,
    "shares": 4,
    "saves": 7,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 12899,
-   "engagement_rate": 2.34
+   "avg_watch_ms": 12880,
+   "engagement_rate": 2.33
   },
   {
    "post_id": "6aed39727b433dbf4fb03526",
@@ -318,14 +366,14 @@
    "series": "Resident Evil",
    "published": "2026-11-05",
    "hook": "In a 2002 interview Shinji Mikami said he'd cut his own head off if Resident Evil 4 ever l",
-   "views": 1255,
+   "views": 1256,
    "likes": 6,
    "comments": 0,
    "shares": 4,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 22461,
+   "avg_watch_ms": 22444,
    "engagement_rate": 0.8
   },
   {
@@ -484,8 +532,8 @@
    "shares": 1,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0102,
-   "avg_watch_ms": 7050,
+   "completion": 0.0101,
+   "avg_watch_ms": 6800,
    "engagement_rate": 2.22
   },
   {
@@ -500,9 +548,9 @@
    "shares": 0,
    "saves": 1,
    "follows": 0,
-   "completion": 0.0355,
-   "avg_watch_ms": 15180,
-   "engagement_rate": 4.33
+   "completion": 0.0352,
+   "avg_watch_ms": 14390,
+   "engagement_rate": 4.24
   },
   {
    "post_id": "6ae7b135779e852a76a7f68e",
@@ -548,9 +596,9 @@
    "shares": 0,
    "saves": 0,
    "follows": 1,
-   "completion": 0.047,
-   "avg_watch_ms": 15570,
-   "engagement_rate": 3.2
+   "completion": 0.0463,
+   "avg_watch_ms": 15160,
+   "engagement_rate": 3.19
   },
   {
    "post_id": "6ae687b60da2bf5c5a193e24",
@@ -580,9 +628,9 @@
    "shares": 0,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0083,
-   "avg_watch_ms": 7980,
-   "engagement_rate": 1.82
+   "completion": 0.0081,
+   "avg_watch_ms": 8430,
+   "engagement_rate": 1.8
   },
   {
    "post_id": "6ae65cdc51c17eabee9fb41e",
@@ -590,14 +638,14 @@
    "series": "Other",
    "published": "2026-10-31",
    "hook": "Celeste began in 2015 as a four day PICO-8 game jam project, then became a Game of the Yea",
-   "views": 246,
+   "views": 247,
    "likes": 0,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 8630,
+   "avg_watch_ms": 8596,
    "engagement_rate": 0
   },
   {
@@ -606,14 +654,14 @@
    "series": "Zelda",
    "published": "2026-10-31",
    "hook": "Link's Awakening, the first handheld Zelda, began in the early nineties as one Nintendo pr",
-   "views": 115,
+   "views": 117,
    "likes": 2,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0.0342,
-   "avg_watch_ms": 9690,
+   "avg_watch_ms": 9500,
    "engagement_rate": 1.98
   },
   {
@@ -702,15 +750,15 @@
    "series": "WoW",
    "published": "2026-10-30",
    "hook": "In October 2008 Blizzard turned Stormwind into a zombie outbreak on purpose, then pulled t",
-   "views": 478,
-   "likes": 8,
+   "views": 633,
+   "likes": 10,
    "comments": 0,
    "shares": 1,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0692,
-   "avg_watch_ms": 18380,
-   "engagement_rate": 7.89
+   "completion": 0.0645,
+   "avg_watch_ms": 19390,
+   "engagement_rate": 4.33
   },
   {
    "post_id": "6ae4b4498b41d88745c9c16c",
@@ -782,7 +830,7 @@
    "series": "Other",
    "published": "2026-10-29",
    "hook": "Two weeks after four people stole the show with No Man's Sky at the 2013 VGX awards, a flo",
-   "views": 160,
+   "views": 161,
    "likes": 2,
    "comments": 0,
    "shares": 0,
@@ -814,15 +862,15 @@
    "series": "Other",
    "published": "2026-10-29",
    "hook": "Two weeks after four people stole the show with No Man's Sky at the 2013 VGX awards, a flo",
-   "views": 281,
+   "views": 282,
    "likes": 1,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 12509,
-   "engagement_rate": 0.36
+   "avg_watch_ms": 12468,
+   "engagement_rate": 0.35
   },
   {
    "post_id": "6ae3ad87f01c98658cd240cb",
@@ -916,9 +964,9 @@
    "shares": 0,
    "saves": 1,
    "follows": 0,
-   "completion": 0.0744,
-   "avg_watch_ms": 19260,
-   "engagement_rate": 5.65
+   "completion": 0.0738,
+   "avg_watch_ms": 19120,
+   "engagement_rate": 5.63
   },
   {
    "post_id": "6ae25181894ff6512f1c0f2e",
@@ -926,14 +974,14 @@
    "series": "Other",
    "published": "2026-10-28",
    "hook": "The best-selling game ever started as a one-person side project called Cave Game in May 20",
-   "views": 122,
+   "views": 123,
    "likes": 0,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 11312,
+   "avg_watch_ms": 11225,
    "engagement_rate": 0
   },
   {
@@ -958,7 +1006,7 @@
    "series": "Zelda",
    "published": "2026-10-28",
    "hook": "Twilight Princess on Wii is a complete mirror image of the GameCube version, flipped in 20",
-   "views": 383,
+   "views": 384,
    "likes": 12,
    "comments": 2,
    "shares": 0,
@@ -1060,9 +1108,9 @@
    "shares": 0,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0338,
-   "avg_watch_ms": 12140,
-   "engagement_rate": 0.76
+   "completion": 0.0336,
+   "avg_watch_ms": 12560,
+   "engagement_rate": 0.75
   },
   {
    "post_id": "6adff8c2a33bdc030e1d36dd",
@@ -1086,15 +1134,15 @@
    "series": "Other",
    "published": "2026-10-26",
    "hook": "In 1989 Nintendo of America's president wanted Mario in every Game Boy box, until one man ",
-   "views": 121,
+   "views": 123,
    "likes": 2,
    "comments": 0,
    "shares": 1,
    "saves": 2,
    "follows": 0,
-   "completion": 0.0242,
-   "avg_watch_ms": 11520,
-   "engagement_rate": 4.9
+   "completion": 0.0238,
+   "avg_watch_ms": 11590,
+   "engagement_rate": 4.81
   },
   {
    "post_id": "6adfabb35ac5166b9091f583",
@@ -1102,14 +1150,14 @@
    "series": "Other",
    "published": "2026-10-26",
    "hook": "In 1989 Nintendo of America's president wanted Mario in every Game Boy box, until one man ",
-   "views": 122,
+   "views": 123,
    "likes": 0,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 8855,
+   "avg_watch_ms": 8791,
    "engagement_rate": 0
   },
   {
@@ -1198,14 +1246,14 @@
    "series": "Other",
    "published": "2026-10-25",
    "hook": "Twenty-two developers finished Medal of Honor: Allied Assault in 2002, walked out, and fou",
-   "views": 1265,
+   "views": 1267,
    "likes": 2,
    "comments": 0,
    "shares": 0,
    "saves": 2,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 18331,
+   "avg_watch_ms": 18301,
    "engagement_rate": 0.32
   },
   {
@@ -1316,9 +1364,9 @@
    "shares": 0,
    "saves": 0,
    "follows": 0,
-   "completion": 0.039,
-   "avg_watch_ms": 21530,
-   "engagement_rate": 4.24
+   "completion": 0.0389,
+   "avg_watch_ms": 21470,
+   "engagement_rate": 4.23
   },
   {
    "post_id": "6adcd60dc67f18dfbce3f748",
@@ -1348,8 +1396,8 @@
    "shares": 0,
    "saves": 0,
    "follows": 2,
-   "completion": 0.0566,
-   "avg_watch_ms": 21110,
+   "completion": 0.0564,
+   "avg_watch_ms": 21080,
    "engagement_rate": 5.03
   },
   {
@@ -1438,15 +1486,15 @@
    "series": "WoW",
    "published": "2026-10-22",
    "hook": "In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f",
-   "views": 3992,
+   "views": 4004,
    "likes": 84,
    "comments": 6,
    "shares": 22,
    "saves": 6,
    "follows": 0,
-   "completion": 0.0664,
-   "avg_watch_ms": 27990,
-   "engagement_rate": 3.16
+   "completion": 0.0662,
+   "avg_watch_ms": 27960,
+   "engagement_rate": 3.15
   },
   {
    "post_id": "6adaa4b5fcc8b1c8a51b9504",
@@ -1678,15 +1726,15 @@
    "series": "WoW",
    "published": "2026-10-20",
    "hook": "Blizzard announced the pandaren as an April Fools prank in 2002. Ten years later the panda",
-   "views": 314,
+   "views": 315,
    "likes": 10,
    "comments": 1,
    "shares": 0,
    "saves": 1,
    "follows": 0,
-   "completion": 0.0187,
-   "avg_watch_ms": 12000,
-   "engagement_rate": 4.27
+   "completion": 0.0186,
+   "avg_watch_ms": 11920,
+   "engagement_rate": 4.26
   },
   {
    "post_id": "6ad7df3d554c3ac405ea55fc",
