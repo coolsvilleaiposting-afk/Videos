@@ -1,9 +1,9 @@
 {
- "fetched": "2026-11-09",
+ "fetched": "2026-11-12",
  "channel_id": "UCvqNyI3jmHN1doZ2xCeEsIg",
  "range": [
-  "2026-10-12",
-  "2026-11-09"
+  "2026-10-15",
+  "2026-11-12"
  ],
  "columns": [
   "video",
@@ -20,12 +20,24 @@
  "rows": [
   [
    "UTT2g1MzyjE",
-   14,
-   4,
+   15,
+   5,
    0,
-   3.4300000000000006,
+   2.75,
    2,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "9TRvKKv4O7o",
+   10,
+   2,
+   2,
+   98.01,
+   72,
+   1,
    0,
    0,
    0
@@ -44,7 +56,7 @@
   ],
   [
    "ZQW_BegNOfc",
-   7,
+   8,
    4,
    1,
    30.130000000000003,
@@ -55,13 +67,13 @@
    0
   ],
   [
-   "9TRvKKv4O7o",
-   7,
-   2,
-   2,
-   98.01,
-   72,
+   "aKPM-QWOlh8",
+   5,
+   3,
    1,
+   48.36,
+   36,
+   0,
    0,
    0,
    0
@@ -79,6 +91,42 @@
    0
   ],
   [
+   "KY8opUM5PNI",
+   4,
+   2,
+   1,
+   56.720000000000006,
+   38,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "fSQH0kuQM9k",
+   4,
+   1,
+   0,
+   0.58,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "4ImqfL7pOWY",
+   4,
+   2,
+   1,
+   52.839999999999996,
+   34,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "qdsixZ70Tb8",
    4,
    2,
@@ -91,12 +139,12 @@
    0
   ],
   [
-   "aKPM-QWOlh8",
+   "uMdcu5MMO14",
    4,
    2,
    1,
-   61.13000000000001,
-   45,
+   57.99999999999999,
+   38,
    0,
    0,
    0,
@@ -109,30 +157,6 @@
    0,
    4.73,
    3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "4ImqfL7pOWY",
-   3,
-   2,
-   1,
-   52.839999999999996,
-   34,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "uMdcu5MMO14",
-   3,
-   2,
-   1,
-   57.99999999999999,
-   38,
    0,
    0,
    0,
@@ -163,18 +187,6 @@
    0
   ],
   [
-   "HNTk9Sh5qZ4",
-   2,
-   1,
-   0,
-   100.12,
-   33,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "BEXsWGCPjsI",
    2,
    1,
@@ -182,18 +194,6 @@
    107.15999999999998,
    35,
    1,
-   0,
-   0,
-   0
-  ],
-  [
-   "S3Xxu5OkhqM",
-   2,
-   1,
-   0,
-   53.290000000000006,
-   41,
-   0,
    0,
    0,
    0
@@ -211,11 +211,11 @@
    0
   ],
   [
-   "fSQH0kuQM9k",
+   "JGMgcFvxYNk",
    2,
-   1,
    0,
-   0.58,
+   0,
+   0,
    0,
    0,
    0,
@@ -223,12 +223,12 @@
    0
   ],
   [
-   "mhyCYIgPmTo",
+   "S3Xxu5OkhqM",
    2,
    1,
    0,
-   38.27,
-   27,
+   53.290000000000006,
+   41,
    0,
    0,
    0,
@@ -247,8 +247,20 @@
    0
   ],
   [
-   "AHtgorMJeZs",
+   "mhyCYIgPmTo",
+   2,
    1,
+   0,
+   38.27,
+   27,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "AHtgorMJeZs",
+   2,
    0,
    0,
    0,
@@ -259,7 +271,19 @@
    0
   ],
   [
-   "JGMgcFvxYNk",
+   "HNTk9Sh5qZ4",
+   2,
+   1,
+   0,
+   100.12,
+   33,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "WGDOpZCkeyw",
    1,
    0,
    0,
@@ -295,12 +319,12 @@
    0
   ],
   [
-   "qFIo0C0XvPU",
-   1,
+   "F3SRMAwz0JU",
    1,
    0,
-   13.309999999999999,
-   8,
+   0,
+   0,
+   0,
    0,
    0,
    0,
@@ -313,6 +337,30 @@
    0,
    78.64,
    55,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "qFIo0C0XvPU",
+   1,
+   1,
+   0,
+   13.309999999999999,
+   8,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "iKesXfLAybc",
+   1,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0,
@@ -478,6 +526,26 @@
    "title": "WoW's Gate That Needed 400,000 Bandages to Open",
    "hashtags": "#wow #worldofwarcraft #ahnqiraj #wowclassic #blizzard #raiding #gaminghistory #didyouknow",
    "published": "2026-10-21"
+  },
+  "KY8opUM5PNI": {
+   "title": "Resident Evil 3 Was a Side Project. Code Veronica Was the Real Sequel",
+   "hashtags": "#residentevil #gaminghistory #codeveronica #nemesis #capcom",
+   "published": "2026-11-08"
+  },
+  "WGDOpZCkeyw": {
+   "title": "Minecraft Was Built in About a Week as a Side Project",
+   "hashtags": "#minecraft #gamingnews #gaminghistory #switch2 #mojang",
+   "published": "2026-10-28"
+  },
+  "F3SRMAwz0JU": {
+   "title": "Borderlands Scrapped Its Art Style Less Than a Year Before Launch",
+   "hashtags": "#borderlands #gaminghistory #gamingnews #gearbox #lootershooter",
+   "published": "2026-11-06"
+  },
+  "iKesXfLAybc": {
+   "title": "WoW Promised a Dance Studio in 2007. It Still Doesn't Exist.",
+   "hashtags": "#wow #gaminghistory #worldofwarcraft #wrathofthelichking #blizzard",
+   "published": "2026-11-01"
   }
  }
 }
