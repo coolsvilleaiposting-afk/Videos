@@ -1,21 +1,21 @@
 {
- "generated": "2026-11-12T10:11:56+00:00",
+ "generated": "2026-11-13T10:13:10+00:00",
  "followers": {
   "tiktok": 19,
   "instagram": 13
  },
  "channel_median_tiktok_views": 294,
  "series": {
-  "Zelda": {
-   "posts": 6,
-   "median_views": 332,
-   "mean_views": 390,
-   "engagement_per_view": 0.0493,
-   "avg_watch_s": 10.6,
-   "follows": 2,
-   "ig_median_views": 1254,
-   "yt_posts": 1,
-   "yt_median_views": 2
+  "Fire Emblem": {
+   "posts": 3,
+   "median_views": 404,
+   "mean_views": 514,
+   "engagement_per_view": 0.041,
+   "avg_watch_s": 10.8,
+   "follows": 0,
+   "ig_median_views": 838,
+   "yt_posts": 3,
+   "yt_median_views": 1
   },
   "Other": {
    "posts": 13,
@@ -24,20 +24,31 @@
    "engagement_per_view": 0.0297,
    "avg_watch_s": 8.3,
    "follows": 2,
-   "ig_median_views": 282,
+   "ig_median_views": 345,
    "yt_posts": 6,
    "yt_median_views": 1
   },
   "WoW": {
    "posts": 14,
-   "median_views": 341,
-   "mean_views": 690,
-   "engagement_per_view": 0.0555,
+   "median_views": 342,
+   "mean_views": 693,
+   "engagement_per_view": 0.0554,
    "avg_watch_s": 15.4,
    "follows": 10,
-   "ig_median_views": 1184,
+   "ig_median_views": 1192,
    "yt_posts": 6,
    "yt_median_views": 1
+  },
+  "Zelda": {
+   "posts": 6,
+   "median_views": 332,
+   "mean_views": 390,
+   "engagement_per_view": 0.0493,
+   "avg_watch_s": 10.6,
+   "follows": 2,
+   "ig_median_views": 1261,
+   "yt_posts": 1,
+   "yt_median_views": 2
   },
   "Resident Evil": {
    "posts": 3,
@@ -61,17 +72,6 @@
    "yt_posts": 1,
    "yt_median_views": 2
   },
-  "Fire Emblem": {
-   "posts": 3,
-   "median_views": 404,
-   "mean_views": 514,
-   "engagement_per_view": 0.041,
-   "avg_watch_s": 10.8,
-   "follows": 0,
-   "ig_median_views": 997,
-   "yt_posts": 3,
-   "yt_median_views": 1
-  },
   "OSRS": {
    "posts": 6,
    "median_views": 310,
@@ -88,7 +88,7 @@
    "median_views": 322,
    "mean_views": 333,
    "engagement_per_view": 0.0533,
-   "avg_watch_s": 12.5,
+   "avg_watch_s": 12.4,
    "follows": 1,
    "ig_median_views": 1153,
    "yt_posts": 5,
@@ -115,26 +115,74 @@
  },
  "lessons": [
   "Series ranked by weight: WoW 16%, Fire Emblem 16%, Resident Evil 16%, OSRS 15%, Final Fantasy 14%, Zelda 12%, Kingdom Hearts 11%",
-  "Top hooks: 4032v In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f | 1038v Nearly 450,000 people voted to bring a 2007 backup back online. Now it's bigger than the m | 992v A cartoon about grinding boars won a Primetime Emmy. Blizzard helped make it. What's your ",
+  "Top hooks: 4044v In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f | 1038v Nearly 450,000 people voted to bring a 2007 backup back online. Now it's bigger than the m | 992v A cartoon about grinding boars won a Primetime Emmy. Blizzard helped make it. What's your ",
   "Weakest hooks: 31v  | 22v  | 22v In 2016 Blizzard shut down Nostalrius, a fan-run vanilla WoW server with over 800,000 acco",
   "Best completion: 9% Nearly 450,000 people voted to bring a 2007 backup | 7% He never beat the raid but Blizzard made him an ac | 8% A 1998 game is still the highest rated of all time"
  ],
  "posts": [
+  {
+   "post_id": "6af655f516beb2b6bdea5391",
+   "platform": "instagram",
+   "series": "Fire Emblem",
+   "published": "2026-11-13",
+   "hook": "In 2011 Nintendo cut the 3DS price by $80 less than six months after launch, then handed e",
+   "views": 355,
+   "likes": 3,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 16941,
+   "engagement_rate": 0.85
+  },
+  {
+   "post_id": "6af62492745bd781bfac44bd",
+   "platform": "instagram",
+   "series": "Other",
+   "published": "2026-11-12",
+   "hook": "Atlus announced Project Re Fantasy in December 2016, and it took almost eight years to bec",
+   "views": 461,
+   "likes": 7,
+   "comments": 0,
+   "shares": 8,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 11640,
+   "engagement_rate": 3.25
+  },
+  {
+   "post_id": "6af5f37fda1cd00aa82f8531",
+   "platform": "instagram",
+   "series": "WoW",
+   "published": "2026-11-12",
+   "hook": "Blizzard spent seven years and about 140 developers on Titan, the planned successor to WoW",
+   "views": 1253,
+   "likes": 12,
+   "comments": 0,
+   "shares": 0,
+   "saves": 3,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 26758,
+   "engagement_rate": 1.2
+  },
   {
    "post_id": "6af5329680ea9dc7fabf73b1",
    "platform": "instagram",
    "series": "Zelda",
    "published": "2026-11-12",
    "hook": "In 1991 Nintendo dumped Sony for Philips the day after Sony announced their SNES CD deal, ",
-   "views": 1291,
+   "views": 1305,
    "likes": 10,
    "comments": 3,
    "shares": 5,
    "saves": 2,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 20398,
-   "engagement_rate": 1.55
+   "avg_watch_ms": 20331,
+   "engagement_rate": 1.53
   },
   {
    "post_id": "6af4d255f1686b9175148b60",
@@ -142,15 +190,15 @@
    "series": "Other",
    "published": "2026-11-11",
    "hook": "CD Projekt Red announced Cyberpunk 2077 in May 2012 and the first teaser promised it was c",
-   "views": 1116,
+   "views": 1126,
    "likes": 11,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 14483,
-   "engagement_rate": 0.99
+   "avg_watch_ms": 14409,
+   "engagement_rate": 0.98
   },
   {
    "post_id": "6af4a18ed3c0e2e31b1482a2",
@@ -158,14 +206,14 @@
    "series": "WoW",
    "published": "2026-11-11",
    "hook": "Announced in 2006, released in 2016, and it earned more than four times as much in China a",
-   "views": 1136,
+   "views": 1137,
    "likes": 4,
    "comments": 0,
    "shares": 0,
    "saves": 1,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 16068,
+   "avg_watch_ms": 16079,
    "engagement_rate": 0.44
   },
   {
@@ -196,9 +244,9 @@
    "shares": 0,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0282,
-   "avg_watch_ms": 14100,
-   "engagement_rate": 1.41
+   "completion": 0.0278,
+   "avg_watch_ms": 13910,
+   "engagement_rate": 1.85
   },
   {
    "post_id": "6af3c64c994354f4e9cf2d17",
@@ -206,14 +254,14 @@
    "series": "Resident Evil",
    "published": "2026-11-11",
    "hook": "At E3 2015 Capcom let people play a VR demo called Kitchen with no Resident Evil logo on i",
-   "views": 1186,
+   "views": 1187,
    "likes": 8,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 22452,
+   "avg_watch_ms": 22435,
    "engagement_rate": 0.67
   },
   {
@@ -286,14 +334,14 @@
    "series": "WoW",
    "published": "2026-11-09",
    "hook": "Blizzard announced a point-and-click adventure starring Thrall in 1997 and cancelled it th",
-   "views": 1123,
+   "views": 1125,
    "likes": 1,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 14486,
+   "avg_watch_ms": 14474,
    "engagement_rate": 0.09
   },
   {
@@ -318,15 +366,15 @@
    "series": "Other",
    "published": "2026-11-08",
    "hook": "One Gears of War screenshot in 2004 pushed Microsoft to double the Xbox 360's memory, and ",
-   "views": 129,
+   "views": 130,
    "likes": 0,
    "comments": 0,
    "shares": 0,
    "saves": 1,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 14489,
-   "engagement_rate": 0.78
+   "avg_watch_ms": 14405,
+   "engagement_rate": 0.77
   },
   {
    "post_id": "6af09fb69d25a46c8c40308d",
@@ -670,7 +718,7 @@
    "series": "WoW",
    "published": "2026-11-01",
    "hook": "At BlizzCon in August 2007 Blizzard announced Wrath of the Lich King with the words \"new d",
-   "views": 324,
+   "views": 325,
    "likes": 11,
    "comments": 0,
    "shares": 0,
@@ -878,15 +926,15 @@
    "series": "WoW",
    "published": "2026-10-30",
    "hook": "In October 2008 Blizzard turned Stormwind into a zombie outbreak on purpose, then pulled t",
-   "views": 840,
+   "views": 871,
    "likes": 11,
    "comments": 0,
    "shares": 2,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0755,
-   "avg_watch_ms": 22800,
-   "engagement_rate": 1.82
+   "completion": 0.0725,
+   "avg_watch_ms": 22400,
+   "engagement_rate": 1.64
   },
   {
    "post_id": "6ae4b4498b41d88745c9c16c",
@@ -1092,9 +1140,9 @@
    "shares": 0,
    "saves": 1,
    "follows": 0,
-   "completion": 0.0738,
-   "avg_watch_ms": 19120,
-   "engagement_rate": 5.63
+   "completion": 0.0736,
+   "avg_watch_ms": 19080,
+   "engagement_rate": 5.62
   },
   {
    "post_id": "6ae25181894ff6512f1c0f2e",
@@ -1262,7 +1310,7 @@
    "series": "Other",
    "published": "2026-10-26",
    "hook": "In 1989 Nintendo of America's president wanted Mario in every Game Boy box, until one man ",
-   "views": 123,
+   "views": 124,
    "likes": 2,
    "comments": 0,
    "shares": 1,
@@ -1556,9 +1604,9 @@
    "shares": 0,
    "saves": 4,
    "follows": 0,
-   "completion": 0.0702,
-   "avg_watch_ms": 19570,
-   "engagement_rate": 5.83
+   "completion": 0.07,
+   "avg_watch_ms": 19520,
+   "engagement_rate": 5.81
   },
   {
    "post_id": "6adbcc2592a56f607a3bebbc",
@@ -1614,15 +1662,15 @@
    "series": "WoW",
    "published": "2026-10-22",
    "hook": "In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f",
-   "views": 4032,
-   "likes": 84,
+   "views": 4044,
+   "likes": 85,
    "comments": 6,
    "shares": 22,
    "saves": 6,
    "follows": 0,
-   "completion": 0.0658,
-   "avg_watch_ms": 27880,
-   "engagement_rate": 3.14
+   "completion": 0.0656,
+   "avg_watch_ms": 27870,
+   "engagement_rate": 3.15
   },
   {
    "post_id": "6adaa4b5fcc8b1c8a51b9504",
@@ -1630,14 +1678,14 @@
    "series": "WoW",
    "published": "2026-10-22",
    "hook": "In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f",
-   "views": 4484,
+   "views": 4489,
    "likes": 56,
    "comments": 1,
    "shares": 39,
    "saves": 9,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 32120,
+   "avg_watch_ms": 32130,
    "engagement_rate": 2.34
   },
   {
@@ -1854,7 +1902,7 @@
    "series": "WoW",
    "published": "2026-10-20",
    "hook": "Blizzard announced the pandaren as an April Fools prank in 2002. Ten years later the panda",
-   "views": 316,
+   "views": 318,
    "likes": 10,
    "comments": 1,
    "shares": 0,
@@ -2286,7 +2334,7 @@
    "series": "OSRS",
    "published": "2026-09-06",
    "hook": "June 6, 2006. One party, one bug, and Falador turned into a warzone. Were you online for i",
-   "views": 841,
+   "views": 843,
    "likes": 28,
    "comments": 1,
    "shares": 2,
