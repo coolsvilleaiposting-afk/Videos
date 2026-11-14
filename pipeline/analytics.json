@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-13T10:13:10+00:00",
+ "generated": "2026-11-14T10:13:12+00:00",
  "followers": {
-  "tiktok": 19,
-  "instagram": 13
+  "instagram": 13,
+  "tiktok": 19
  },
  "channel_median_tiktok_views": 294,
  "series": {
-  "Fire Emblem": {
-   "posts": 3,
-   "median_views": 404,
-   "mean_views": 514,
-   "engagement_per_view": 0.041,
-   "avg_watch_s": 10.8,
-   "follows": 0,
-   "ig_median_views": 838,
-   "yt_posts": 3,
+  "Final Fantasy": {
+   "posts": 8,
+   "median_views": 322,
+   "mean_views": 334,
+   "engagement_per_view": 0.0533,
+   "avg_watch_s": 12.4,
+   "follows": 1,
+   "ig_median_views": 1098,
+   "yt_posts": 5,
    "yt_median_views": 1
   },
   "Other": {
@@ -22,27 +22,38 @@
    "median_views": 123,
    "mean_views": 127,
    "engagement_per_view": 0.0297,
-   "avg_watch_s": 8.3,
+   "avg_watch_s": 8.2,
    "follows": 2,
-   "ig_median_views": 345,
+   "ig_median_views": 282,
    "yt_posts": 6,
    "yt_median_views": 1
   },
   "WoW": {
    "posts": 14,
    "median_views": 342,
-   "mean_views": 693,
+   "mean_views": 696,
    "engagement_per_view": 0.0554,
-   "avg_watch_s": 15.4,
+   "avg_watch_s": 15.3,
    "follows": 10,
-   "ig_median_views": 1192,
+   "ig_median_views": 1184,
    "yt_posts": 6,
+   "yt_median_views": 1
+  },
+  "Fire Emblem": {
+   "posts": 3,
+   "median_views": 404,
+   "mean_views": 514,
+   "engagement_per_view": 0.041,
+   "avg_watch_s": 10.8,
+   "follows": 0,
+   "ig_median_views": 1157,
+   "yt_posts": 3,
    "yt_median_views": 1
   },
   "Zelda": {
    "posts": 6,
    "median_views": 332,
-   "mean_views": 390,
+   "mean_views": 391,
    "engagement_per_view": 0.0493,
    "avg_watch_s": 10.6,
    "follows": 2,
@@ -53,8 +64,8 @@
   "Resident Evil": {
    "posts": 3,
    "median_views": 382,
-   "mean_views": 362,
-   "engagement_per_view": 0.0711,
+   "mean_views": 363,
+   "engagement_per_view": 0.071,
    "avg_watch_s": 9.4,
    "follows": 0,
    "ig_median_views": 1221,
@@ -82,21 +93,10 @@
    "ig_median_views": 1228,
    "yt_posts": 6,
    "yt_median_views": 1
-  },
-  "Final Fantasy": {
-   "posts": 8,
-   "median_views": 322,
-   "mean_views": 333,
-   "engagement_per_view": 0.0533,
-   "avg_watch_s": 12.4,
-   "follows": 1,
-   "ig_median_views": 1153,
-   "yt_posts": 5,
-   "yt_median_views": 1
   }
  },
  "weights": {
-  "WoW": 2.89,
+  "WoW": 2.88,
   "OSRS": 2.57,
   "Final Fantasy": 2.48,
   "Kingdom Hearts": 1.93,
@@ -115,26 +115,74 @@
  },
  "lessons": [
   "Series ranked by weight: WoW 16%, Fire Emblem 16%, Resident Evil 16%, OSRS 15%, Final Fantasy 14%, Zelda 12%, Kingdom Hearts 11%",
-  "Top hooks: 4044v In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f | 1038v Nearly 450,000 people voted to bring a 2007 backup back online. Now it's bigger than the m | 992v A cartoon about grinding boars won a Primetime Emmy. Blizzard helped make it. What's your ",
+  "Top hooks: 4063v In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f | 1038v Nearly 450,000 people voted to bring a 2007 backup back online. Now it's bigger than the m | 992v A cartoon about grinding boars won a Primetime Emmy. Blizzard helped make it. What's your ",
   "Weakest hooks: 31v  | 22v  | 22v In 2016 Blizzard shut down Nostalrius, a fan-run vanilla WoW server with over 800,000 acco",
   "Best completion: 9% Nearly 450,000 people voted to bring a 2007 backup | 7% He never beat the raid but Blizzard made him an ac | 8% A 1998 game is still the highest rated of all time"
  ],
  "posts": [
+  {
+   "post_id": "6af7a9cda0dcdef7ecb03262",
+   "platform": "instagram",
+   "series": "Final Fantasy",
+   "published": "2026-11-14",
+   "hook": "In 1999, Faye Wong's Eyes on Me from Final Fantasy VIII sold over 400,000 copies and won S",
+   "views": 721,
+   "likes": 6,
+   "comments": 1,
+   "shares": 0,
+   "saves": 4,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 9864,
+   "engagement_rate": 1.53
+  },
+  {
+   "post_id": "6af777d305e943eeade23dd0",
+   "platform": "instagram",
+   "series": "Other",
+   "published": "2026-11-13",
+   "hook": "Steve Jobs introduced Halo on stage at Macworld in 1999, back when it was a Mac game that ",
+   "views": 131,
+   "likes": 2,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 15917,
+   "engagement_rate": 1.53
+  },
+  {
+   "post_id": "6af746000b9b39233bdfd45e",
+   "platform": "instagram",
+   "series": "WoW",
+   "published": "2026-11-13",
+   "hook": "Chris Metzen voiced Thrall, retired from Blizzard in 2016, then came back to run all of Wa",
+   "views": 130,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 7648,
+   "engagement_rate": 0
+  },
   {
    "post_id": "6af655f516beb2b6bdea5391",
    "platform": "instagram",
    "series": "Fire Emblem",
    "published": "2026-11-13",
    "hook": "In 2011 Nintendo cut the 3DS price by $80 less than six months after launch, then handed e",
-   "views": 355,
-   "likes": 3,
+   "views": 1178,
+   "likes": 23,
    "comments": 0,
    "shares": 0,
-   "saves": 0,
+   "saves": 1,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 16941,
-   "engagement_rate": 0.85
+   "avg_watch_ms": 23388,
+   "engagement_rate": 2.04
   },
   {
    "post_id": "6af62492745bd781bfac44bd",
@@ -142,15 +190,15 @@
    "series": "Other",
    "published": "2026-11-12",
    "hook": "Atlus announced Project Re Fantasy in December 2016, and it took almost eight years to bec",
-   "views": 461,
-   "likes": 7,
+   "views": 1173,
+   "likes": 17,
    "comments": 0,
-   "shares": 8,
-   "saves": 0,
+   "shares": 9,
+   "saves": 4,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 11640,
-   "engagement_rate": 3.25
+   "avg_watch_ms": 13778,
+   "engagement_rate": 2.56
   },
   {
    "post_id": "6af5f37fda1cd00aa82f8531",
@@ -158,14 +206,14 @@
    "series": "WoW",
    "published": "2026-11-12",
    "hook": "Blizzard spent seven years and about 140 developers on Titan, the planned successor to WoW",
-   "views": 1253,
+   "views": 1254,
    "likes": 12,
    "comments": 0,
    "shares": 0,
    "saves": 3,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 26758,
+   "avg_watch_ms": 26792,
    "engagement_rate": 1.2
   },
   {
@@ -174,14 +222,14 @@
    "series": "Zelda",
    "published": "2026-11-12",
    "hook": "In 1991 Nintendo dumped Sony for Philips the day after Sony announced their SNES CD deal, ",
-   "views": 1305,
+   "views": 1306,
    "likes": 10,
    "comments": 3,
    "shares": 5,
    "saves": 2,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 20331,
+   "avg_watch_ms": 20314,
    "engagement_rate": 1.53
   },
   {
@@ -190,14 +238,14 @@
    "series": "Other",
    "published": "2026-11-11",
    "hook": "CD Projekt Red announced Cyberpunk 2077 in May 2012 and the first teaser promised it was c",
-   "views": 1126,
+   "views": 1127,
    "likes": 11,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 14409,
+   "avg_watch_ms": 14422,
    "engagement_rate": 0.98
   },
   {
@@ -246,7 +294,7 @@
    "follows": 0,
    "completion": 0.0278,
    "avg_watch_ms": 13910,
-   "engagement_rate": 1.85
+   "engagement_rate": 1.49
   },
   {
    "post_id": "6af3c64c994354f4e9cf2d17",
@@ -286,14 +334,14 @@
    "series": "WoW",
    "published": "2026-11-10",
    "hook": "In 2007 the Chinese version of WoW covered the Forsaken in flesh and swapped bone piles fo",
-   "views": 1281,
+   "views": 1282,
    "likes": 6,
    "comments": 0,
    "shares": 0,
    "saves": 1,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 30399,
+   "avg_watch_ms": 30372,
    "engagement_rate": 0.55
   },
   {
@@ -724,8 +772,8 @@
    "shares": 0,
    "saves": 1,
    "follows": 0,
-   "completion": 0.0351,
-   "avg_watch_ms": 14350,
+   "completion": 0.035,
+   "avg_watch_ms": 14360,
    "engagement_rate": 4.24
   },
   {
@@ -805,8 +853,8 @@
    "saves": 0,
    "follows": 0,
    "completion": 0.0081,
-   "avg_watch_ms": 8430,
-   "engagement_rate": 1.8
+   "avg_watch_ms": 8380,
+   "engagement_rate": 1.79
   },
   {
    "post_id": "6ae65cdc51c17eabee9fb41e",
@@ -926,15 +974,15 @@
    "series": "WoW",
    "published": "2026-10-30",
    "hook": "In October 2008 Blizzard turned Stormwind into a zombie outbreak on purpose, then pulled t",
-   "views": 871,
-   "likes": 11,
+   "views": 896,
+   "likes": 12,
    "comments": 0,
    "shares": 2,
    "saves": 0,
    "follows": 0,
    "completion": 0.0725,
    "avg_watch_ms": 22400,
-   "engagement_rate": 1.64
+   "engagement_rate": 1.76
   },
   {
    "post_id": "6ae4b4498b41d88745c9c16c",
@@ -1006,7 +1054,7 @@
    "series": "Other",
    "published": "2026-10-29",
    "hook": "Two weeks after four people stole the show with No Man's Sky at the 2013 VGX awards, a flo",
-   "views": 161,
+   "views": 162,
    "likes": 2,
    "comments": 0,
    "shares": 0,
@@ -1182,7 +1230,7 @@
    "series": "Zelda",
    "published": "2026-10-28",
    "hook": "Twilight Princess on Wii is a complete mirror image of the GameCube version, flipped in 20",
-   "views": 384,
+   "views": 385,
    "likes": 12,
    "comments": 2,
    "shares": 0,
@@ -1316,8 +1364,8 @@
    "shares": 1,
    "saves": 2,
    "follows": 0,
-   "completion": 0.0234,
-   "avg_watch_ms": 11480,
+   "completion": 0.0233,
+   "avg_watch_ms": 11390,
    "engagement_rate": 4.72
   },
   {
@@ -1476,8 +1524,8 @@
    "shares": 0,
    "saves": 1,
    "follows": 0,
-   "completion": 0.0119,
-   "avg_watch_ms": 7660,
+   "completion": 0.0118,
+   "avg_watch_ms": 7640,
    "engagement_rate": 3.03
   },
   {
@@ -1486,14 +1534,14 @@
    "series": "Fire Emblem",
    "published": "2026-10-24",
    "hook": "The original Fire Emblem launched on the Famicom in April 1990 and did not get an official",
-   "views": 1194,
+   "views": 1195,
    "likes": 13,
    "comments": 0,
    "shares": 1,
    "saves": 3,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 11455,
+   "avg_watch_ms": 11445,
    "engagement_rate": 1.42
   },
   {
@@ -1598,7 +1646,7 @@
    "series": "Final Fantasy",
    "published": "2026-10-23",
    "hook": "Square spent 137 million dollars on The Spirits Within in 2001 and it made back about 85 m",
-   "views": 482,
+   "views": 483,
    "likes": 17,
    "comments": 4,
    "shares": 0,
@@ -1646,14 +1694,14 @@
    "series": "OSRS",
    "published": "2026-10-23",
    "hook": "The Duel Arena opened in 2004, got capped at 10 million coins a stake in November 2021, an",
-   "views": 1222,
+   "views": 1223,
    "likes": 9,
    "comments": 2,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 16228,
+   "avg_watch_ms": 16214,
    "engagement_rate": 0.9
   },
   {
@@ -1662,15 +1710,15 @@
    "series": "WoW",
    "published": "2026-10-22",
    "hook": "In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f",
-   "views": 4044,
-   "likes": 85,
+   "views": 4063,
+   "likes": 86,
    "comments": 6,
    "shares": 22,
    "saves": 6,
    "follows": 0,
    "completion": 0.0656,
-   "avg_watch_ms": 27870,
-   "engagement_rate": 3.15
+   "avg_watch_ms": 27860,
+   "engagement_rate": 3.17
   },
   {
    "post_id": "6adaa4b5fcc8b1c8a51b9504",
@@ -1678,15 +1726,15 @@
    "series": "WoW",
    "published": "2026-10-22",
    "hook": "In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f",
-   "views": 4489,
+   "views": 4502,
    "likes": 56,
    "comments": 1,
    "shares": 39,
    "saves": 9,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 32130,
-   "engagement_rate": 2.34
+   "avg_watch_ms": 32100,
+   "engagement_rate": 2.33
   },
   {
    "post_id": "6ada83308062f400a7ca26a8",
@@ -1710,14 +1758,14 @@
    "series": "Fire Emblem",
    "published": "2026-10-22",
    "hook": "Shouzou Kaga made the first five Fire Emblem games, then left and built a PlayStation riva",
-   "views": 3143,
+   "views": 3144,
    "likes": 49,
    "comments": 1,
    "shares": 35,
    "saves": 24,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 26608,
+   "avg_watch_ms": 26612,
    "engagement_rate": 3.47
   },
   {
@@ -1908,9 +1956,9 @@
    "shares": 0,
    "saves": 1,
    "follows": 0,
-   "completion": 0.0185,
-   "avg_watch_ms": 11950,
-   "engagement_rate": 4.24
+   "completion": 0.0183,
+   "avg_watch_ms": 11850,
+   "engagement_rate": 4.2
   },
   {
    "post_id": "6ad7df3d554c3ac405ea55fc",
@@ -2238,7 +2286,7 @@
    "series": "Resident Evil",
    "published": "2026-09-09",
    "hook": "It started as a remake of a 1989 Famicom game based on a Japanese horror movie. Then Capco",
-   "views": 253,
+   "views": 254,
    "likes": 10,
    "comments": 0,
    "shares": 3,
@@ -2302,13 +2350,13 @@
    "series": "Zelda",
    "published": "2026-09-07",
    "hook": "A 1998 game is still the highest rated of all time. 99 on Metacritic and nothing has touch",
-   "views": 932,
+   "views": 933,
    "likes": 65,
    "comments": 5,
    "shares": 2,
    "saves": 6,
    "follows": 1,
-   "completion": 0.0836,
+   "completion": 0.0835,
    "avg_watch_ms": 10790,
    "engagement_rate": 9.23
   },
@@ -2340,9 +2388,9 @@
    "shares": 2,
    "saves": 3,
    "follows": 0,
-   "completion": 0.0626,
-   "avg_watch_ms": 10740,
-   "engagement_rate": 4.71
+   "completion": 0.0624,
+   "avg_watch_ms": 10710,
+   "engagement_rate": 4.7
   },
   {
    "post_id": "6ad6114dc15addba9ff16081",
