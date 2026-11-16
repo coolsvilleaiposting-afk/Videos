@@ -1,9 +1,9 @@
 {
- "fetched": "2026-11-12",
+ "fetched": "2026-11-16",
  "channel_id": "UCvqNyI3jmHN1doZ2xCeEsIg",
  "range": [
-  "2026-10-15",
-  "2026-11-12"
+  "2026-10-19",
+  "2026-11-16"
  ],
  "columns": [
   "video",
@@ -32,11 +32,11 @@
   ],
   [
    "9TRvKKv4O7o",
-   10,
-   2,
-   2,
-   98.01,
-   72,
+   13,
+   3,
+   3,
+   101.56,
+   75,
    1,
    0,
    0,
@@ -44,11 +44,11 @@
   ],
   [
    "1L1OZAS5D8Y",
-   8,
-   4,
-   48,
-   1087.58,
-   728,
+   10,
+   6,
+   49,
+   743.77,
+   498,
    1,
    0,
    0,
@@ -56,7 +56,7 @@
   ],
   [
    "ZQW_BegNOfc",
-   8,
+   9,
    4,
    1,
    30.130000000000003,
@@ -68,11 +68,23 @@
   ],
   [
    "aKPM-QWOlh8",
-   5,
+   8,
+   4,
    3,
+   78.22,
+   58,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "YcpGnBdRgbk",
+   8,
    1,
-   48.36,
-   36,
+   0,
+   34.14,
+   23,
    0,
    0,
    0,
@@ -85,6 +97,42 @@
    2,
    392.56,
    153,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "foiyXdBjza8",
+   5,
+   1,
+   4,
+   405.44,
+   275,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "TcrTJdjNUFU",
+   4,
+   2,
+   0,
+   4.73,
+   3,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "qdsixZ70Tb8",
+   4,
+   2,
+   2,
+   99.68,
+   67,
    1,
    0,
    0,
@@ -127,18 +175,6 @@
    0
   ],
   [
-   "qdsixZ70Tb8",
-   4,
-   2,
-   2,
-   99.68,
-   67,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "uMdcu5MMO14",
    4,
    2,
@@ -151,12 +187,24 @@
    0
   ],
   [
-   "TcrTJdjNUFU",
+   "AHtgorMJeZs",
    3,
-   2,
+   1,
    0,
-   4.73,
+   17.88,
+   12,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "JGMgcFvxYNk",
    3,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0,
@@ -175,6 +223,30 @@
    0
   ],
   [
+   "R0g1KPZj-o8",
+   3,
+   1,
+   0,
+   2.03,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ef8f_fULtao",
+   3,
+   1,
+   0,
+   7.1,
+   4,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "a0De8ugRUAs",
    3,
    1,
@@ -182,6 +254,18 @@
    271.75,
    95,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "_9erYnI1wgU",
+   2,
+   1,
+   1,
+   95.81,
+   70,
+   0,
    0,
    0,
    0
@@ -199,24 +283,12 @@
    0
   ],
   [
-   "y1byWKq_Uu0",
+   "lGP-qI6n2MQ",
+   2,
    2,
    1,
-   0,
-   117.52,
-   35,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
-   "JGMgcFvxYNk",
-   2,
-   0,
-   0,
-   0,
-   0,
+   76.1,
+   51,
    0,
    0,
    0,
@@ -235,13 +307,13 @@
    0
   ],
   [
-   "lGP-qI6n2MQ",
-   2,
+   "HNTk9Sh5qZ4",
    2,
    1,
-   76.1,
-   51,
    0,
+   100.12,
+   33,
+   1,
    0,
    0,
    0
@@ -259,43 +331,31 @@
    0
   ],
   [
-   "AHtgorMJeZs",
-   2,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "HNTk9Sh5qZ4",
+   "y1byWKq_Uu0",
    2,
    1,
    0,
-   100.12,
-   33,
+   117.52,
+   35,
    1,
-   0,
-   0,
-   0
-  ],
-  [
-   "WGDOpZCkeyw",
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
    0,
    0,
    0
   ],
   [
    "-U80Ine6drA",
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "BGrl0016XJQ",
    1,
    0,
    0,
@@ -319,7 +379,67 @@
    0
   ],
   [
+   "qFIo0C0XvPU",
+   1,
+   1,
+   0,
+   13.309999999999999,
+   8,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "F3SRMAwz0JU",
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "feml6rCJVhU",
+   1,
+   1,
+   0,
+   59.12,
+   40,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "BInpUu46m3E",
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "zwiShtl_WO0",
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "dzpovdqCS3Y",
    1,
    0,
    0,
@@ -343,12 +463,24 @@
    0
   ],
   [
-   "qFIo0C0XvPU",
+   "WGDOpZCkeyw",
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "fKcYaPfX5o4",
    1,
    1,
    0,
-   13.309999999999999,
-   8,
+   5.07,
+   3,
    0,
    0,
    0,
@@ -546,6 +678,61 @@
    "title": "WoW Promised a Dance Studio in 2007. It Still Doesn't Exist.",
    "hashtags": "#wow #gaminghistory #worldofwarcraft #wrathofthelichking #blizzard",
    "published": "2026-11-01"
+  },
+  "BInpUu46m3E": {
+   "title": "Pikmin Started With 128 Marios and Ants in Miyamoto's Garden",
+   "hashtags": "#pikmin #gamingnews #gaminghistory #nintendo #miyamoto",
+   "published": "2026-11-02"
+  },
+  "YcpGnBdRgbk": {
+   "title": "Ocarina of Time's Z-Targeting Came From a Ninja Show in Kyoto",
+   "hashtags": "#zelda #gaminghistory #gamingnews #ocarinaoftime #switch2",
+   "published": "2026-11-01"
+  },
+  "BGrl0016XJQ": {
+   "title": "Square Patented Final Fantasy IV's Battle Timer in 1995",
+   "hashtags": "#finalfantasy #gaminghistory #ff4 #squareenix #jrpg",
+   "published": "2026-11-06"
+  },
+  "Ef8f_fULtao": {
+   "title": "No Man's Sky Survived a Flood Before It Ever Launched",
+   "hashtags": "#nomanssky #gamingnews #gaminghistory #hellogames #iosgames",
+   "published": "2026-10-29"
+  },
+  "fKcYaPfX5o4": {
+   "title": "The Game Boy Almost Shipped With Mario Instead of Tetris",
+   "hashtags": "#gameboy #gamingnews #gaminghistory #tetris #nintendoswitchonline",
+   "published": "2026-10-26"
+  },
+  "R0g1KPZj-o8": {
+   "title": "Resident Evil 2 Was Squeezed Onto an N64 Cartridge by 10 People",
+   "hashtags": "#residentevil #gaminghistory #residentevil2 #nintendo64 #capcom",
+   "published": "2026-11-07"
+  },
+  "foiyXdBjza8": {
+   "title": "Nintendo Flipped an Entire Zelda Game Because Link Is a Lefty",
+   "hashtags": "#zelda #gaminghistory #twilightprincess #wii #gamecube",
+   "published": "2026-10-27"
+  },
+  "dzpovdqCS3Y": {
+   "title": "Blizzard Spent 7 Years on WoW's Successor, Then Cancelled It",
+   "hashtags": "#wow #gaminghistory #overwatch #blizzard #projecttitan",
+   "published": "2026-11-12"
+  },
+  "_9erYnI1wgU": {
+   "title": "Fire Emblem Turned Off Permadeath in a Game That Never Left Japan",
+   "hashtags": "#fireemblem #gaminghistory #fireemblemawakening #permadeath #nintendods",
+   "published": "2026-11-03"
+  },
+  "feml6rCJVhU": {
+   "title": "Remembering Sir Patrick Stewart's Video Game Roles",
+   "hashtags": "#patrickstewart #gaminghistory #oblivion #castlevania #elderscrolls",
+   "published": "2026-10-30"
+  },
+  "zwiShtl_WO0": {
+   "title": "Capcom Showed Resident Evil 7 a Year Early and Nobody Knew",
+   "hashtags": "#residentevil #gaminghistory #re7 #psvr #e3",
+   "published": "2026-11-11"
   }
  }
 }
