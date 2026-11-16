@@ -1,0 +1,26 @@
+{
+ "slug": "wow_glider_bot_six_million_lawsuit",
+ "series": "WORLD OF WARCRAFT",
+ "accent": "#f0b323",
+ "deep": "#2a1a03",
+ "voice": "justin",
+ "footage": "wow_3.mp4",
+ "footage_offset": 18,
+ "title": "A WoW Bot Cost Its Creator $6.5 Million",
+ "hook": "A WoW bot called Glider sold about 120,000 copies at up to $25 each, then a federal judge handed Blizzard a $6.5 million judgment and shut it down. Did you ever catch a bot farming your spot?",
+ "hashtags": "#wow #gaminghistory #worldofwarcraft #blizzard #botting",
+ "sources": [
+  "https://www.courtlistener.com/opinion/205002/mdy-industries-llc-v-blizzard-entertainment/",
+  "https://www.govinfo.gov/content/pkg/USCOURTS-azd-2_06-cv-02555/pdf/USCOURTS-azd-2_06-cv-02555-3.pdf",
+  "https://www.gamedeveloper.com/pc/blizzard-vivendi-file-suit-against-i-wow-i-bot-creator",
+  "https://www.theregister.com/2010/12/15/world_of_warcraft_bot_ban/",
+  "https://www.engadget.com/2010-06-07-the-lawbringer-the-history-of-blizzard-and-mdy-glider.html",
+  "https://gamedeveloper.com/game-platforms/blizzard-awarded-6-million-in-glider-bot-case",
+  "https://www.eff.org/deeplinks/2008/07/you-bought-it-you-dont-own-it",
+  "https://docs.justia.com/cases/federal/district-courts/arizona/azdce/2:2006cv02555/322017/122",
+  "https://www.engadget.com/2009/03/13/glider-down-for-the-count/",
+  "https://gamedeveloper.com/game-platforms/appeals-court-affirms-dmca-restriction-on-i-world-of-warcraft-i-bot",
+  "https://www.techdirt.com/2010/12/14/some-good-some-bad-new-ruling-whether-not-wow-bot-infringes-copyright"
+ ],
+ "script": "Did you know a World of Warcraft bot once cost its creator six and a half million dollars? In 2005, a programmer named Michael Donnelly built a program called Glider. It played WoW for you, grinding levels and farming gold while you slept. He sold it for 15 to 25 dollars a copy. By 2008 it had sold about one hundred twenty thousand licenses and brought in roughly three and a half million dollars. Blizzard's anti cheat system, called Warden, learned to spot Glider and banned most of its users. So Glider was rebuilt to hide from Warden. In October 2006, Blizzard's lawyers showed up at Donnelly's home and told him to stop. Instead, he sued Blizzard first, asking a court to rule that Glider was legal. Blizzard fired back with counterclaims of its own. In 2008 a federal judge in Arizona sided with Blizzard. The court ordered Glider shut down and entered a judgment of six and a half million dollars. In 2010 an appeals court softened that. It said using a bot breaks the rules but is not copyright infringement. But it still held Glider liable for sneaking past Warden. Glider never came back. Did you ever catch a bot farming your favorite spot? Follow for more gaming history."
+}
