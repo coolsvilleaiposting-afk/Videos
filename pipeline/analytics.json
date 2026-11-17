@@ -1,11 +1,44 @@
 {
- "generated": "2026-11-16T10:14:23+00:00",
+ "generated": "2026-11-17T10:31:00+00:00",
  "followers": {
-  "instagram": 14,
-  "tiktok": 19
+  "tiktok": 19,
+  "instagram": 15
  },
  "channel_median_tiktok_views": 294,
  "series": {
+  "Resident Evil": {
+   "posts": 3,
+   "median_views": 382,
+   "mean_views": 363,
+   "engagement_per_view": 0.071,
+   "avg_watch_s": 9.4,
+   "follows": 0,
+   "ig_median_views": 1187,
+   "yt_posts": 5,
+   "yt_median_views": 1
+  },
+  "Zelda": {
+   "posts": 6,
+   "median_views": 332,
+   "mean_views": 393,
+   "engagement_per_view": 0.0492,
+   "avg_watch_s": 10.6,
+   "follows": 2,
+   "ig_median_views": 1217,
+   "yt_posts": 3,
+   "yt_median_views": 1
+  },
+  "WoW": {
+   "posts": 14,
+   "median_views": 342,
+   "mean_views": 702,
+   "engagement_per_view": 0.0554,
+   "avg_watch_s": 15.3,
+   "follows": 10,
+   "ig_median_views": 1185,
+   "yt_posts": 7,
+   "yt_median_views": 2
+  },
   "OSRS": {
    "posts": 6,
    "median_views": 310,
@@ -13,7 +46,7 @@
    "engagement_per_view": 0.0456,
    "avg_watch_s": 15.8,
    "follows": 3,
-   "ig_median_views": 1226,
+   "ig_median_views": 1233,
    "yt_posts": 6,
    "yt_median_views": 1
   },
@@ -28,21 +61,10 @@
    "yt_posts": 10,
    "yt_median_views": 1
   },
-  "WoW": {
-   "posts": 14,
-   "median_views": 342,
-   "mean_views": 700,
-   "engagement_per_view": 0.0553,
-   "avg_watch_s": 15.3,
-   "follows": 10,
-   "ig_median_views": 1185,
-   "yt_posts": 7,
-   "yt_median_views": 2
-  },
   "Fire Emblem": {
    "posts": 3,
    "median_views": 404,
-   "mean_views": 514,
+   "mean_views": 515,
    "engagement_per_view": 0.041,
    "avg_watch_s": 10.8,
    "follows": 0,
@@ -59,28 +81,6 @@
    "follows": 1,
    "ig_median_views": 1209,
    "yt_posts": 6,
-   "yt_median_views": 1
-  },
-  "Zelda": {
-   "posts": 6,
-   "median_views": 332,
-   "mean_views": 392,
-   "engagement_per_view": 0.0492,
-   "avg_watch_s": 10.6,
-   "follows": 2,
-   "ig_median_views": 1261,
-   "yt_posts": 3,
-   "yt_median_views": 1
-  },
-  "Resident Evil": {
-   "posts": 3,
-   "median_views": 382,
-   "mean_views": 363,
-   "engagement_per_view": 0.071,
-   "avg_watch_s": 9.4,
-   "follows": 0,
-   "ig_median_views": 1221,
-   "yt_posts": 5,
    "yt_median_views": 1
   },
   "Kingdom Hearts": {
@@ -115,25 +115,73 @@
  },
  "lessons": [
   "Series ranked by weight: WoW 16%, Fire Emblem 16%, Resident Evil 16%, OSRS 14%, Final Fantasy 14%, Zelda 13%, Kingdom Hearts 11%",
-  "Top hooks: 4083v In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f | 1038v Nearly 450,000 people voted to bring a 2007 backup back online. Now it's bigger than the m | 993v A cartoon about grinding boars won a Primetime Emmy. Blizzard helped make it. What's your ",
+  "Top hooks: 4095v In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f | 1038v Nearly 450,000 people voted to bring a 2007 backup back online. Now it's bigger than the m | 993v A cartoon about grinding boars won a Primetime Emmy. Blizzard helped make it. What's your ",
   "Weakest hooks: 31v  | 22v  | 22v In 2016 Blizzard shut down Nostalrius, a fan-run vanilla WoW server with over 800,000 acco",
-  "Best completion: 9% Nearly 450,000 people voted to bring a 2007 backup | 7% He never beat the raid but Blizzard made him an ac | 8% A 1998 game is still the highest rated of all time"
+  "Best completion: 9% Nearly 450,000 people voted to bring a 2007 backup | 7% He never beat the raid but Blizzard made him an ac | 8% In October 2008 Blizzard turned Stormwind into a z"
  ],
  "posts": [
+  {
+   "post_id": "6afb9e9db05d66382d0b11a2",
+   "platform": "instagram",
+   "series": "Resident Evil",
+   "published": "2026-11-17",
+   "hook": "In 1998 George Romero, the director of Night of the Living Dead, shot a Resident Evil 2 co",
+   "views": 135,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 8328,
+   "engagement_rate": 0
+  },
+  {
+   "post_id": "6afb6ef3e66ed603b6c07476",
+   "platform": "instagram",
+   "series": "Zelda",
+   "published": "2026-11-16",
+   "hook": "In 1997 Miyamoto said Ocarina of Time could get an expansion disk on the 64DD. The add-on ",
+   "views": 1173,
+   "likes": 10,
+   "comments": 1,
+   "shares": 0,
+   "saves": 3,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 18234,
+   "engagement_rate": 1.19
+  },
+  {
+   "post_id": "6afb3e1a644e0cddd3cacc91",
+   "platform": "instagram",
+   "series": "WoW",
+   "published": "2026-11-16",
+   "hook": "A WoW bot called Glider sold about 120,000 copies at up to $25 each, then a federal judge ",
+   "views": 1625,
+   "likes": 12,
+   "comments": 0,
+   "shares": 1,
+   "saves": 2,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 40619,
+   "engagement_rate": 0.92
+  },
   {
    "post_id": "6afa4c3e745ca1bc096c8753",
    "platform": "instagram",
    "series": "OSRS",
    "published": "2026-11-16",
    "hook": "Old School RuneScape waited 17 years for a new skill, and Sailing beat Shamanism by just 5",
-   "views": 1225,
+   "views": 1238,
    "likes": 6,
    "comments": 1,
    "shares": 1,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 26433,
+   "avg_watch_ms": 26461,
    "engagement_rate": 0.65
   },
   {
@@ -174,15 +222,15 @@
    "series": "Fire Emblem",
    "published": "2026-11-15",
    "hook": "Fire Emblem Heroes passed $1 billion in player spending in 2022, more than Mario Kart Tour",
-   "views": 1258,
+   "views": 1263,
    "likes": 26,
    "comments": 3,
    "shares": 8,
    "saves": 6,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 13689,
-   "engagement_rate": 3.42
+   "avg_watch_ms": 13690,
+   "engagement_rate": 3.4
   },
   {
    "post_id": "6af8cafda28395a9bea14e33",
@@ -350,14 +398,14 @@
    "series": "WoW",
    "published": "2026-11-11",
    "hook": "Announced in 2006, released in 2016, and it earned more than four times as much in China a",
-   "views": 1138,
+   "views": 1139,
    "likes": 4,
    "comments": 0,
    "shares": 0,
    "saves": 1,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 16064,
+   "avg_watch_ms": 16062,
    "engagement_rate": 0.44
   },
   {
@@ -1070,15 +1118,15 @@
    "series": "WoW",
    "published": "2026-10-30",
    "hook": "In October 2008 Blizzard turned Stormwind into a zombie outbreak on purpose, then pulled t",
-   "views": 930,
+   "views": 938,
    "likes": 12,
    "comments": 0,
    "shares": 2,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0767,
-   "avg_watch_ms": 22540,
-   "engagement_rate": 1.64
+   "completion": 0.0782,
+   "avg_watch_ms": 22580,
+   "engagement_rate": 1.63
   },
   {
    "post_id": "6ae4b4498b41d88745c9c16c",
@@ -1614,14 +1662,14 @@
    "series": "Fire Emblem",
    "published": "2026-10-24",
    "hook": "The original Fire Emblem launched on the Famicom in April 1990 and did not get an official",
-   "views": 331,
+   "views": 332,
    "likes": 8,
    "comments": 0,
    "shares": 0,
    "saves": 1,
    "follows": 0,
    "completion": 0.0118,
-   "avg_watch_ms": 7640,
+   "avg_watch_ms": 7670,
    "engagement_rate": 3.03
   },
   {
@@ -1678,7 +1726,7 @@
    "series": "WoW",
    "published": "2026-10-24",
    "hook": "In 2007 Mr. T told TV audiences he played a Night Elf Mohawk, a class that did not exist. ",
-   "views": 359,
+   "views": 360,
    "likes": 13,
    "comments": 1,
    "shares": 0,
@@ -1806,15 +1854,15 @@
    "series": "WoW",
    "published": "2026-10-22",
    "hook": "In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f",
-   "views": 4083,
-   "likes": 86,
+   "views": 4095,
+   "likes": 87,
    "comments": 6,
    "shares": 22,
-   "saves": 6,
+   "saves": 7,
    "follows": 0,
-   "completion": 0.0651,
-   "avg_watch_ms": 27760,
-   "engagement_rate": 3.14
+   "completion": 0.0652,
+   "avg_watch_ms": 27740,
+   "engagement_rate": 3.19
   },
   {
    "post_id": "6adaa4b5fcc8b1c8a51b9504",
@@ -1822,15 +1870,15 @@
    "series": "WoW",
    "published": "2026-10-22",
    "hook": "In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f",
-   "views": 4515,
+   "views": 4521,
    "likes": 56,
    "comments": 1,
    "shares": 39,
    "saves": 9,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 32083,
-   "engagement_rate": 2.33
+   "avg_watch_ms": 32067,
+   "engagement_rate": 2.32
   },
   {
    "post_id": "6ada83308062f400a7ca26a8",
@@ -1838,7 +1886,7 @@
    "series": "Fire Emblem",
    "published": "2026-10-22",
    "hook": "Shouzou Kaga made the first five Fire Emblem games, then left and built a PlayStation riva",
-   "views": 808,
+   "views": 809,
    "likes": 16,
    "comments": 1,
    "shares": 1,
@@ -2030,15 +2078,15 @@
    "series": "Zelda",
    "published": "2026-10-20",
    "hook": "Breath of the Wild's first prototype looked like the 1986 NES Zelda. Nintendo built it jus",
-   "views": 447,
+   "views": 450,
    "likes": 15,
    "comments": 1,
    "shares": 0,
    "saves": 0,
    "follows": 0,
-   "completion": 0.02,
-   "avg_watch_ms": 14030,
-   "engagement_rate": 3.97
+   "completion": 0.0198,
+   "avg_watch_ms": 14010,
+   "engagement_rate": 3.93
   },
   {
    "post_id": "6ad7e0597da23a6a32468e3e",
@@ -2053,8 +2101,8 @@
    "saves": 1,
    "follows": 0,
    "completion": 0.0183,
-   "avg_watch_ms": 11850,
-   "engagement_rate": 4.2
+   "avg_watch_ms": 11830,
+   "engagement_rate": 4.18
   },
   {
    "post_id": "6ad7df3d554c3ac405ea55fc",
@@ -2468,9 +2516,9 @@
    "shares": 3,
    "saves": 5,
    "follows": 1,
-   "completion": 0.048,
-   "avg_watch_ms": 10870,
-   "engagement_rate": 7.82
+   "completion": 0.0479,
+   "avg_watch_ms": 10860,
+   "engagement_rate": 7.8
   },
   {
    "post_id": "6ad6114dc15addba9ff16082",
