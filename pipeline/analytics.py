@@ -28,9 +28,16 @@ MIN_POSTS_TO_TRUST = 2   # below this a series keeps a neutral weight
 
 def zernio(path):
     key = os.environ["ZERNIO_API_KEY"]
-    out = subprocess.run(["curl", "-sS", "-m", "90", "--retry", "3", "--retry-all-errors", ZBASE + path,
-                          "-H", f"Authorization: Bearer {key}"], capture_output=True, text=True).stdout
-    return json.loads(out)
+    for attempt in range(5):
+        out = subprocess.run(["curl", "-sS", "-m", "90", "--retry", "3", "--retry-all-errors", ZBASE + path,
+                              "-H", f"Authorization: Bearer {key}"], capture_output=True, text=True).stdout
+        try:
+            return json.loads(out)
+        except json.JSONDecodeError:
+            # Zernio's edge sometimes returns a plain-text "Forbidden" 403; wait and try again
+            if attempt == 4 or not out.lstrip().startswith("Forbidden"):
+                raise
+            import time; time.sleep(4 * (attempt + 1))
 
 def series_of(text):
     t = text.lower()

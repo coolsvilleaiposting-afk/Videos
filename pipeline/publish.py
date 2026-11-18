@@ -29,11 +29,16 @@ def zernio(method, path, body=None):
             "-H", f"Authorization: Bearer {key}", "-H", "Content-Type: application/json"]
     if body is not None:
         args += ["--data", json.dumps(body)]
-    out = subprocess.run(args, capture_output=True, text=True).stdout
-    try:
-        return json.loads(out)
-    except json.JSONDecodeError:
-        raise SystemExit(f"Zernio bad response {path}: {out[:400]}")
+    # Zernio's edge (Vercel) sometimes answers a plain-text "Forbidden" 403 before the request
+    # reaches the API (seen 2026-11-18); nothing was created, so it is safe to try again.
+    for attempt in range(5):
+        out = subprocess.run(args, capture_output=True, text=True).stdout
+        try:
+            return json.loads(out)
+        except json.JSONDecodeError:
+            if attempt < 4 and out.lstrip().startswith("Forbidden"):
+                time.sleep(4 * (attempt + 1)); continue
+            raise SystemExit(f"Zernio bad response {path}: {out[:400]}")
 
 def zernio_accounts():
     ids = {}
