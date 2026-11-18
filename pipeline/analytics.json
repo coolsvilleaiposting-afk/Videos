@@ -1,11 +1,44 @@
 {
- "generated": "2026-11-17T10:31:00+00:00",
+ "generated": "2026-11-18T10:28:40+00:00",
  "followers": {
-  "tiktok": 19,
+  "tiktok": 18,
   "instagram": 15
  },
  "channel_median_tiktok_views": 294,
  "series": {
+  "Kingdom Hearts": {
+   "posts": 4,
+   "median_views": 309,
+   "mean_views": 269,
+   "engagement_per_view": 0.0465,
+   "avg_watch_s": 10.9,
+   "follows": 0,
+   "ig_median_views": 133,
+   "yt_posts": 1,
+   "yt_median_views": 3
+  },
+  "Other": {
+   "posts": 13,
+   "median_views": 123,
+   "mean_views": 127,
+   "engagement_per_view": 0.0297,
+   "avg_watch_s": 8.2,
+   "follows": 2,
+   "ig_median_views": 345,
+   "yt_posts": 10,
+   "yt_median_views": 1
+  },
+  "WoW": {
+   "posts": 14,
+   "median_views": 343,
+   "mean_views": 703,
+   "engagement_per_view": 0.0553,
+   "avg_watch_s": 15.4,
+   "follows": 10,
+   "ig_median_views": 1185,
+   "yt_posts": 7,
+   "yt_median_views": 2
+  },
   "Resident Evil": {
    "posts": 3,
    "median_views": 382,
@@ -19,25 +52,14 @@
   },
   "Zelda": {
    "posts": 6,
-   "median_views": 332,
+   "median_views": 333,
    "mean_views": 393,
-   "engagement_per_view": 0.0492,
+   "engagement_per_view": 0.0491,
    "avg_watch_s": 10.6,
    "follows": 2,
    "ig_median_views": 1217,
    "yt_posts": 3,
    "yt_median_views": 1
-  },
-  "WoW": {
-   "posts": 14,
-   "median_views": 342,
-   "mean_views": 702,
-   "engagement_per_view": 0.0554,
-   "avg_watch_s": 15.3,
-   "follows": 10,
-   "ig_median_views": 1185,
-   "yt_posts": 7,
-   "yt_median_views": 2
   },
   "OSRS": {
    "posts": 6,
@@ -48,17 +70,6 @@
    "follows": 3,
    "ig_median_views": 1233,
    "yt_posts": 6,
-   "yt_median_views": 1
-  },
-  "Other": {
-   "posts": 13,
-   "median_views": 123,
-   "mean_views": 127,
-   "engagement_per_view": 0.0297,
-   "avg_watch_s": 8.2,
-   "follows": 2,
-   "ig_median_views": 282,
-   "yt_posts": 10,
    "yt_median_views": 1
   },
   "Fire Emblem": {
@@ -82,21 +93,10 @@
    "ig_median_views": 1209,
    "yt_posts": 6,
    "yt_median_views": 1
-  },
-  "Kingdom Hearts": {
-   "posts": 4,
-   "median_views": 309,
-   "mean_views": 269,
-   "engagement_per_view": 0.0465,
-   "avg_watch_s": 10.9,
-   "follows": 0,
-   "ig_median_views": 131,
-   "yt_posts": 1,
-   "yt_median_views": 3
   }
  },
  "weights": {
-  "WoW": 2.88,
+  "WoW": 2.9,
   "OSRS": 2.57,
   "Final Fantasy": 2.48,
   "Kingdom Hearts": 1.93,
@@ -105,35 +105,83 @@
   "Resident Evil": 2.82
  },
  "share": {
-  "WoW": 0.161,
-  "OSRS": 0.144,
-  "Final Fantasy": 0.139,
+  "WoW": 0.162,
+  "OSRS": 0.143,
+  "Final Fantasy": 0.138,
   "Kingdom Hearts": 0.108,
   "Zelda": 0.133,
   "Fire Emblem": 0.158,
-  "Resident Evil": 0.158
+  "Resident Evil": 0.157
  },
  "lessons": [
   "Series ranked by weight: WoW 16%, Fire Emblem 16%, Resident Evil 16%, OSRS 14%, Final Fantasy 14%, Zelda 13%, Kingdom Hearts 11%",
-  "Top hooks: 4095v In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f | 1038v Nearly 450,000 people voted to bring a 2007 backup back online. Now it's bigger than the m | 993v A cartoon about grinding boars won a Primetime Emmy. Blizzard helped make it. What's your ",
+  "Top hooks: 4105v In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f | 1038v Nearly 450,000 people voted to bring a 2007 backup back online. Now it's bigger than the m | 993v A cartoon about grinding boars won a Primetime Emmy. Blizzard helped make it. What's your ",
   "Weakest hooks: 31v  | 22v  | 22v In 2016 Blizzard shut down Nostalrius, a fan-run vanilla WoW server with over 800,000 acco",
   "Best completion: 9% Nearly 450,000 people voted to bring a 2007 backup | 7% He never beat the raid but Blizzard made him an ac | 8% In October 2008 Blizzard turned Stormwind into a z"
  ],
  "posts": [
+  {
+   "post_id": "6afcfb23b8168beb6f3db48d",
+   "platform": "instagram",
+   "series": "Kingdom Hearts",
+   "published": "2026-11-18",
+   "hook": "Yoko Shimomura joined Capcom in 1988 against her teachers' advice, scored Street Fighter I",
+   "views": 872,
+   "likes": 17,
+   "comments": 0,
+   "shares": 3,
+   "saves": 1,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 12827,
+   "engagement_rate": 2.41
+  },
+  {
+   "post_id": "6afcc7099421f5159dac38c1",
+   "platform": "instagram",
+   "series": "Other",
+   "published": "2026-11-17",
+   "hook": "Riot announced its first game on October 7, 2008 as League of Legends: Clash of Fates. The",
+   "views": 1291,
+   "likes": 11,
+   "comments": 0,
+   "shares": 0,
+   "saves": 2,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 27146,
+   "engagement_rate": 1.01
+  },
+  {
+   "post_id": "6afc935c0f4dea4458358ce8",
+   "platform": "instagram",
+   "series": "WoW",
+   "published": "2026-11-17",
+   "hook": "Blizzard's last official World of Warcraft subscriber count was 5.5 million in November 20",
+   "views": 1261,
+   "likes": 8,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 26691,
+   "engagement_rate": 0.63
+  },
   {
    "post_id": "6afb9e9db05d66382d0b11a2",
    "platform": "instagram",
    "series": "Resident Evil",
    "published": "2026-11-17",
    "hook": "In 1998 George Romero, the director of Night of the Living Dead, shot a Resident Evil 2 co",
-   "views": 135,
+   "views": 145,
    "likes": 0,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 8328,
+   "avg_watch_ms": 8430,
    "engagement_rate": 0
   },
   {
@@ -142,15 +190,15 @@
    "series": "Zelda",
    "published": "2026-11-16",
    "hook": "In 1997 Miyamoto said Ocarina of Time could get an expansion disk on the 64DD. The add-on ",
-   "views": 1173,
+   "views": 1188,
    "likes": 10,
    "comments": 1,
    "shares": 0,
    "saves": 3,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 18234,
-   "engagement_rate": 1.19
+   "avg_watch_ms": 18111,
+   "engagement_rate": 1.18
   },
   {
    "post_id": "6afb3e1a644e0cddd3cacc91",
@@ -158,15 +206,15 @@
    "series": "WoW",
    "published": "2026-11-16",
    "hook": "A WoW bot called Glider sold about 120,000 copies at up to $25 each, then a federal judge ",
-   "views": 1625,
-   "likes": 12,
+   "views": 1674,
+   "likes": 13,
    "comments": 0,
    "shares": 1,
    "saves": 2,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 40619,
-   "engagement_rate": 0.92
+   "avg_watch_ms": 40462,
+   "engagement_rate": 0.96
   },
   {
    "post_id": "6afa4c3e745ca1bc096c8753",
@@ -334,15 +382,15 @@
    "series": "Other",
    "published": "2026-11-12",
    "hook": "Atlus announced Project Re Fantasy in December 2016, and it took almost eight years to bec",
-   "views": 1182,
+   "views": 1184,
    "likes": 17,
    "comments": 0,
    "shares": 9,
    "saves": 4,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 13791,
-   "engagement_rate": 2.54
+   "avg_watch_ms": 13787,
+   "engagement_rate": 2.53
   },
   {
    "post_id": "6af5f37fda1cd00aa82f8531",
@@ -1118,15 +1166,15 @@
    "series": "WoW",
    "published": "2026-10-30",
    "hook": "In October 2008 Blizzard turned Stormwind into a zombie outbreak on purpose, then pulled t",
-   "views": 938,
+   "views": 946,
    "likes": 12,
    "comments": 0,
    "shares": 2,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0782,
-   "avg_watch_ms": 22580,
-   "engagement_rate": 1.63
+   "completion": 0.0799,
+   "avg_watch_ms": 23470,
+   "engagement_rate": 1.6
   },
   {
    "post_id": "6ae4b4498b41d88745c9c16c",
@@ -1374,7 +1422,7 @@
    "series": "Zelda",
    "published": "2026-10-28",
    "hook": "Twilight Princess on Wii is a complete mirror image of the GameCube version, flipped in 20",
-   "views": 385,
+   "views": 387,
    "likes": 12,
    "comments": 2,
    "shares": 0,
@@ -1669,7 +1717,7 @@
    "saves": 1,
    "follows": 0,
    "completion": 0.0118,
-   "avg_watch_ms": 7670,
+   "avg_watch_ms": 7650,
    "engagement_rate": 3.03
   },
   {
@@ -1726,14 +1774,14 @@
    "series": "WoW",
    "published": "2026-10-24",
    "hook": "In 2007 Mr. T told TV audiences he played a Night Elf Mohawk, a class that did not exist. ",
-   "views": 360,
+   "views": 361,
    "likes": 13,
    "comments": 1,
    "shares": 0,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0388,
-   "avg_watch_ms": 21410,
+   "completion": 0.0387,
+   "avg_watch_ms": 21350,
    "engagement_rate": 4.22
   },
   {
@@ -1790,7 +1838,7 @@
    "series": "Final Fantasy",
    "published": "2026-10-23",
    "hook": "Square spent 137 million dollars on The Spirits Within in 2001 and it made back about 85 m",
-   "views": 484,
+   "views": 485,
    "likes": 17,
    "comments": 4,
    "shares": 0,
@@ -1854,15 +1902,15 @@
    "series": "WoW",
    "published": "2026-10-22",
    "hook": "In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f",
-   "views": 4095,
+   "views": 4105,
    "likes": 87,
    "comments": 6,
    "shares": 22,
    "saves": 7,
    "follows": 0,
-   "completion": 0.0652,
-   "avg_watch_ms": 27740,
-   "engagement_rate": 3.19
+   "completion": 0.0651,
+   "avg_watch_ms": 27680,
+   "engagement_rate": 3.17
   },
   {
    "post_id": "6adaa4b5fcc8b1c8a51b9504",
@@ -1870,14 +1918,14 @@
    "series": "WoW",
    "published": "2026-10-22",
    "hook": "In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f",
-   "views": 4521,
+   "views": 4522,
    "likes": 56,
    "comments": 1,
    "shares": 39,
    "saves": 9,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 32067,
+   "avg_watch_ms": 32059,
    "engagement_rate": 2.32
   },
   {
@@ -1950,7 +1998,7 @@
    "series": "WoW",
    "published": "2026-10-22",
    "hook": "#worldofwarcraft #ahnqiraj #didyouknow #gaminghistory ",
-   "views": 38,
+   "views": 39,
    "likes": 1,
    "comments": 0,
    "shares": 0,
@@ -2078,15 +2126,15 @@
    "series": "Zelda",
    "published": "2026-10-20",
    "hook": "Breath of the Wild's first prototype looked like the 1986 NES Zelda. Nintendo built it jus",
-   "views": 450,
+   "views": 453,
    "likes": 15,
    "comments": 1,
    "shares": 0,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0198,
-   "avg_watch_ms": 14010,
-   "engagement_rate": 3.93
+   "completion": 0.0196,
+   "avg_watch_ms": 13910,
+   "engagement_rate": 3.91
   },
   {
    "post_id": "6ad7e0597da23a6a32468e3e",
