@@ -1,9 +1,9 @@
 {
- "fetched": "2026-11-16",
+ "fetched": "2026-11-19",
  "channel_id": "UCvqNyI3jmHN1doZ2xCeEsIg",
  "range": [
-  "2026-10-19",
-  "2026-11-16"
+  "2026-10-22",
+  "2026-11-19"
  ],
  "columns": [
   "video",
@@ -20,35 +20,23 @@
  "rows": [
   [
    "UTT2g1MzyjE",
-   15,
-   5,
-   0,
-   2.75,
+   21,
+   7,
    2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "9TRvKKv4O7o",
-   13,
-   3,
-   3,
-   101.56,
-   75,
+   16.77,
+   12,
    1,
    0,
    0,
    0
   ],
   [
-   "1L1OZAS5D8Y",
-   10,
-   6,
-   49,
-   743.77,
-   498,
+   "9TRvKKv4O7o",
+   11,
+   2,
+   2,
+   103.76,
+   76,
    1,
    0,
    0,
@@ -56,11 +44,23 @@
   ],
   [
    "ZQW_BegNOfc",
-   9,
+   10,
    4,
    1,
    30.130000000000003,
    19,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "YcpGnBdRgbk",
+   9,
+   1,
+   0,
+   34.14,
+   23,
    0,
    0,
    0,
@@ -79,32 +79,32 @@
    0
   ],
   [
-   "YcpGnBdRgbk",
-   8,
-   1,
-   0,
-   34.14,
-   23,
+   "1L1OZAS5D8Y",
+   7,
+   7,
+   3,
+   44.34,
+   29,
    0,
    0,
    0,
    0
   ],
   [
-   "qf0PCs97i4w",
-   5,
+   "4ImqfL7pOWY",
+   6,
+   3,
    1,
-   2,
-   392.56,
-   153,
-   1,
+   58.86,
+   38,
+   0,
    0,
    0,
    0
   ],
   [
    "foiyXdBjza8",
-   5,
+   6,
    1,
    4,
    405.44,
@@ -115,25 +115,25 @@
    0
   ],
   [
-   "TcrTJdjNUFU",
-   4,
-   2,
+   "JGMgcFvxYNk",
+   5,
    0,
-   4.73,
-   3,
+   0,
+   0,
+   0,
    0,
    0,
    0,
    0
   ],
   [
-   "qdsixZ70Tb8",
-   4,
+   "TcrTJdjNUFU",
+   5,
    2,
-   2,
-   99.68,
-   67,
-   1,
+   0,
+   4.73,
+   3,
+   0,
    0,
    0,
    0
@@ -145,30 +145,6 @@
    1,
    56.720000000000006,
    38,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "fSQH0kuQM9k",
-   4,
-   1,
-   0,
-   0.58,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "4ImqfL7pOWY",
-   4,
-   2,
-   1,
-   52.839999999999996,
-   34,
    0,
    0,
    0,
@@ -187,6 +163,18 @@
    0
   ],
   [
+   "-U80Ine6drA",
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "AHtgorMJeZs",
    3,
    1,
@@ -199,11 +187,23 @@
    0
   ],
   [
-   "JGMgcFvxYNk",
+   "R0g1KPZj-o8",
    3,
+   1,
+   0,
+   2.03,
+   1,
    0,
    0,
    0,
+   0
+  ],
+  [
+   "fSQH0kuQM9k",
+   3,
+   1,
+   0,
+   0.58,
    0,
    0,
    0,
@@ -223,18 +223,6 @@
    0
   ],
   [
-   "R0g1KPZj-o8",
-   3,
-   1,
-   0,
-   2.03,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Ef8f_fULtao",
    3,
    1,
@@ -247,48 +235,48 @@
    0
   ],
   [
-   "a0De8ugRUAs",
-   3,
-   1,
-   1,
-   271.75,
-   95,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
-   "_9erYnI1wgU",
-   2,
-   1,
-   1,
-   95.81,
-   70,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "BEXsWGCPjsI",
-   2,
-   1,
-   0,
-   107.15999999999998,
-   35,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "lGP-qI6n2MQ",
    2,
    2,
    1,
    76.1,
    51,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "WGDOpZCkeyw",
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "mhyCYIgPmTo",
+   2,
+   1,
+   0,
+   38.27,
+   27,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "_hWVdF8y4Uw",
+   2,
+   1,
+   0,
+   17.78,
+   12,
    0,
    0,
    0,
@@ -307,72 +295,36 @@
    0
   ],
   [
-   "HNTk9Sh5qZ4",
+   "_9erYnI1wgU",
    2,
    1,
-   0,
-   100.12,
-   33,
    1,
+   95.81,
+   70,
+   0,
    0,
    0,
    0
   ],
   [
-   "mhyCYIgPmTo",
+   "zwiShtl_WO0",
    2,
    1,
+   1,
+   98.61,
+   71,
    0,
-   38.27,
+   0,
+   0,
+   0
+  ],
+  [
+   "grmT56Ip1NU",
+   2,
+   2,
+   0,
+   39.62,
    27,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "y1byWKq_Uu0",
-   2,
-   1,
-   0,
-   117.52,
-   35,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
-   "-U80Ine6drA",
-   2,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "BGrl0016XJQ",
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "TXNJdqnsW5s",
-   1,
-   1,
-   0,
-   2.79,
-   1,
    0,
    0,
    0,
@@ -391,7 +343,7 @@
    0
   ],
   [
-   "F3SRMAwz0JU",
+   "qdsixZ70Tb8",
    1,
    0,
    0,
@@ -403,12 +355,12 @@
    0
   ],
   [
-   "feml6rCJVhU",
+   "g4enpwVH_L8",
    1,
    1,
    0,
-   59.12,
-   40,
+   6.07,
+   4,
    0,
    0,
    0,
@@ -427,7 +379,31 @@
    0
   ],
   [
-   "zwiShtl_WO0",
+   "X_tYLaSPVyo",
+   1,
+   1,
+   0,
+   16.9,
+   12,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "25RsEEYzfoo",
+   1,
+   1,
+   0,
+   22.96,
+   15,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "BrO0fYtBX6c",
    1,
    0,
    0,
@@ -451,19 +427,7 @@
    0
   ],
   [
-   "grmT56Ip1NU",
-   1,
-   1,
-   0,
-   78.64,
-   55,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "WGDOpZCkeyw",
+   "NhOqORJZ6qc",
    1,
    0,
    0,
@@ -475,12 +439,12 @@
    0
   ],
   [
-   "fKcYaPfX5o4",
-   1,
+   "pLLHoyvKxpg",
    1,
    0,
-   5.07,
-   3,
+   0,
+   0,
+   0,
    0,
    0,
    0,
@@ -499,12 +463,132 @@
    0
   ],
   [
-   "pLLHoyvKxpg",
+   "feml6rCJVhU",
+   1,
+   1,
+   0,
+   59.12,
+   40,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "fKcYaPfX5o4",
+   1,
+   1,
+   0,
+   5.07,
+   3,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "J-0jpFtwVq8",
    1,
    0,
    0,
    0,
    0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Uc95cfqNGJs",
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "1B_Xb_438Dc",
+   1,
+   1,
+   0,
+   13.100000000000001,
+   9,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "BGrl0016XJQ",
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "9t8LOcyusiI",
+   1,
+   1,
+   0,
+   52.16,
+   39,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "FaSCcnH5Kpk",
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "TXNJdqnsW5s",
+   1,
+   1,
+   0,
+   2.79,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "F3SRMAwz0JU",
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "FazZgzihB18",
+   1,
+   1,
+   0,
+   13.970000000000002,
+   9,
    0,
    0,
    0,
@@ -733,6 +817,66 @@
    "title": "Capcom Showed Resident Evil 7 a Year Early and Nobody Knew",
    "hashtags": "#residentevil #gaminghistory #re7 #psvr #e3",
    "published": "2026-11-11"
+  },
+  "g4enpwVH_L8": {
+   "title": "The Final Fantasy Movie That Nearly Sank Square",
+   "hashtags": "#finalfantasy #thespiritswithin #squareenix #sakaguchi #ffvii #gaminghistory #didyouknow #jrpg",
+   "published": "2026-10-23"
+  },
+  "_hWVdF8y4Uw": {
+   "title": "Godzilla: Destroy All Monsters Melee Began as a GameCube Exclusive",
+   "hashtags": "#godzilla #gaminghistory #gamingnews #gamecube #kaiju",
+   "published": "2026-11-04"
+  },
+  "NhOqORJZ6qc": {
+   "title": "The Voice of Thrall Retired, Then Came Back to Run Warcraft",
+   "hashtags": "#wow #gaminghistory #thrall #blizzard #worldofwarcraft",
+   "published": "2026-11-13"
+  },
+  "1B_Xb_438Dc": {
+   "title": "Kingdom Hearts III Took 13 Years and Two Game Engines",
+   "hashtags": "#kingdomhearts #gaminghistory #kh3 #squareenix #sora",
+   "published": "2026-10-29"
+  },
+  "Uc95cfqNGJs": {
+   "title": "WoW Exists Because Blizzard Was Addicted to EverQuest",
+   "hashtags": "#wow #gaminghistory #everquest #blizzard #mmorpg",
+   "published": "2026-10-28"
+  },
+  "J-0jpFtwVq8": {
+   "title": "Final Fantasy VIII's Theme Song Won a Real Music Award in Japan",
+   "hashtags": "#finalfantasy #gaminghistory #ff8 #eyesonme #nobuouematsu",
+   "published": "2026-11-14"
+  },
+  "FaSCcnH5Kpk": {
+   "title": "Nintendo Let Philips Make 3 Zelda Games, Then Erased Them",
+   "hashtags": "#zelda #gaminghistory #cdi #philips #retrogaming",
+   "published": "2026-11-12"
+  },
+  "BrO0fYtBX6c": {
+   "title": "Blizzard Shut Down a Fan Server. Then It Built WoW Classic.",
+   "hashtags": "#wow #gaminghistory #wowclassic #nostalrius #blizzard",
+   "published": "2026-10-27"
+  },
+  "25RsEEYzfoo": {
+   "title": "Ocarina of Time's Lost Expansion Became Master Quest",
+   "hashtags": "#zelda #gamingnews #gaminghistory #ocarinaoftime #masterquest",
+   "published": "2026-11-16"
+  },
+  "X_tYLaSPVyo": {
+   "title": "WoW Sold Out So Fast Blizzard Stopped Shipping It",
+   "hashtags": "#wow #worldofwarcraft #wowclassic #blizzard #mmo #vanillawow #gaminghistory #didyouknow",
+   "published": "2026-10-23"
+  },
+  "FazZgzihB18": {
+   "title": "Metaphor: ReFantazio Was Announced 8 Years Before It Came Out",
+   "hashtags": "#metaphorrefantazio #gaminghistory #gamingnews #atlus #switch2",
+   "published": "2026-11-12"
+  },
+  "9t8LOcyusiI": {
+   "title": "Nintendo Gave Away Fire Emblem for Free to Say Sorry for the 3DS",
+   "hashtags": "#fireemblem #gaminghistory #nintendo3ds #sacredstones #gameboyadvance",
+   "published": "2026-11-13"
   }
  }
 }
