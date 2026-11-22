@@ -1,0 +1,21 @@
+{
+ "slug": "wow_ensidia_lich_king_world_first_ban",
+ "series": "WORLD OF WARCRAFT",
+ "accent": "#f0b323",
+ "deep": "#2a1a03",
+ "voice": "justin",
+ "footage": "wow_2.mp4",
+ "footage_offset": 17,
+ "title": "The First Guild to Kill the Lich King Got Banned for It",
+ "hook": "In February 2010 the guild Ensidia killed the 25-man Lich King on the day the fight went live, then Blizzard banned every raider for 72 hours and took the loot back. Were they cheaters or just unlucky?",
+ "hashtags": "#wow #gaminghistory #lichking #worldfirst #wotlk",
+ "sources": [
+  "https://www.engadget.com/2010-02-05-editorial-thoughts-on-the-ensidia-ban.html",
+  "https://www.engadget.com/2010-02-03-saronite-bombs-and-similar-items-disabled.html",
+  "https://www.tentonhammer.com/news/wow-ensidia-world-first-lich-king-25-or-not",
+  "https://godisageek.com/2010/02/ensida-suspended-for-glitching-lich-king-kill/",
+  "https://blizzardwatch.com/2017/08/29/wow-archivist-icecrown-citadel/",
+  "https://mein-mmo.de/en/wow-ensidia-bann-ehrung-lichen-king,243969"
+ ],
+ "script": "Did you know the first guild to kill the Lich King got banned for it? On February third, twenty ten, the European guild Ensidia beat the twenty five player Lich King fight on the day it went live. It looked like a world first. Then Blizzard looked at the logs. During the fight, the edges of the Lich King's platform collapse, and the raid is supposed to deal with that. Someone in the raid was tossing Saronite Bombs as part of a normal damage rotation. Those bombs had a bug. Their explosions were rebuilding the broken platform, which made the fight far easier than Blizzard intended. Blizzard disabled the bombs with a hotfix that same night. Then it suspended the accounts of everyone in that kill for seventy two hours and stripped the loot and the achievement. The ban notice said they used Saronite Bombs to bypass the fight mechanics. Ensidia insisted they had no idea the bombs were the cause, since their rogues had used them all expansion. Blizzard did not buy it. Within days, the guild Paragon got the official world first on a fixed version of the fight. Sixteen years later, people still argue about it. Were they cheaters or just unlucky? Follow for more gaming history."
+}
