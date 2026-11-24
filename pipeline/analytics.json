@@ -1,11 +1,44 @@
 {
- "generated": "2026-11-23T10:47:19+00:00",
+ "generated": "2026-11-24T10:21:17+00:00",
  "followers": {
-  "tiktok": 18,
-  "instagram": 17
+  "instagram": 17,
+  "tiktok": 18
  },
- "channel_median_tiktok_views": 294,
+ "channel_median_tiktok_views": 294.0,
  "series": {
+  "Kingdom Hearts": {
+   "posts": 4,
+   "median_views": 309,
+   "mean_views": 269,
+   "engagement_per_view": 0.0465,
+   "avg_watch_s": 10.9,
+   "follows": 0,
+   "ig_median_views": 139,
+   "yt_posts": 1,
+   "yt_median_views": 1
+  },
+  "Other": {
+   "posts": 14,
+   "median_views": 115,
+   "mean_views": 125,
+   "engagement_per_view": 0.0276,
+   "avg_watch_s": 7.9,
+   "follows": 2,
+   "ig_median_views": 247,
+   "yt_posts": 13,
+   "yt_median_views": 1
+  },
+  "WoW": {
+   "posts": 14,
+   "median_views": 345,
+   "mean_views": 708,
+   "engagement_per_view": 0.0552,
+   "avg_watch_s": 15.4,
+   "follows": 10,
+   "ig_median_views": 1185,
+   "yt_posts": 10,
+   "yt_median_views": 1
+  },
   "Fire Emblem": {
    "posts": 3,
    "median_views": 404,
@@ -15,28 +48,6 @@
    "follows": 0,
    "ig_median_views": 997,
    "yt_posts": 4,
-   "yt_median_views": 1
-  },
-  "Other": {
-   "posts": 13,
-   "median_views": 123,
-   "mean_views": 127,
-   "engagement_per_view": 0.0297,
-   "avg_watch_s": 8.2,
-   "follows": 2,
-   "ig_median_views": 282,
-   "yt_posts": 13,
-   "yt_median_views": 1
-  },
-  "WoW": {
-   "posts": 14,
-   "median_views": 345,
-   "mean_views": 707,
-   "engagement_per_view": 0.0552,
-   "avg_watch_s": 15.5,
-   "follows": 10,
-   "ig_median_views": 1186,
-   "yt_posts": 10,
    "yt_median_views": 1
   },
   "OSRS": {
@@ -57,7 +68,7 @@
    "engagement_per_view": 0.0489,
    "avg_watch_s": 10.5,
    "follows": 2,
-   "ig_median_views": 1207,
+   "ig_median_views": 1208,
    "yt_posts": 5,
    "yt_median_views": 1
   },
@@ -79,19 +90,8 @@
    "engagement_per_view": 0.0533,
    "avg_watch_s": 12.4,
    "follows": 1,
-   "ig_median_views": 1153,
+   "ig_median_views": 1155,
    "yt_posts": 6,
-   "yt_median_views": 1
-  },
-  "Kingdom Hearts": {
-   "posts": 4,
-   "median_views": 309,
-   "mean_views": 269,
-   "engagement_per_view": 0.0465,
-   "avg_watch_s": 10.9,
-   "follows": 0,
-   "ig_median_views": 133,
-   "yt_posts": 1,
    "yt_median_views": 1
   }
  },
@@ -115,26 +115,106 @@
  },
  "lessons": [
   "Series ranked by weight: WoW 16%, Fire Emblem 16%, Resident Evil 16%, OSRS 14%, Final Fantasy 14%, Zelda 13%, Kingdom Hearts 11%",
-  "Top hooks: 4130v In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f | 1038v Nearly 450,000 people voted to bring a 2007 backup back online. Now it's bigger than the m | 993v A cartoon about grinding boars won a Primetime Emmy. Blizzard helped make it. What's your ",
-  "Weakest hooks: 31v  | 22v  | 22v In 2016 Blizzard shut down Nostalrius, a fan-run vanilla WoW server with over 800,000 acco",
+  "Top hooks: 4132v In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f | 1038v Nearly 450,000 people voted to bring a 2007 backup back online. Now it's bigger than the m | 993v A cartoon about grinding boars won a Primetime Emmy. Blizzard helped make it. What's your ",
+  "Weakest hooks: 31v  | 23v  | 22v In 2016 Blizzard shut down Nostalrius, a fan-run vanilla WoW server with over 800,000 acco",
   "Best completion: 9% Nearly 450,000 people voted to bring a 2007 backup | 7% He never beat the raid but Blizzard made him an ac | 8% In October 2008 Blizzard turned Stormwind into a z"
  ],
  "posts": [
   {
-   "post_id": "6b039af602ccab19ac994a54",
+   "post_id": "6b04e05cec898ef3ea103a4f",
    "platform": "instagram",
-   "series": "Fire Emblem",
+   "series": "Kingdom Hearts",
+   "published": "2026-11-24",
+   "hook": "Eight-time Grammy winner Skrillex co-wrote Face My Fears, the Kingdom Hearts III opening s",
+   "views": 146,
+   "likes": 2,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 8859,
+   "engagement_rate": 1.37
+  },
+  {
+   "post_id": "6b04ac1238395b8f9bf1cb7c",
+   "platform": "instagram",
+   "series": "Other",
    "published": "2026-11-23",
-   "hook": "Fire Emblem: Three Houses beat Total War: Three Kingdoms for Best Strategy Game at The Gam",
-   "views": 178,
+   "hook": "In June 2011 Nintendo of America said it had no plans to release Xenoblade Chronicles in t",
+   "views": 135,
    "likes": 0,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 6854,
+   "avg_watch_ms": 9088,
    "engagement_rate": 0
+  },
+  {
+   "post_id": "6b04aeae8facfd020b72db73",
+   "platform": "tiktok",
+   "series": "Other",
+   "published": "2026-11-23",
+   "hook": "Last card in a Delta Reign pack and it's Meowscarada ex. What's your best pull from this s",
+   "views": 107,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0.0084,
+   "avg_watch_ms": 3640,
+   "engagement_rate": 0
+  },
+  {
+   "post_id": "6b04ac1238395b8f9bf1cb7b",
+   "platform": "instagram",
+   "series": "Other",
+   "published": "2026-11-23",
+   "hook": "Last card in a Delta Reign pack and it's Meowscarada ex. What's your best pull from this s",
+   "views": 112,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 7236,
+   "engagement_rate": 0
+  },
+  {
+   "post_id": "6b047614f6014d969bfc2831",
+   "platform": "instagram",
+   "series": "WoW",
+   "published": "2026-11-23",
+   "hook": "World of Warcraft went live on November 23, 2004 with no battlegrounds and no honor points",
+   "views": 1155,
+   "likes": 15,
+   "comments": 0,
+   "shares": 3,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 18410,
+   "engagement_rate": 1.56
+  },
+  {
+   "post_id": "6b039af602ccab19ac994a54",
+   "platform": "instagram",
+   "series": "Fire Emblem",
+   "published": "2026-11-23",
+   "hook": "Fire Emblem: Three Houses beat Total War: Three Kingdoms for Best Strategy Game at The Gam",
+   "views": 204,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 6933,
+   "engagement_rate": 0.49
   },
   {
    "post_id": "6b03649afbfb97ec43e83a05",
@@ -142,14 +222,14 @@
    "series": "Other",
    "published": "2026-11-22",
    "hook": "Nintendo of America named Donkey Kong's hero after Mario Segale, the man who rented it a w",
-   "views": 231,
+   "views": 247,
    "likes": 0,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 10774,
+   "avg_watch_ms": 13245,
    "engagement_rate": 0
   },
   {
@@ -158,15 +238,15 @@
    "series": "WoW",
    "published": "2026-11-22",
    "hook": "In February 2010 the guild Ensidia killed the 25-man Lich King on the day the fight went l",
-   "views": 1874,
+   "views": 1914,
    "likes": 14,
    "comments": 2,
    "shares": 4,
    "saves": 1,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 36474,
-   "engagement_rate": 1.12
+   "avg_watch_ms": 36496,
+   "engagement_rate": 1.1
   },
   {
    "post_id": "6b0238950d1793d4d124272a",
@@ -174,14 +254,14 @@
    "series": "OSRS",
    "published": "2026-11-22",
    "hook": "A version of RuneScape frozen in 2007 beat Fortnite and Pokemon Go to win the first BAFTA ",
-   "views": 1128,
+   "views": 1130,
    "likes": 1,
    "comments": 0,
    "shares": 0,
    "saves": 1,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 11264,
+   "avg_watch_ms": 11267,
    "engagement_rate": 0.18
   },
   {
@@ -254,15 +334,15 @@
    "series": "WoW",
    "published": "2026-11-20",
    "hook": "Ion Hazzikostas spent several years as a practicing attorney, then quit in 2008 to design ",
-   "views": 1176,
+   "views": 1178,
    "likes": 12,
    "comments": 0,
    "shares": 10,
    "saves": 3,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 16170,
-   "engagement_rate": 2.13
+   "avg_watch_ms": 16159,
+   "engagement_rate": 2.12
   },
   {
    "post_id": "6aff8ff7dc646a157ba53394",
@@ -430,14 +510,14 @@
    "series": "Zelda",
    "published": "2026-11-16",
    "hook": "In 1997 Miyamoto said Ocarina of Time could get an expansion disk on the 64DD. The add-on ",
-   "views": 1197,
+   "views": 1198,
    "likes": 10,
    "comments": 1,
    "shares": 0,
    "saves": 3,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 18012,
+   "avg_watch_ms": 17996,
    "engagement_rate": 1.17
   },
   {
@@ -702,7 +782,7 @@
    "series": "Other",
    "published": "2026-11-11",
    "hook": "",
-   "views": 22,
+   "views": 23,
    "likes": 0,
    "comments": 0,
    "shares": 0,
@@ -942,14 +1022,14 @@
    "series": "Other",
    "published": "2026-11-06",
    "hook": "In 2008 Gearbox was about 75 percent done with Borderlands when testers said it looked lik",
-   "views": 1363,
+   "views": 1364,
    "likes": 7,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 18703,
+   "avg_watch_ms": 18743,
    "engagement_rate": 0.51
   },
   {
@@ -1198,14 +1278,14 @@
    "series": "WoW",
    "published": "2026-11-01",
    "hook": "At BlizzCon in August 2007 Blizzard announced Wrath of the Lich King with the words \"new d",
-   "views": 327,
+   "views": 328,
    "likes": 11,
    "comments": 0,
    "shares": 0,
    "saves": 1,
    "follows": 0,
-   "completion": 0.035,
-   "avg_watch_ms": 14360,
+   "completion": 0.0348,
+   "avg_watch_ms": 14280,
    "engagement_rate": 4.24
   },
   {
@@ -1358,14 +1438,14 @@
    "series": "Final Fantasy",
    "published": "2026-10-30",
    "hook": "Final Fantasy XV was announced in May 2006 as Versus XIII and did not ship until November ",
-   "views": 1098,
+   "views": 1101,
    "likes": 5,
    "comments": 0,
    "shares": 0,
    "saves": 2,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 10589,
+   "avg_watch_ms": 10585,
    "engagement_rate": 0.64
   },
   {
@@ -1406,14 +1486,14 @@
    "series": "WoW",
    "published": "2026-10-30",
    "hook": "In October 2008 Blizzard turned Stormwind into a zombie outbreak on purpose, then pulled t",
-   "views": 974,
+   "views": 980,
    "likes": 13,
    "comments": 0,
    "shares": 2,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0805,
-   "avg_watch_ms": 23690,
+   "completion": 0.081,
+   "avg_watch_ms": 23710,
    "engagement_rate": 1.64
   },
   {
@@ -1620,9 +1700,9 @@
    "shares": 0,
    "saves": 1,
    "follows": 0,
-   "completion": 0.0736,
-   "avg_watch_ms": 19080,
-   "engagement_rate": 5.62
+   "completion": 0.0734,
+   "avg_watch_ms": 19090,
+   "engagement_rate": 5.6
   },
   {
    "post_id": "6ae25181894ff6512f1c0f2e",
@@ -1950,7 +2030,7 @@
    "series": "Fire Emblem",
    "published": "2026-10-24",
    "hook": "The original Fire Emblem launched on the Famicom in April 1990 and did not get an official",
-   "views": 333,
+   "views": 334,
    "likes": 8,
    "comments": 0,
    "shares": 0,
@@ -2116,8 +2196,8 @@
    "shares": 1,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0539,
-   "avg_watch_ms": 16340,
+   "completion": 0.0537,
+   "avg_watch_ms": 16290,
    "engagement_rate": 1.87
   },
   {
@@ -2142,14 +2222,14 @@
    "series": "WoW",
    "published": "2026-10-22",
    "hook": "In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f",
-   "views": 4130,
+   "views": 4132,
    "likes": 87,
    "comments": 6,
    "shares": 22,
    "saves": 7,
    "follows": 0,
-   "completion": 0.0651,
-   "avg_watch_ms": 27640,
+   "completion": 0.0653,
+   "avg_watch_ms": 27650,
    "engagement_rate": 3.17
   },
   {
@@ -2244,9 +2324,9 @@
    "shares": 0,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0465,
-   "avg_watch_ms": 16980,
-   "engagement_rate": 3.03
+   "completion": 0.0455,
+   "avg_watch_ms": 16610,
+   "engagement_rate": 2.94
   },
   {
    "post_id": "6ad97a374d406f12a36de45f",
@@ -2382,15 +2462,15 @@
    "series": "WoW",
    "published": "2026-10-20",
    "hook": "Blizzard announced the pandaren as an April Fools prank in 2002. Ten years later the panda",
-   "views": 319,
+   "views": 320,
    "likes": 10,
    "comments": 1,
    "shares": 0,
    "saves": 1,
    "follows": 0,
-   "completion": 0.0183,
-   "avg_watch_ms": 11830,
-   "engagement_rate": 4.18
+   "completion": 0.0182,
+   "avg_watch_ms": 11790,
+   "engagement_rate": 4.17
   },
   {
    "post_id": "6ad7df3d554c3ac405ea55fc",
@@ -2837,7 +2917,7 @@
    "saves": 4,
    "follows": 3,
    "completion": 0.0726,
-   "avg_watch_ms": 11090,
+   "avg_watch_ms": 11080,
    "engagement_rate": 6.61
   },
   {
