@@ -1,44 +1,11 @@
 {
- "generated": "2026-11-24T10:21:17+00:00",
+ "generated": "2026-11-25T10:19:43+00:00",
  "followers": {
   "instagram": 17,
-  "tiktok": 18
+  "tiktok": 19
  },
- "channel_median_tiktok_views": 294.0,
+ "channel_median_tiktok_views": 294,
  "series": {
-  "Kingdom Hearts": {
-   "posts": 4,
-   "median_views": 309,
-   "mean_views": 269,
-   "engagement_per_view": 0.0465,
-   "avg_watch_s": 10.9,
-   "follows": 0,
-   "ig_median_views": 139,
-   "yt_posts": 1,
-   "yt_median_views": 1
-  },
-  "Other": {
-   "posts": 14,
-   "median_views": 115,
-   "mean_views": 125,
-   "engagement_per_view": 0.0276,
-   "avg_watch_s": 7.9,
-   "follows": 2,
-   "ig_median_views": 247,
-   "yt_posts": 13,
-   "yt_median_views": 1
-  },
-  "WoW": {
-   "posts": 14,
-   "median_views": 345,
-   "mean_views": 708,
-   "engagement_per_view": 0.0552,
-   "avg_watch_s": 15.4,
-   "follows": 10,
-   "ig_median_views": 1185,
-   "yt_posts": 10,
-   "yt_median_views": 1
-  },
   "Fire Emblem": {
    "posts": 3,
    "median_views": 404,
@@ -46,8 +13,41 @@
    "engagement_per_view": 0.0409,
    "avg_watch_s": 10.9,
    "follows": 0,
-   "ig_median_views": 997,
+   "ig_median_views": 838,
    "yt_posts": 4,
+   "yt_median_views": 1
+  },
+  "Other": {
+   "posts": 15,
+   "median_views": 118,
+   "mean_views": 123,
+   "engagement_per_view": 0.0556,
+   "avg_watch_s": 7.9,
+   "follows": 3,
+   "ig_median_views": 247,
+   "yt_posts": 13,
+   "yt_median_views": 1
+  },
+  "WoW": {
+   "posts": 14,
+   "median_views": 346,
+   "mean_views": 709,
+   "engagement_per_view": 0.0552,
+   "avg_watch_s": 15.5,
+   "follows": 10,
+   "ig_median_views": 1186,
+   "yt_posts": 10,
+   "yt_median_views": 1
+  },
+  "Kingdom Hearts": {
+   "posts": 4,
+   "median_views": 309,
+   "mean_views": 269,
+   "engagement_per_view": 0.0465,
+   "avg_watch_s": 10.9,
+   "follows": 0,
+   "ig_median_views": 152,
+   "yt_posts": 1,
    "yt_median_views": 1
   },
   "OSRS": {
@@ -96,7 +96,7 @@
   }
  },
  "weights": {
-  "WoW": 2.92,
+  "WoW": 2.93,
   "OSRS": 2.57,
   "Final Fantasy": 2.48,
   "Kingdom Hearts": 1.93,
@@ -121,20 +121,100 @@
  ],
  "posts": [
   {
-   "post_id": "6b04e05cec898ef3ea103a4f",
+   "post_id": "6b063d23a8d1c9d46cc8973e",
    "platform": "instagram",
-   "series": "Kingdom Hearts",
-   "published": "2026-11-24",
-   "hook": "Eight-time Grammy winner Skrillex co-wrote Face My Fears, the Kingdom Hearts III opening s",
-   "views": 146,
-   "likes": 2,
+   "series": "Fire Emblem",
+   "published": "2026-11-25",
+   "hook": "In 2014 Masahiro Sakurai wrote that Chrom would be just another sword fighter like Marth a",
+   "views": 122,
+   "likes": 0,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 8859,
-   "engagement_rate": 1.37
+   "avg_watch_ms": 6200,
+   "engagement_rate": 0
+  },
+  {
+   "post_id": "6b060c4a4bdac1aa52e1ad6b",
+   "platform": "instagram",
+   "series": "Other",
+   "published": "2026-11-24",
+   "hook": "Toby Fox asked Kickstarter for $5,000 in 2013 and 2,398 backers gave him $51,124; that gam",
+   "views": 119,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 7774,
+   "engagement_rate": 0
+  },
+  {
+   "post_id": "6b05fef47eaf1c982510c574",
+   "platform": "tiktok",
+   "series": "Other",
+   "published": "2026-11-24",
+   "hook": "#pokemon #pokemoncards #deltareign #tcg",
+   "views": 77,
+   "likes": 3,
+   "comments": 1,
+   "shares": 6,
+   "saves": 0,
+   "follows": 1,
+   "completion": 0.0241,
+   "avg_watch_ms": 7110,
+   "engagement_rate": 12.99
+  },
+  {
+   "post_id": "6b05d9374079a3f5eef412fb",
+   "platform": "instagram",
+   "series": "Other",
+   "published": "2026-11-24",
+   "hook": "Full art Eevee out of a Delta Reign pack. Keep it raw or send it for grading?",
+   "views": 111,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 3819,
+   "engagement_rate": 0
+  },
+  {
+   "post_id": "6b05d9374079a3f5eef412fa",
+   "platform": "instagram",
+   "series": "WoW",
+   "published": "2026-11-24",
+   "hook": "On May 11, 2005 a guild called Pals for Life uploaded a WoW raid clip where Leeroy Jenkins",
+   "views": 1288,
+   "likes": 18,
+   "comments": 0,
+   "shares": 4,
+   "saves": 4,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 28977,
+   "engagement_rate": 2.02
+  },
+  {
+   "post_id": "6b04e05cec898ef3ea103a4f",
+   "platform": "instagram",
+   "series": "Kingdom Hearts",
+   "published": "2026-11-24",
+   "hook": "Eight-time Grammy winner Skrillex co-wrote Face My Fears, the Kingdom Hearts III opening s",
+   "views": 171,
+   "likes": 2,
+   "comments": 0,
+   "shares": 0,
+   "saves": 1,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 9243,
+   "engagement_rate": 1.75
   },
   {
    "post_id": "6b04ac1238395b8f9bf1cb7c",
@@ -142,14 +222,14 @@
    "series": "Other",
    "published": "2026-11-23",
    "hook": "In June 2011 Nintendo of America said it had no plans to release Xenoblade Chronicles in t",
-   "views": 135,
+   "views": 144,
    "likes": 0,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 9088,
+   "avg_watch_ms": 8690,
    "engagement_rate": 0
   },
   {
@@ -158,15 +238,15 @@
    "series": "Other",
    "published": "2026-11-23",
    "hook": "Last card in a Delta Reign pack and it's Meowscarada ex. What's your best pull from this s",
-   "views": 107,
-   "likes": 0,
+   "views": 118,
+   "likes": 1,
    "comments": 0,
-   "shares": 0,
+   "shares": 3,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0084,
-   "avg_watch_ms": 3640,
-   "engagement_rate": 0
+   "completion": 0.0076,
+   "avg_watch_ms": 4660,
+   "engagement_rate": 4.4
   },
   {
    "post_id": "6b04ac1238395b8f9bf1cb7b",
@@ -181,7 +261,7 @@
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 7236,
+   "avg_watch_ms": 7224,
    "engagement_rate": 0
   },
   {
@@ -190,14 +270,14 @@
    "series": "WoW",
    "published": "2026-11-23",
    "hook": "World of Warcraft went live on November 23, 2004 with no battlegrounds and no honor points",
-   "views": 1155,
+   "views": 1156,
    "likes": 15,
    "comments": 0,
    "shares": 3,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 18410,
+   "avg_watch_ms": 18396,
    "engagement_rate": 1.56
   },
   {
@@ -238,15 +318,15 @@
    "series": "WoW",
    "published": "2026-11-22",
    "hook": "In February 2010 the guild Ensidia killed the 25-man Lich King on the day the fight went l",
-   "views": 1914,
+   "views": 1921,
    "likes": 14,
    "comments": 2,
    "shares": 4,
    "saves": 1,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 36496,
-   "engagement_rate": 1.1
+   "avg_watch_ms": 36561,
+   "engagement_rate": 1.09
   },
   {
    "post_id": "6b0238950d1793d4d124272a",
@@ -366,14 +446,14 @@
    "series": "Other",
    "published": "2026-11-19",
    "hook": "In December 1993 Mortal Kombat and Night Trap were hauled in front of the US Senate, and n",
-   "views": 1079,
+   "views": 1080,
    "likes": 5,
    "comments": 0,
    "shares": 0,
    "saves": 1,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 9703,
+   "avg_watch_ms": 9697,
    "engagement_rate": 0.56
   },
   {
@@ -526,14 +606,14 @@
    "series": "WoW",
    "published": "2026-11-16",
    "hook": "A WoW bot called Glider sold about 120,000 copies at up to $25 each, then a federal judge ",
-   "views": 1683,
+   "views": 1685,
    "likes": 13,
    "comments": 0,
    "shares": 1,
    "saves": 2,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 40301,
+   "avg_watch_ms": 40305,
    "engagement_rate": 0.95
   },
   {
@@ -638,14 +718,14 @@
    "series": "Final Fantasy",
    "published": "2026-11-14",
    "hook": "In 1999, Faye Wong's Eyes on Me from Final Fantasy VIII sold over 400,000 copies and won S",
-   "views": 1360,
+   "views": 1361,
    "likes": 17,
    "comments": 1,
    "shares": 3,
    "saves": 7,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 9901,
+   "avg_watch_ms": 9898,
    "engagement_rate": 2.06
   },
   {
@@ -1284,9 +1364,9 @@
    "shares": 0,
    "saves": 1,
    "follows": 0,
-   "completion": 0.0348,
-   "avg_watch_ms": 14280,
-   "engagement_rate": 4.24
+   "completion": 0.0347,
+   "avg_watch_ms": 14260,
+   "engagement_rate": 4.23
   },
   {
    "post_id": "6ae7b135779e852a76a7f68e",
@@ -1396,9 +1476,9 @@
    "shares": 0,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0333,
-   "avg_watch_ms": 9310,
-   "engagement_rate": 1.96
+   "completion": 0.0331,
+   "avg_watch_ms": 9230,
+   "engagement_rate": 1.94
   },
   {
    "post_id": "6ae607606bea4ee1dd494987",
@@ -1486,13 +1566,13 @@
    "series": "WoW",
    "published": "2026-10-30",
    "hook": "In October 2008 Blizzard turned Stormwind into a zombie outbreak on purpose, then pulled t",
-   "views": 980,
+   "views": 986,
    "likes": 13,
    "comments": 0,
    "shares": 2,
    "saves": 0,
    "follows": 0,
-   "completion": 0.081,
+   "completion": 0.0816,
    "avg_watch_ms": 23710,
    "engagement_rate": 1.64
   },
@@ -1908,9 +1988,9 @@
    "shares": 0,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0298,
-   "avg_watch_ms": 12720,
-   "engagement_rate": 3.29
+   "completion": 0.0355,
+   "avg_watch_ms": 13110,
+   "engagement_rate": 3.27
   },
   {
    "post_id": "6adf85789c8ec7ef3b97d529",
@@ -2037,8 +2117,8 @@
    "saves": 1,
    "follows": 0,
    "completion": 0.0117,
-   "avg_watch_ms": 7820,
-   "engagement_rate": 3.01
+   "avg_watch_ms": 7800,
+   "engagement_rate": 3
   },
   {
    "post_id": "6add46379fe4f7b81da38a83",
@@ -2094,7 +2174,7 @@
    "series": "WoW",
    "published": "2026-10-24",
    "hook": "In 2007 Mr. T told TV audiences he played a Night Elf Mohawk, a class that did not exist. ",
-   "views": 363,
+   "views": 364,
    "likes": 13,
    "comments": 1,
    "shares": 0,
@@ -2238,14 +2318,14 @@
    "series": "WoW",
    "published": "2026-10-22",
    "hook": "In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f",
-   "views": 4522,
+   "views": 4523,
    "likes": 56,
    "comments": 1,
    "shares": 39,
    "saves": 9,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 32059,
+   "avg_watch_ms": 32057,
    "engagement_rate": 2.32
   },
   {
@@ -2894,14 +2974,14 @@
    "series": "OSRS",
    "published": "2026-09-06",
    "hook": "June 6, 2006. One party, one bug, and Falador turned into a warzone. Were you online for i",
-   "views": 844,
+   "views": 846,
    "likes": 28,
    "comments": 1,
    "shares": 2,
    "saves": 3,
    "follows": 0,
-   "completion": 0.0624,
-   "avg_watch_ms": 10760,
+   "completion": 0.0623,
+   "avg_watch_ms": 10750,
    "engagement_rate": 4.7
   },
   {
