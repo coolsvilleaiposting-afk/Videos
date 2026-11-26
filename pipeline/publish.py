@@ -25,19 +25,20 @@ def caption(job):
 
 def zernio(method, path, body=None):
     key = os.environ["ZERNIO_API_KEY"]
-    args = ["curl", "-sS", "-m", "90", "--retry", "3", "--retry-all-errors", "-X", method, ZBASE + path,
+    args = ["curl", "-sS", "-m", "90", "--retry", "3", "-X", method, ZBASE + path,
             "-H", f"Authorization: Bearer {key}", "-H", "Content-Type: application/json"]
     if body is not None:
         args += ["--data", json.dumps(body)]
     # Zernio's edge (Vercel) sometimes answers a plain-text "Forbidden" 403 before the request
     # reaches the API (seen 2026-11-18); nothing was created, so it is safe to try again.
-    for attempt in range(5):
+    # The same edge also serves an HTML "Vercel Security Checkpoint" page now and then (seen 2026-11-26).
+    for attempt in range(8):
         out = subprocess.run(args, capture_output=True, text=True).stdout
         try:
             return json.loads(out)
         except json.JSONDecodeError:
-            if attempt < 4 and out.lstrip().startswith("Forbidden"):
-                time.sleep(4 * (attempt + 1)); continue
+            if attempt < 7 and (out.lstrip().startswith("Forbidden") or out.lstrip().startswith("<!DOCTYPE")):
+                time.sleep(20 * (attempt + 1)); continue
             raise SystemExit(f"Zernio bad response {path}: {out[:400]}")
 
 def zernio_accounts():
