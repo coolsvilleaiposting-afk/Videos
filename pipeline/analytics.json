@@ -1,11 +1,44 @@
 {
- "generated": "2026-11-26T10:36:12+00:00",
+ "generated": "2026-11-27T10:21:23+00:00",
  "followers": {
   "tiktok": 19,
-  "instagram": 17
+  "instagram": 18
  },
- "channel_median_tiktok_views": 290.0,
+ "channel_median_tiktok_views": 283.0,
  "series": {
+  "Fire Emblem": {
+   "posts": 4,
+   "median_views": 369,
+   "mean_views": 408,
+   "engagement_per_view": 0.0335,
+   "avg_watch_s": 11.6,
+   "follows": 0,
+   "ig_median_views": 707,
+   "yt_posts": 4,
+   "yt_median_views": 1
+  },
+  "Other": {
+   "posts": 16,
+   "median_views": 104,
+   "mean_views": 120,
+   "engagement_per_view": 0.0733,
+   "avg_watch_s": 7.7,
+   "follows": 3,
+   "ig_median_views": 247,
+   "yt_posts": 11,
+   "yt_median_views": 1
+  },
+  "WoW": {
+   "posts": 15,
+   "median_views": 329,
+   "mean_views": 671,
+   "engagement_per_view": 0.0525,
+   "avg_watch_s": 15.8,
+   "follows": 10,
+   "ig_median_views": 1185,
+   "yt_posts": 11,
+   "yt_median_views": 2
+  },
   "Final Fantasy": {
    "posts": 8,
    "median_views": 322,
@@ -13,41 +46,8 @@
    "engagement_per_view": 0.0533,
    "avg_watch_s": 12.4,
    "follows": 1,
-   "ig_median_views": 1101,
+   "ig_median_views": 1209,
    "yt_posts": 7,
-   "yt_median_views": 1
-  },
-  "Other": {
-   "posts": 16,
-   "median_views": 104,
-   "mean_views": 118,
-   "engagement_per_view": 0.0805,
-   "avg_watch_s": 7.7,
-   "follows": 3,
-   "ig_median_views": 219,
-   "yt_posts": 11,
-   "yt_median_views": 1
-  },
-  "WoW": {
-   "posts": 14,
-   "median_views": 346,
-   "mean_views": 709,
-   "engagement_per_view": 0.0551,
-   "avg_watch_s": 15.5,
-   "follows": 10,
-   "ig_median_views": 1185,
-   "yt_posts": 11,
-   "yt_median_views": 2
-  },
-  "Fire Emblem": {
-   "posts": 3,
-   "median_views": 404,
-   "mean_views": 515,
-   "engagement_per_view": 0.0409,
-   "avg_watch_s": 10.9,
-   "follows": 0,
-   "ig_median_views": 838,
-   "yt_posts": 4,
    "yt_median_views": 1
   },
   "Kingdom Hearts": {
@@ -64,8 +64,8 @@
   "OSRS": {
    "posts": 6,
    "median_views": 311,
-   "mean_views": 509,
-   "engagement_per_view": 0.0455,
+   "mean_views": 510,
+   "engagement_per_view": 0.0454,
    "avg_watch_s": 15.8,
    "follows": 3,
    "ig_median_views": 1228,
@@ -96,45 +96,125 @@
   }
  },
  "weights": {
-  "WoW": 2.97,
-  "OSRS": 2.61,
-  "Final Fantasy": 2.51,
-  "Kingdom Hearts": 2.26,
-  "Zelda": 2.43,
-  "Fire Emblem": 2.88,
-  "Resident Evil": 2.86
+  "WoW": 2.9,
+  "OSRS": 2.67,
+  "Final Fantasy": 2.57,
+  "Kingdom Hearts": 2.31,
+  "Zelda": 2.49,
+  "Fire Emblem": 2.69,
+  "Resident Evil": 2.93
  },
  "share": {
-  "WoW": 0.16,
-  "OSRS": 0.141,
-  "Final Fantasy": 0.136,
-  "Kingdom Hearts": 0.122,
-  "Zelda": 0.131,
-  "Fire Emblem": 0.156,
-  "Resident Evil": 0.154
+  "WoW": 0.156,
+  "OSRS": 0.144,
+  "Final Fantasy": 0.138,
+  "Kingdom Hearts": 0.124,
+  "Zelda": 0.134,
+  "Fire Emblem": 0.145,
+  "Resident Evil": 0.158
  },
  "lessons": [
-  "Series ranked by weight: WoW 16%, Fire Emblem 16%, Resident Evil 15%, OSRS 14%, Final Fantasy 14%, Zelda 13%, Kingdom Hearts 12%",
+  "Series ranked by weight: Resident Evil 16%, WoW 16%, Fire Emblem 14%, OSRS 14%, Final Fantasy 14%, Zelda 13%, Kingdom Hearts 12%",
   "Top hooks: 4137v In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f | 1038v Nearly 450,000 people voted to bring a 2007 backup back online. Now it's bigger than the m | 993v A cartoon about grinding boars won a Primetime Emmy. Blizzard helped make it. What's your ",
   "Weakest hooks: 31v  | 23v  | 22v In 2016 Blizzard shut down Nostalrius, a fan-run vanilla WoW server with over 800,000 acco",
-  "Best completion: 9% Nearly 450,000 people voted to bring a 2007 backup | 7% He never beat the raid but Blizzard made him an ac | 8% In October 2008 Blizzard turned Stormwind into a z"
+  "Best completion: 9% Nearly 450,000 people voted to bring a 2007 backup | 8% In October 2008 Blizzard turned Stormwind into a z | 7% He never beat the raid but Blizzard made him an ac"
  ],
  "posts": [
+  {
+   "post_id": "6b091e2d82d49d15a12c0bc9",
+   "platform": "tiktok",
+   "series": "Fire Emblem",
+   "published": "2026-11-27",
+   "hook": "#fireemblem ",
+   "views": 88,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 13660,
+   "engagement_rate": 1.14
+  },
+  {
+   "post_id": "6b08e3b0b15f2d37f51aaf2f",
+   "platform": "instagram",
+   "series": "Fire Emblem",
+   "published": "2026-11-27",
+   "hook": "In January 2017 Lyn, from the 2003 Game Boy Advance Fire Emblem, beat every newer hero wit",
+   "views": 577,
+   "likes": 6,
+   "comments": 0,
+   "shares": 2,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 15854,
+   "engagement_rate": 1.39
+  },
+  {
+   "post_id": "6b08ac2f2885ddaac750c0d2",
+   "platform": "instagram",
+   "series": "Other",
+   "published": "2026-11-26",
+   "hook": "On April 27, 2006 Nintendo dropped the name Revolution and announced the Wii, and the inte",
+   "views": 1190,
+   "likes": 6,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 11342,
+   "engagement_rate": 0.5
+  },
+  {
+   "post_id": "6b0877bf6a2b2c3a5df97fa7",
+   "platform": "tiktok",
+   "series": "WoW",
+   "published": "2026-11-26",
+   "hook": "#worldofwarcraft ",
+   "views": 128,
+   "likes": 2,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0.078,
+   "avg_watch_ms": 21070,
+   "engagement_rate": 1.56
+  },
+  {
+   "post_id": "6b0874fabdb951d0e3a9467a",
+   "platform": "instagram",
+   "series": "WoW",
+   "published": "2026-11-26",
+   "hook": "In November 2014 Warlords of Draenor pushed World of Warcraft from 7.4 million subscribers",
+   "views": 1149,
+   "likes": 5,
+   "comments": 1,
+   "shares": 0,
+   "saves": 1,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 22825,
+   "engagement_rate": 0.61
+  },
   {
    "post_id": "6b078215cbb95ffdd02f5823",
    "platform": "instagram",
    "series": "Final Fantasy",
    "published": "2026-11-26",
    "hook": "In December 2021 Square Enix pulled Final Fantasy XIV off the shelves for more than a mont",
-   "views": 270,
-   "likes": 3,
+   "views": 1251,
+   "likes": 29,
    "comments": 0,
-   "shares": 1,
-   "saves": 0,
+   "shares": 24,
+   "saves": 3,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 18476,
-   "engagement_rate": 1.48
+   "avg_watch_ms": 20064,
+   "engagement_rate": 4.48
   },
   {
    "post_id": "6b074feeb5feb9b3f87d7333",
@@ -142,14 +222,14 @@
    "series": "Other",
    "published": "2026-11-25",
    "hook": "Nioh was announced in 2004 with an Akira Kurosawa script and didn't ship until 2017, after",
-   "views": 219,
+   "views": 257,
    "likes": 0,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 10722,
+   "avg_watch_ms": 10806,
    "engagement_rate": 0
   },
   {
@@ -158,15 +238,15 @@
    "series": "Other",
    "published": "2026-11-25",
    "hook": "",
-   "views": 43,
-   "likes": 2,
+   "views": 60,
+   "likes": 3,
    "comments": 0,
    "shares": 6,
    "saves": 0,
    "follows": 0,
-   "completion": 0.02,
-   "avg_watch_ms": 4940,
-   "engagement_rate": 18.6
+   "completion": 0.0143,
+   "avg_watch_ms": 4030,
+   "engagement_rate": 37.5
   },
   {
    "post_id": "6b074feeb5feb9b3f87d7334",
@@ -246,7 +326,7 @@
    "follows": 1,
    "completion": 0.0215,
    "avg_watch_ms": 7510,
-   "engagement_rate": 14.86
+   "engagement_rate": 13.41
   },
   {
    "post_id": "6b05d9374079a3f5eef412fb",
@@ -270,15 +350,15 @@
    "series": "WoW",
    "published": "2026-11-24",
    "hook": "On May 11, 2005 a guild called Pals for Life uploaded a WoW raid clip where Leeroy Jenkins",
-   "views": 1296,
+   "views": 1298,
    "likes": 18,
    "comments": 0,
    "shares": 4,
    "saves": 4,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 28848,
-   "engagement_rate": 2.01
+   "avg_watch_ms": 28813,
+   "engagement_rate": 2
   },
   {
    "post_id": "6b04e05cec898ef3ea103a4f",
@@ -324,9 +404,9 @@
    "shares": 3,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0074,
-   "avg_watch_ms": 4540,
-   "engagement_rate": 4.63
+   "completion": 0.0073,
+   "avg_watch_ms": 4500,
+   "engagement_rate": 4.39
   },
   {
    "post_id": "6b04ac1238395b8f9bf1cb7b",
@@ -398,15 +478,15 @@
    "series": "WoW",
    "published": "2026-11-22",
    "hook": "In February 2010 the guild Ensidia killed the 25-man Lich King on the day the fight went l",
-   "views": 1921,
+   "views": 1922,
    "likes": 14,
-   "comments": 2,
+   "comments": 3,
    "shares": 4,
    "saves": 1,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 36561,
-   "engagement_rate": 1.09
+   "avg_watch_ms": 36563,
+   "engagement_rate": 1.14
   },
   {
    "post_id": "6b0238950d1793d4d124272a",
@@ -638,14 +718,14 @@
    "series": "WoW",
    "published": "2026-11-17",
    "hook": "Blizzard's last official World of Warcraft subscriber count was 5.5 million in November 20",
-   "views": 1275,
+   "views": 1276,
    "likes": 8,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 26587,
+   "avg_watch_ms": 26566,
    "engagement_rate": 0.63
   },
   {
@@ -686,14 +766,14 @@
    "series": "WoW",
    "published": "2026-11-16",
    "hook": "A WoW bot called Glider sold about 120,000 copies at up to $25 each, then a federal judge ",
-   "views": 1685,
+   "views": 1686,
    "likes": 13,
    "comments": 0,
    "shares": 1,
    "saves": 2,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 40305,
+   "avg_watch_ms": 40278,
    "engagement_rate": 0.95
   },
   {
@@ -725,7 +805,7 @@
    "saves": 3,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 24315,
+   "avg_watch_ms": 24300,
    "engagement_rate": 0.99
   },
   {
@@ -949,7 +1029,7 @@
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 3320,
+   "avg_watch_ms": 3170,
    "engagement_rate": 0
   },
   {
@@ -1444,9 +1524,9 @@
    "shares": 0,
    "saves": 1,
    "follows": 0,
-   "completion": 0.0347,
-   "avg_watch_ms": 14260,
-   "engagement_rate": 4.23
+   "completion": 0.0346,
+   "avg_watch_ms": 14220,
+   "engagement_rate": 4.21
   },
   {
    "post_id": "6ae7b135779e852a76a7f68e",
@@ -1492,9 +1572,9 @@
    "shares": 0,
    "saves": 0,
    "follows": 1,
-   "completion": 0.0463,
-   "avg_watch_ms": 15160,
-   "engagement_rate": 3.19
+   "completion": 0.0462,
+   "avg_watch_ms": 15120,
+   "engagement_rate": 3.18
   },
   {
    "post_id": "6ae687b60da2bf5c5a193e24",
@@ -1567,14 +1647,14 @@
    "published": "2026-10-31",
    "hook": "Link's Awakening, the first handheld Zelda, began in the early nineties as one Nintendo pr",
    "views": 1186,
-   "likes": 16,
+   "likes": 15,
    "comments": 0,
    "shares": 6,
    "saves": 4,
    "follows": 0,
    "completion": 0,
    "avg_watch_ms": 12083,
-   "engagement_rate": 2.19
+   "engagement_rate": 2.11
   },
   {
    "post_id": "6ae529ceea13dce523a98076",
@@ -1614,15 +1694,15 @@
    "series": "Other",
    "published": "2026-10-30",
    "hook": "The first Grand Theft Auto began as a cops and robbers game called Race 'n' Chase, and pub",
-   "views": 138,
+   "views": 141,
    "likes": 3,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
-   "completion": 0.044,
-   "avg_watch_ms": 6800,
-   "engagement_rate": 2.29
+   "completion": 0.0435,
+   "avg_watch_ms": 6740,
+   "engagement_rate": 2.27
   },
   {
    "post_id": "6ae50902604760eba927faaa",
@@ -1646,15 +1726,15 @@
    "series": "WoW",
    "published": "2026-10-30",
    "hook": "In October 2008 Blizzard turned Stormwind into a zombie outbreak on purpose, then pulled t",
-   "views": 989,
+   "views": 991,
    "likes": 13,
    "comments": 0,
    "shares": 2,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0811,
-   "avg_watch_ms": 23720,
-   "engagement_rate": 1.63
+   "completion": 0.0804,
+   "avg_watch_ms": 23900,
+   "engagement_rate": 1.62
   },
   {
    "post_id": "6ae4b4498b41d88745c9c16c",
@@ -2350,15 +2430,15 @@
    "series": "OSRS",
    "published": "2026-10-23",
    "hook": "The Duel Arena opened in 2004, got capped at 10 million coins a stake in November 2021, an",
-   "views": 296,
+   "views": 298,
    "likes": 3,
    "comments": 1,
    "shares": 1,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0537,
+   "completion": 0.0563,
    "avg_watch_ms": 16290,
-   "engagement_rate": 1.87
+   "engagement_rate": 1.84
   },
   {
    "post_id": "6adb7a7eb53551f7a5934525",
@@ -2389,7 +2469,7 @@
    "saves": 7,
    "follows": 0,
    "completion": 0.0653,
-   "avg_watch_ms": 27650,
+   "avg_watch_ms": 27640,
    "engagement_rate": 3.16
   },
   {
@@ -2606,7 +2686,7 @@
    "series": "Zelda",
    "published": "2026-10-20",
    "hook": "Breath of the Wild's first prototype looked like the 1986 NES Zelda. Nintendo built it jus",
-   "views": 455,
+   "views": 456,
    "likes": 15,
    "comments": 1,
    "shares": 0,
@@ -3070,7 +3150,7 @@
    "series": "WoW",
    "published": "2026-09-06",
    "hook": "He never beat the raid but Blizzard made him an achievement anyway. Do you still yell his ",
-   "views": 990,
+   "views": 991,
    "likes": 50,
    "comments": 3,
    "shares": 0,
