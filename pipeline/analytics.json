@@ -1,39 +1,61 @@
 {
- "generated": "2026-11-27T10:21:23+00:00",
+ "generated": "2026-11-28T10:13:58+00:00",
  "followers": {
-  "tiktok": 19,
+  "tiktok": 20,
   "instagram": 18
  },
  "channel_median_tiktok_views": 283.0,
  "series": {
-  "Fire Emblem": {
-   "posts": 4,
-   "median_views": 369,
-   "mean_views": 408,
-   "engagement_per_view": 0.0335,
-   "avg_watch_s": 11.6,
-   "follows": 0,
-   "ig_median_views": 707,
+  "Zelda": {
+   "posts": 6,
+   "median_views": 336,
+   "mean_views": 395,
+   "engagement_per_view": 0.0489,
+   "avg_watch_s": 10.5,
+   "follows": 2,
+   "ig_median_views": 1200,
    "yt_posts": 4,
-   "yt_median_views": 1
+   "yt_median_views": 2
   },
   "Other": {
    "posts": 16,
    "median_views": 104,
    "mean_views": 120,
-   "engagement_per_view": 0.0733,
+   "engagement_per_view": 0.0753,
    "avg_watch_s": 7.7,
    "follows": 3,
    "ig_median_views": 247,
    "yt_posts": 11,
    "yt_median_views": 1
   },
+  "Resident Evil": {
+   "posts": 3,
+   "median_views": 382,
+   "mean_views": 363,
+   "engagement_per_view": 0.071,
+   "avg_watch_s": 9.4,
+   "follows": 0,
+   "ig_median_views": 1187,
+   "yt_posts": 5,
+   "yt_median_views": 2
+  },
+  "Fire Emblem": {
+   "posts": 4,
+   "median_views": 369,
+   "mean_views": 419,
+   "engagement_per_view": 0.0326,
+   "avg_watch_s": 11.6,
+   "follows": 0,
+   "ig_median_views": 997,
+   "yt_posts": 4,
+   "yt_median_views": 1
+  },
   "WoW": {
    "posts": 15,
    "median_views": 329,
-   "mean_views": 671,
-   "engagement_per_view": 0.0525,
-   "avg_watch_s": 15.8,
+   "mean_views": 673,
+   "engagement_per_view": 0.0533,
+   "avg_watch_s": 16.0,
    "follows": 10,
    "ig_median_views": 1185,
    "yt_posts": 11,
@@ -43,7 +65,7 @@
    "posts": 8,
    "median_views": 322,
    "mean_views": 334,
-   "engagement_per_view": 0.0533,
+   "engagement_per_view": 0.0532,
    "avg_watch_s": 12.4,
    "follows": 1,
    "ig_median_views": 1209,
@@ -71,70 +93,96 @@
    "ig_median_views": 1228,
    "yt_posts": 5,
    "yt_median_views": 1
-  },
-  "Zelda": {
-   "posts": 6,
-   "median_views": 336,
-   "mean_views": 395,
-   "engagement_per_view": 0.0489,
-   "avg_watch_s": 10.5,
-   "follows": 2,
-   "ig_median_views": 1208,
-   "yt_posts": 4,
-   "yt_median_views": 2
-  },
-  "Resident Evil": {
-   "posts": 3,
-   "median_views": 382,
-   "mean_views": 363,
-   "engagement_per_view": 0.071,
-   "avg_watch_s": 9.4,
-   "follows": 0,
-   "ig_median_views": 1221,
-   "yt_posts": 5,
-   "yt_median_views": 2
   }
  },
  "weights": {
-  "WoW": 2.9,
+  "WoW": 2.92,
   "OSRS": 2.67,
   "Final Fantasy": 2.57,
   "Kingdom Hearts": 2.31,
   "Zelda": 2.49,
-  "Fire Emblem": 2.69,
+  "Fire Emblem": 2.68,
   "Resident Evil": 2.93
  },
  "share": {
-  "WoW": 0.156,
+  "WoW": 0.157,
   "OSRS": 0.144,
   "Final Fantasy": 0.138,
   "Kingdom Hearts": 0.124,
   "Zelda": 0.134,
-  "Fire Emblem": 0.145,
+  "Fire Emblem": 0.144,
   "Resident Evil": 0.158
  },
  "lessons": [
-  "Series ranked by weight: Resident Evil 16%, WoW 16%, Fire Emblem 14%, OSRS 14%, Final Fantasy 14%, Zelda 13%, Kingdom Hearts 12%",
-  "Top hooks: 4137v In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f | 1038v Nearly 450,000 people voted to bring a 2007 backup back online. Now it's bigger than the m | 993v A cartoon about grinding boars won a Primetime Emmy. Blizzard helped make it. What's your ",
-  "Weakest hooks: 31v  | 23v  | 22v In 2016 Blizzard shut down Nostalrius, a fan-run vanilla WoW server with over 800,000 acco",
+  "Series ranked by weight: Resident Evil 16%, WoW 16%, OSRS 14%, Fire Emblem 14%, Final Fantasy 14%, Zelda 13%, Kingdom Hearts 12%",
+  "Top hooks: 4137v In the 2004 beta WoW cut your XP to 50 percent after a couple of hours, and testers were f | 1038v Nearly 450,000 people voted to bring a 2007 backup back online. Now it's bigger than the m | 997v In October 2008 Blizzard turned Stormwind into a zombie outbreak on purpose, then pulled t",
+  "Weakest hooks: 32v  | 23v  | 22v In 2016 Blizzard shut down Nostalrius, a fan-run vanilla WoW server with over 800,000 acco",
   "Best completion: 9% Nearly 450,000 people voted to bring a 2007 backup | 8% In October 2008 Blizzard turned Stormwind into a z | 7% He never beat the raid but Blizzard made him an ac"
  ],
  "posts": [
+  {
+   "post_id": "6b0a35e4554471919a7b68eb",
+   "platform": "instagram",
+   "series": "Zelda",
+   "published": "2026-11-28",
+   "hook": "In March 2017 Breath of the Wild sold 925,000 copies on Switch in the US while the Switch ",
+   "views": 1095,
+   "likes": 14,
+   "comments": 0,
+   "shares": 0,
+   "saves": 3,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 13441,
+   "engagement_rate": 1.55
+  },
+  {
+   "post_id": "6b09fbde5d709fe8691982e8",
+   "platform": "instagram",
+   "series": "Other",
+   "published": "2026-11-27",
+   "hook": "In 2014 Team Cherry asked Kickstarter for 35,000 Australian dollars to make Hollow Knight,",
+   "views": 330,
+   "likes": 6,
+   "comments": 0,
+   "shares": 0,
+   "saves": 1,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 12366,
+   "engagement_rate": 2.12
+  },
+  {
+   "post_id": "6b09c2cae68fa3f4691a39b4",
+   "platform": "instagram",
+   "series": "Resident Evil",
+   "published": "2026-11-27",
+   "hook": "In 2000 Capcom showed Resident Evil Zero running on a Nintendo 64 cartridge, then the cart",
+   "views": 769,
+   "likes": 6,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "follows": 0,
+   "completion": 0,
+   "avg_watch_ms": 15324,
+   "engagement_rate": 0.78
+  },
   {
    "post_id": "6b091e2d82d49d15a12c0bc9",
    "platform": "tiktok",
    "series": "Fire Emblem",
    "published": "2026-11-27",
    "hook": "#fireemblem ",
-   "views": 88,
+   "views": 131,
    "likes": 1,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
-   "completion": 0,
-   "avg_watch_ms": 13660,
-   "engagement_rate": 1.14
+   "completion": 0.0072,
+   "avg_watch_ms": 13930,
+   "engagement_rate": 0.76
   },
   {
    "post_id": "6b08e3b0b15f2d37f51aaf2f",
@@ -142,15 +190,15 @@
    "series": "Fire Emblem",
    "published": "2026-11-27",
    "hook": "In January 2017 Lyn, from the 2003 Game Boy Advance Fire Emblem, beat every newer hero wit",
-   "views": 577,
-   "likes": 6,
+   "views": 1187,
+   "likes": 19,
    "comments": 0,
    "shares": 2,
-   "saves": 0,
+   "saves": 5,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 15854,
-   "engagement_rate": 1.39
+   "avg_watch_ms": 18780,
+   "engagement_rate": 2.19
   },
   {
    "post_id": "6b08ac2f2885ddaac750c0d2",
@@ -158,14 +206,14 @@
    "series": "Other",
    "published": "2026-11-26",
    "hook": "On April 27, 2006 Nintendo dropped the name Revolution and announced the Wii, and the inte",
-   "views": 1190,
+   "views": 1194,
    "likes": 6,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 11342,
+   "avg_watch_ms": 11322,
    "engagement_rate": 0.5
   },
   {
@@ -174,15 +222,15 @@
    "series": "WoW",
    "published": "2026-11-26",
    "hook": "#worldofwarcraft ",
-   "views": 128,
-   "likes": 2,
+   "views": 149,
+   "likes": 4,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
-   "completion": 0.078,
-   "avg_watch_ms": 21070,
-   "engagement_rate": 1.56
+   "completion": 0.0926,
+   "avg_watch_ms": 23320,
+   "engagement_rate": 3.81
   },
   {
    "post_id": "6b0874fabdb951d0e3a9467a",
@@ -206,15 +254,15 @@
    "series": "Final Fantasy",
    "published": "2026-11-26",
    "hook": "In December 2021 Square Enix pulled Final Fantasy XIV off the shelves for more than a mont",
-   "views": 1251,
+   "views": 1253,
    "likes": 29,
    "comments": 0,
    "shares": 24,
    "saves": 3,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 20064,
-   "engagement_rate": 4.48
+   "avg_watch_ms": 20050,
+   "engagement_rate": 4.47
   },
   {
    "post_id": "6b074feeb5feb9b3f87d7333",
@@ -246,7 +294,7 @@
    "follows": 0,
    "completion": 0.0143,
    "avg_watch_ms": 4030,
-   "engagement_rate": 37.5
+   "engagement_rate": 15
   },
   {
    "post_id": "6b074feeb5feb9b3f87d7334",
@@ -326,7 +374,7 @@
    "follows": 1,
    "completion": 0.0215,
    "avg_watch_ms": 7510,
-   "engagement_rate": 13.41
+   "engagement_rate": 13.1
   },
   {
    "post_id": "6b05d9374079a3f5eef412fb",
@@ -350,14 +398,14 @@
    "series": "WoW",
    "published": "2026-11-24",
    "hook": "On May 11, 2005 a guild called Pals for Life uploaded a WoW raid clip where Leeroy Jenkins",
-   "views": 1298,
+   "views": 1299,
    "likes": 18,
    "comments": 0,
    "shares": 4,
    "saves": 4,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 28813,
+   "avg_watch_ms": 28788,
    "engagement_rate": 2
   },
   {
@@ -404,8 +452,8 @@
    "shares": 3,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0073,
-   "avg_watch_ms": 4500,
+   "completion": 0.0072,
+   "avg_watch_ms": 4480,
    "engagement_rate": 4.39
   },
   {
@@ -478,14 +526,14 @@
    "series": "WoW",
    "published": "2026-11-22",
    "hook": "In February 2010 the guild Ensidia killed the 25-man Lich King on the day the fight went l",
-   "views": 1922,
+   "views": 1923,
    "likes": 14,
    "comments": 3,
    "shares": 4,
    "saves": 1,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 36563,
+   "avg_watch_ms": 36582,
    "engagement_rate": 1.14
   },
   {
@@ -750,14 +798,14 @@
    "series": "Zelda",
    "published": "2026-11-16",
    "hook": "In 1997 Miyamoto said Ocarina of Time could get an expansion disk on the 64DD. The add-on ",
-   "views": 1199,
+   "views": 1200,
    "likes": 10,
    "comments": 1,
    "shares": 0,
    "saves": 3,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 17979,
+   "avg_watch_ms": 17963,
    "engagement_rate": 1.17
   },
   {
@@ -1150,7 +1198,7 @@
    "series": "Fire Emblem",
    "published": "2026-11-09",
    "hook": "In September 1999, three years after the N64 launched, Nintendo put out a new Super Famico",
-   "views": 1186,
+   "views": 1187,
    "likes": 9,
    "comments": 0,
    "shares": 0,
@@ -1694,15 +1742,15 @@
    "series": "Other",
    "published": "2026-10-30",
    "hook": "The first Grand Theft Auto began as a cops and robbers game called Race 'n' Chase, and pub",
-   "views": 141,
+   "views": 142,
    "likes": 3,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0435,
-   "avg_watch_ms": 6740,
-   "engagement_rate": 2.27
+   "completion": 0.0433,
+   "avg_watch_ms": 6720,
+   "engagement_rate": 2.26
   },
   {
    "post_id": "6ae50902604760eba927faaa",
@@ -1726,15 +1774,15 @@
    "series": "WoW",
    "published": "2026-10-30",
    "hook": "In October 2008 Blizzard turned Stormwind into a zombie outbreak on purpose, then pulled t",
-   "views": 991,
-   "likes": 13,
+   "views": 997,
+   "likes": 14,
    "comments": 0,
    "shares": 2,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0804,
-   "avg_watch_ms": 23900,
-   "engagement_rate": 1.62
+   "completion": 0.0803,
+   "avg_watch_ms": 23890,
+   "engagement_rate": 1.72
   },
   {
    "post_id": "6ae4b4498b41d88745c9c16c",
@@ -2398,7 +2446,7 @@
    "series": "Final Fantasy",
    "published": "2026-10-23",
    "hook": "Square spent 137 million dollars on The Spirits Within in 2001 and it made back about 85 m",
-   "views": 486,
+   "views": 487,
    "likes": 17,
    "comments": 4,
    "shares": 0,
@@ -2430,7 +2478,7 @@
    "series": "OSRS",
    "published": "2026-10-23",
    "hook": "The Duel Arena opened in 2004, got capped at 10 million coins a stake in November 2021, an",
-   "views": 298,
+   "views": 299,
    "likes": 3,
    "comments": 1,
    "shares": 1,
@@ -2468,8 +2516,8 @@
    "shares": 22,
    "saves": 7,
    "follows": 0,
-   "completion": 0.0653,
-   "avg_watch_ms": 27640,
+   "completion": 0.0652,
+   "avg_watch_ms": 27630,
    "engagement_rate": 3.16
   },
   {
@@ -2692,9 +2740,9 @@
    "shares": 0,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0194,
-   "avg_watch_ms": 13890,
-   "engagement_rate": 3.9
+   "completion": 0.0193,
+   "avg_watch_ms": 13870,
+   "engagement_rate": 3.89
   },
   {
    "post_id": "6ad7e0597da23a6a32468e3e",
@@ -2718,14 +2766,14 @@
    "series": "Zelda",
    "published": "2026-10-20",
    "hook": "Breath of the Wild's first prototype looked like the 1986 NES Zelda. Nintendo built it jus",
-   "views": 1440,
+   "views": 1441,
    "likes": 27,
    "comments": 0,
    "shares": 2,
    "saves": 7,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 33529,
+   "avg_watch_ms": 33503,
    "engagement_rate": 2.5
   },
   {
@@ -2750,15 +2798,15 @@
    "series": "Other",
    "published": "2026-10-20",
    "hook": "",
-   "views": 31,
-   "likes": 0,
+   "views": 32,
+   "likes": 1,
    "comments": 0,
    "shares": 0,
    "saves": 0,
    "follows": 0,
    "completion": 0,
-   "avg_watch_ms": 4940,
-   "engagement_rate": 0
+   "avg_watch_ms": 4860,
+   "engagement_rate": 3.45
   },
   {
    "post_id": "6ad6ba846e82c08c3e2a66a7",
@@ -3060,9 +3108,9 @@
    "shares": 0,
    "saves": 0,
    "follows": 0,
-   "completion": 0.0417,
-   "avg_watch_ms": 8230,
-   "engagement_rate": 4.23
+   "completion": 0.0415,
+   "avg_watch_ms": 8220,
+   "engagement_rate": 4.21
   },
   {
    "post_id": "6ad6114dc15addba9ff16086",
